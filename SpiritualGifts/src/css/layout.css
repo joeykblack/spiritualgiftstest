@@ -1,0 +1,48 @@
+body.main {
+	background-color:#efefef; 
+	margin:0px; 
+	padding:0px; 
+	font-family:calibri; 
+	font-size:12pt; 
+	text-align:center;
+}
+
+div.main {
+	width:696px; 
+	margin:auto; 
+	border-style:solid; 
+	border-width:1px; 
+	border-color:#00516e; 
+	margin-top:10px; 
+	margin-bottom:10px; 
+	padding:10px; 
+	background-color:#ffffff; 
+	text-align:left;
+}
+
+@page { margin-right: 1in; margin-top: 1in; margin-bottom: 0.5in }
+P { margin-bottom: 0.08in; direction: ltr; color: #000000; line-height: 115%; widows: 2; orphans: 2 }
+P.western { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: en-US }
+P.cjk { font-family: "Calibri", sans-serif; font-size: 11pt }
+P.ctl { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: ar-SA }
+A:link { color: #0000ff }
+		
+table.western { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: en-US; width:100%; }
+
+
+
+body.pdf {
+	align:center;
+	width:210mm;
+	margin:auto; 
+	text-align:left;
+	margin-top:10px; 
+	margin-bottom:10px; 
+}
+
+div.loginout {
+	text-align:right;
+	font-size:80%;
+	padding-right:5%;
+}
+

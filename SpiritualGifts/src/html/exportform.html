@@ -1,0 +1,51 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<script type="/text/javascript" src="js/xstl.js"></script>
+	<title>Spiritual Gifts Admin</title>
+	<SCRIPT LANGUAGE="Javascript">
+	<!---
+	function decision(message, url){
+	if(confirm(message)) location.href = url;
+	}
+	// --->
+	</SCRIPT>
+
+</head>
+
+<body class='main'>
+<div class='main'>
+{{loginout|safe}}
+
+{{banner|safe}}
+
+<p align="center">
+<a href="/admin">Admin</a> | <a href="/norms">Norms</a>
+</p>
+
+
+<h2 align='center'>Spiritual Gifts Export</h2>
+
+
+<form action='/export' method='post'>
+<p>
+	<input type='hidden' name='table' value='GiftsUser' />
+	<input type='submit' value='GiftsUser' />
+</p>
+</form>
+
+<form action='/export' method='post'>
+<p>
+	<input type='hidden' name='table' value='Resultset' />
+	<input type='submit' value='Resultset' />
+</p>
+</form>
+
+
+
+</div>
+</body>

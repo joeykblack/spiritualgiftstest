@@ -1,0 +1,57 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<script type="text/javascript" src="/js/xstl.js"></script>
+	<title>Spiritual Gifts User Details</title>
+
+</head>
+
+<body class='main'>
+<div class='main'>
+{{loginout|safe}}
+
+{{banner|safe}}
+<h2 align='center'>Spiritual Gifts User Details</h2>
+
+<p>
+Name: {{giftsuser.firstname}} {{giftsuser.lastname}}<br />
+Email: {{giftsuser.email}}<br />
+{% if giftsuser.gender %}
+	Gender: {{giftsuser.gender}}<br />
+{% endif %}
+{% if giftsuser.age %}
+	Age: {{giftsuser.age}}<br />
+{% endif %}
+{% if giftsuser.interest %}
+	Interest: {{giftsuser.interest}}<br />
+{% endif %}
+{% if giftsuser.state %}
+	State: {{giftsuser.state}}<br />
+{% endif %}
+{% if giftsuser.country %}
+	Country: {{giftsuser.country}}<br />
+{% endif %}
+</p>
+
+{% if giftsuser.resultsets %}
+<p>
+Test results by date:
+<ul>
+	{% for results in giftsuser.resultsets %}
+		<li>
+			<a href='{{results.url}}'>{{results.date}}</a>
+		</li>
+	{% endfor %}
+</ul>
+</p>
+{% endif %}
+
+</div>
+</body>
+
+
+

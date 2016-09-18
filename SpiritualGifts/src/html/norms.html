@@ -1,0 +1,71 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<script type="/text/javascript" src="js/xstl.js"></script>
+	<title>Spiritual Gifts Admin</title>
+	<SCRIPT LANGUAGE="Javascript">
+	<!---
+	function decision(message, url){
+	if(confirm(message)) location.href = url;
+	}
+	// --->
+	</SCRIPT>
+
+</head>
+
+<body class='main'>
+<div class='main'>
+{{loginout|safe}}
+
+{{banner|safe}}
+
+<p align="center">
+<a href="/admin">Admin</a> | <a href="/norms">Norms</a>
+</p>
+
+
+<h2 align='center'>Norms</h2>
+
+<table border="1" cellpadding="3" align="left">
+
+	<tr>
+	<th>Name</th>
+	<th>-1&sigma;</th>
+	<th>Average</th>
+	<th>+1&sigma;</th>
+	<th>&sigma;</th>
+	<th>Graph</th>
+	</tr>
+	
+	{% for norm in norms %}
+		<tr>
+			<td>{{norm.title}}</td>
+			<td>{{norm.low|floatformat:3}}</td>
+			<td>{{norm.average|floatformat:3}}</td>
+			<td>{{norm.high|floatformat:3}}</td>
+			<td>{{norm.sdev|floatformat:3}}</td>
+			<td><img src="{{norm.graphurl}}" /></td>
+		</tr>
+	{% endfor %}
+
+</table>
+
+<p>
+The range -1&sigma; to +1&sigma; contains about 68% of the population.<br />
+The range -2&sigma; to +2&sigma; contains about 95% of the population.<br />
+The range -3&sigma; to +3&sigma; contains about 99% of the population.
+</p>
+
+<p>
+	<form action='/norms' method='post'>
+		<input type='submit' value='Recalculate' /> - This will recalculate <b>all</b> norms. Use this if you have deleted results. New results are added in automatically.
+	</form>
+</p>
+
+</div>
+</body>
+</html>

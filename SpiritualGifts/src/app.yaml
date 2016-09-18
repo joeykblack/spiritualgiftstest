@@ -1,0 +1,52 @@
+application: testspiritualgifts-hrd
+#application: spiritualgiftstest-hrd
+version: 3
+runtime: python27
+api_version: 1
+threadsafe: false
+
+handlers:
+- url: /css
+  static_dir: css
+- url: /js
+  static_dir: js
+- url: /img
+  static_dir: img
+- url: /xml
+  static_dir: xml
+- url: /xsl
+  static_dir: xsl
+- url: /zip
+  static_dir: zip
+- url: /favicon.ico
+  static_files: img/favicon.ico
+  upload: img/favicon.ico
+  
+- url: /help-en
+  static_files: html/help-en.html
+  upload: html/help-en.html
+- url: /help-lg
+  static_files: html/help-lg.html
+  upload: html/help-lg.html 
+  
+- url: /admin
+  script: Main.app
+  login: admin
+- url: /norms
+  script: Main.app
+  login: admin
+- url: /userdetails
+  script: Main.app
+  login: admin
+- url: /export
+  script: Main.app
+  login: admin
+- url: /modresults
+  script: Main.app
+  login: admin
+- url: /test/.*
+  script: Main.app
+  login: admin
+  
+- url: /.*
+  script: Main.app

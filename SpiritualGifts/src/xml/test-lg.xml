@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<test>
+
+	<title>OKUVUMBULA EKIRABO KYO</title>
+	
+	<!-- ==================== -->
+	<!-- Displaying_Gods_love -->
+	
+	<!-- Encouraging -->
+	
+	<question num="1" category="Displaying_Gods_love" gifting="Encouraging">
+		Kinsanyusa okuzzaamu amaanyi n'okuwanirira abalala mu ntambula yaabwe  ey'omwoyo.
+	</question>
+	
+	<question num="2" category="Displaying_Gods_love" gifting="Encouraging">
+		Mpulira ng'abantu bangi tebaba na ssuubi nga basanze okusoomoozebwa mu bulamu.
+	</question>
+	
+	<question num="3" category="Displaying_Gods_love" gifting="Encouraging">
+		Nnyaniriza omukisa gwonna ogw'okugabana n'abalala ebyo bye mpiseemu n'okubazzaamu amaanyi.
+	</question>
+	
+	<question num="4" category="Displaying_Gods_love" gifting="Encouraging">
+		Nkizudde nga nsobola okusoomooza abalala awatali kubaleetera kwesalira musango.
+	</question>
+	
+	<question num="5" category="Displaying_Gods_love" gifting="Encouraging">
+		"Mpulira bulungi" bye bigambo ebitera okuva bantu bempa amagezi.
+	</question>
+	
+	
+	<!-- Giving -->
+	
+	<question num="1" category="Displaying_Gods_love" gifting="Giving">
+		Mpulira nga ennyingiza yange kikozesebwa mu kusisinkana ebyetaago by'abantu abalala.
+	</question>
+	
+	<question num="2" category="Displaying_Gods_love" gifting="Giving">
+		Kimatiza nnyo okuyimirira n'ekkanisa mu kyetaago ky'obuweereza kyonna mu kifo ky'okugulayo ekintu ekiggya.
+	</question>
+	
+	<question num="3" category="Displaying_Gods_love" gifting="Giving">
+		Okweyisa obulungi kinsobozesa okuyambako abalala mu byetaago byabwe mu kyama.
+	</question>
+	
+	<question num="4" category="Displaying_Gods_love" gifting="Giving">
+		Mazima mbaddenga mpulira ebirowoozo mu nze ebigamba nti "Kya mukisa okugaba okusinga okuweebwa."
+	</question>
+	
+	<question num="5" category="Displaying_Gods_love" gifting="Giving">
+		Mbadde nzitoowererwa nnyo mu nze era ne ndyoka nnyanukula nga nnyamba abalala mu by'ensimbi.
+	</question>
+	
+	
+	<!-- Hospitality -->
+	
+	<question num="1" category="Displaying_Gods_love" gifting="Hospitality">
+		Nsanyukira okufuula amaka gange "ekkungaaniro" eri abalala.
+	</question>
+	
+	<question num="2" category="Displaying_Gods_love" gifting="Hospitality">
+		Okusanyusa abalala kimpa okumatizibwa munda mu nze.
+	</question>
+	
+	<question num="3" category="Displaying_Gods_love" gifting="Hospitality">
+		Bangi abakyalako ewange bawulira okusanyusibwa era batera okulwawo okumalayo akaseera.
+	</question>
+	
+	<question num="4" category="Displaying_Gods_love" gifting="Hospitality">
+		Sitera kuwulira "kwagala kwa kwegatta?" bwemba n'omuntu asuze ewange.
+	</question>
+	
+	<question num="5" category="Displaying_Gods_love" gifting="Hospitality">
+		Okweteekerateekera okukyala kw'abalala mu maka gange kinsanyusa era kimpa okujaguza mu nze.
+	</question>
+	
+	
+	<!-- Serving-Helps -->
+	
+	<question num="1" category="Displaying_Gods_love" gifting="Serving-Helps">
+		Nze ndaba ng'ebikolwa by'okuyamba bisasula nnyo okusinga okwogera era/oba okuyigiriza.
+	</question>
+	
+	<question num="2" category="Displaying_Gods_love" gifting="Serving-Helps">
+		Ani afuna ekitiibwa si y'ensonga kasita kiba nti ebyetaago by'abalala bisisinkaniddwa.
+	</question>
+	
+	<question num="3" category="Displaying_Gods_love" gifting="Serving-Helps">
+		Essanyu nsinga kulisanga mu kutuukiriza emirimo awatali kweraga eri abalala.
+	</question>
+	
+	<question num="4" category="Displaying_Gods_love" gifting="Serving-Helps">
+		Okusanyusa abalala kisingira ekirabo ekirala kyonna.
+	</question>
+	
+	<question num="5" category="Displaying_Gods_love" gifting="Serving-Helps">
+		Nfuna essanyu lingi nnyo mu kukola emirimo emitonotono mu by'emikono egisobola okuyamba abantu.
+	</question>
+	
+	
+	<!-- Showing Mercy -->
+	
+	<question num="1" category="Displaying_Gods_love" gifting="Showing_Mercy">
+		Nagambibwa nti oluusi ntera okuyamba abo "abayiikirizibwa."
+	</question>
+	
+	<question num="2" category="Displaying_Gods_love" gifting="Showing_Mercy">
+		Olutalo luli mu kusigala ng'ofugibwa endowooza yo so si kusonyiwa balala.
+	</question>
+	
+	<question num="3" category="Displaying_Gods_love" gifting="Showing_Mercy">
+		Nnina ekisa kingi eri abo abanyoleddwa oba abali mu buyinike.
+	</question>
+	
+	<question num="4" category="Displaying_Gods_love" gifting="Showing_Mercy">
+		Nfuna essanyu lingi mu kubeera nga nsobola okusanyusa abo abayita mu kiseera ekizibu.
+	</question>
+	
+	<question num="5" category="Displaying_Gods_love" gifting="Showing_Mercy">
+		Nneesanze ng'oluusi ndaba obulumi mu bulamu bw'abalala ne bwe baba nga tebabulaze.
+	</question>
+	
+	
+	<!-- ======================== -->
+	<!-- Communicating God's mind -->
+	
+	<!-- Evangelism -->
+	
+	<question num="1" category="Communicating_Gods_mind" gifting="Evangelism">
+		Abalala bagamba nti ndaga enkola ennungi era esaanye eri obulokozi.
+	</question>
+	
+	<question num="2" category="Communicating_Gods_mind" gifting="Evangelism">
+		Mpulira emirembe mu kugabana okukkiriza kwange n'abatakkiriza.
+	</question>
+	
+	<question num="3" category="Communicating_Gods_mind" gifting="Evangelism">
+		Nnina omugugu ogw'amaanyi eri abo abatalina mirembe gya bulokozi.
+	</question>
+	
+	<question num="4" category="Communicating_Gods_mind" gifting="Evangelism">
+		Nkwatibwako nnyo obutabeerako musaayi gwa muntu yenna singa sigabana kukkiriza kwange n'abalala.
+	</question>
+	
+	<question num="5" category="Communicating_Gods_mind" gifting="Evangelism">
+		Nzijula  essanyu bwemba nga ngabana enjiri eri abantu abangi.
+	</question>
+	
+	
+	<!-- Knowledge -->
+	
+	<question num="1" category="Communicating_Gods_mind" gifting="Knowledge">
+		Katonda anzijukiza ebyawandiikibwa oba ebyo bye mpiseemu singa nsanga okuzitoowererwa mu kusalazo.
+	</question>
+	
+	<question num="2" category="Communicating_Gods_mind" gifting="Knowledge">
+		Nfuna essanyu lingi nnyo, emirembe n'okubikkulirwa nga snoma ebyawandiikibwa.
+	</question>
+	
+	<question num="3" category="Communicating_Gods_mind" gifting="Knowledge">
+		Nnyumirwa okugenda ebuziba mu byawandiikibwa, ebyafaayo n'ensonga ez'abantu.
+	</question>
+	
+	<question num="4" category="Communicating_Gods_mind" gifting="Knowledge">
+		Nayagalanga nnyo okufuna obubaka era nga ntera okukola obulungi ennyo.
+	</question>
+	
+	<question num="5" category="Communicating_Gods_mind" gifting="Knowledge">
+		Okusoomooza ebyawandiikibwa kindeetera okugendako ebuziba okutuusa nga nfunye eky'okuddamu.
+	</question>
+	
+	
+	<!-- Prophecy -->
+	
+	<question num="1" category="Communicating_Gods_mind" gifting="Prophecy">
+		Katonda bw'ampa okumanya okw'ebuziba ku kintu mpulira okuwalirizibwa okukugabana n'abalala mu buli ngeri.
+	</question>
+	
+	<question num="2" category="Communicating_Gods_mind" gifting="Prophecy">
+		Mu kwogera amazima ga Katonda siriiko kye nkyusa n'akatono ku bulamu bwange oba obw'abalala.
+	</question>
+	
+	<question num="3" category="Communicating_Gods_mind" gifting="Prophecy">
+		Emirundi egisoba mu gumu nnalina okwogera amazima ga Katonda.
+	</question>
+	
+	<question num="4" category="Communicating_Gods_mind" gifting="Prophecy">
+		Njagala okubuulira amazima ga Katonda agaayita, aga kaakano n'ago agomu biro eby'omu maaso.
+	</question>
+	
+	<question num="5" category="Communicating_Gods_mind" gifting="Prophecy">
+		Mu biro ebyayita ebigambo byange byaleetanga okulumirizibwa olw'ekibi eri abalala.
+	</question>
+	
+	
+	<!-- Teaching -->
+	
+	<question num="1" category="Communicating_Gods_mind" gifting="Teaching">
+		Mpalirizibwa okugabana ekyo kye njize mu byawandiikibwa ne mu kusoma.
+	</question>
+	
+	<question num="2" category="Communicating_Gods_mind" gifting="Teaching">
+		Okuyigiriza kwange kuwa abantu okumanya okw'ebuziba mu Baibuli n'okuyambibwa.
+	</question>
+	
+	<question num="3" category="Communicating_Gods_mind" gifting="Teaching">
+		Nsobodde okumanya eby'okulabirako mu mwoyo n'okubibuulira abalala.
+	</question>
+	
+	<question num="4" category="Communicating_Gods_mind" gifting="Teaching">
+		Kimpa nnyo omukisa okuyamba abalala okutegeera amazima ga Katonda.
+	</question>
+	
+	<question num="5" category="Communicating_Gods_mind" gifting="Teaching">
+		Ntera okusabibwa okunnyonnyola ennono z'ebyawandiikibwa n'emigaso gyazo.
+	</question>
+	
+	
+	<!-- Wisdom -->
+	
+	<question num="1" category="Communicating_Gods_mind" gifting="Wisdom">
+		Ntera okwebuuzibwako abalala nga balwanagana n'okusalawo okuzibu.
+	</question>
+	
+	<question num="2" category="Communicating_Gods_mind" gifting="Wisdom">
+		Katonda ankozesa okuleetawo obutebenkenvu awali okuyoogaana oba obutasalawo.
+	</question>
+	
+	<question num="3" category="Communicating_Gods_mind" gifting="Wisdom">
+		Amagezi ga Katonda gannyambye okuyamba abalala mu lugendo lwabwe olw'omwoyo.
+	</question>
+	
+	<question num="4" category="Communicating_Gods_mind" gifting="Wisdom">
+		Katonda atera okumpa okumanya n'eby'okuddamu eri ensonga enzibu ennyo.
+	</question>
+	
+	<question num="5" category="Communicating_Gods_mind" gifting="Wisdom">
+		Abakkiriza abakuze mu mwoyo babadde bansaba ebirowoozo byange ku nsonga z'obulamu ezisoomooza.
+	</question>
+
+
+
+	<!-- ============================== -->
+	<!-- Managing with God's principles -->
+
+
+	<!-- Administration -->
+	<question num="1" category="Managing_with_Gods_principles" gifting="Administration">
+		Abantu abalala batera okunnoonya olw'okukwanaganya obuweereza, okukola entegeka n'okulungamya.
+	</question>
+	<question num="2" category="Managing_with_Gods_principles" gifting="Administration">	
+		Nnina obusobozi bw'okubeera mu kifo ekituufu n'okuyambako obuweereza okufuna ebibala ebirungi.
+	</question>
+	<question num="3" category="Managing_with_Gods_principles" gifting="Administration">	
+		Okuteekateeka n'okukulaakulana kw'obuweereza bimpa okumatizibwa okw'amaanyi mu nze.
+	</question>
+	<question num="4" category="Managing_with_Gods_principles" gifting="Administration">	
+		Sirina buzibu mu kukwasa omuntu obuvunaanyizibwa ku ebyo ebyetaaga okukolebwa olw'obuwanguzi bw'obuweereza.
+	</question>
+	<question num="5" category="Managing_with_Gods_principles" gifting="Administration">	
+		Nsanyukira okukola emirimo egy'amazima era nga gituukirizibwa mu biro ebituufu.
+	</question>
+
+	<!-- Apostles -->
+	<question num="1" category="Managing_with_Gods_principles" gifting="Apostles">
+		Nzikiriza nga tewali nsalo mu mubiri oba mu birowoozo eziyinza okunziyiza okubeera mu kifo kyange mu bwakabaka.
+	</question>
+	<question num="2" category="Managing_with_Gods_principles" gifting="Apostles">
+		Mpitiddwa okuweereza eri ebitundu eby'enjawulo, amawanga n'obuwangwa.
+	</question>
+	<question num="3" category="Managing_with_Gods_principles" gifting="Apostles">
+		Nnina okuyaayaana okw'amaanyi okw'okutwala enjiri eri eyo yonna gy'etawulirwangako.
+	</question>
+	<question num="4" category="Managing_with_Gods_principles" gifting="Apostles">
+		Katonda antendeka okuzzaamu amaanyi n'okubangula abakulembeze ab'omwoyo abangi.
+	</question>
+	<question num="5" category="Managing_with_Gods_principles" gifting="Apostles">
+		Okutandika, okutendeka n'okuyimusa abakulembeze ab'omwoyo tekintiisa.
+	</question>
+
+	<!-- Faith -->
+	<question num="1" category="Managing_with_Gods_principles" gifting="Faith">
+		Sseebuuza bulokozi bwange oba omukono gwa Katonda ku bulamu bwange.
+	</question>
+	<question num="2" category="Managing_with_Gods_principles" gifting="Faith">
+		Katonda tangiwangako, era eyo y'ensonga lwaki simwebuuza kaakano.
+	</question>
+	<question num="3" category="Managing_with_Gods_principles" gifting="Faith">
+		Nyanguyirwa nnyo okukkiriza nti Katonda ky'ayogera kiba nya mazima era kyesigika.
+	</question>
+	<question num="4" category="Managing_with_Gods_principles" gifting="Faith">
+		Okulumirizibwa kwange nkulabye nga kulungamya wamu n'okuwa abalala essuubi.
+	</question>
+	<question num="5" category="Managing_with_Gods_principles" gifting="Faith">
+		Kristo yekka y'alina ebigambo by'obulamu obutaggwaawo, n'olw'ekyo tewali kifo kirala eky'okuddukiramu.
+	</question>
+
+	<!-- Leadership/Oversight -->
+	<question num="1" category="Managing_with_Gods_principles" gifting="Leadership-Oversight">
+		Nsanga essanyu lingi mu buweereza era mpulira nga mpitiddwa okubeera ku mwanjo mu buweereza.
+	</question>
+	<question num="2" category="Managing_with_Gods_principles" gifting="Leadership-Oversight">
+		Katonda  ampadde okuganja era awalulidde bangi gyendi olw'okubawa okulungamizibwa mu mwoyo.
+	</question>
+	<question num="3" category="Managing_with_Gods_principles" gifting="Leadership-Oversight">
+		Mpulira okuweebwa omukisa wamu n'obusobozi bw'okumanyisa abalala okwolesebwa nabo balyoke bagoberere.
+	</question>
+	<question num="4" category="Managing_with_Gods_principles" gifting="Leadership-Oversight">
+		Ntunuulirwa ng'omuntu ow'obuyinza eri abalala abanoonya engeri y'okuweerezaamu Katonda.
+	</question>
+	<question num="5" category="Managing_with_Gods_principles" gifting="Leadership-Oversight">
+		Nfuna essanyu mu kulungamya, okukulembera n'okuzzaamu abalala amaanyi olw'okuweereza Katonda.
+	</question>
+
+	<!-- Pastors -->
+	<question num="1" category="Managing_with_Gods_principles" gifting="Pastors">
+		Nsanga essanyu lingi nnyo mu kuweereza eri abantu be bamu okumala ekiseera ekiwanvu.
+	</question>
+	<question num="2" category="Managing_with_Gods_principles" gifting="Pastors">
+		Nfuna nnyo emikwano n'abantu olw'obusobozi bwange mu kulera abalala n'okubakuza.
+	</question>
+	<question num="3" category="Managing_with_Gods_principles" gifting="Pastors">
+		Mpulira okumatizibwa okw'amaanyi mu kuyamba abo abanafu okufuna amaanyi.
+	</question>
+	<question num="4" category="Managing_with_Gods_principles" gifting="Pastors">
+		Mpulira nga nvunaanyizibwa okuyamba oba okulungamya abo abandi okumpi era nga beetaaga okulungamya.
+	</question>
+	<question num="5" category="Managing_with_Gods_principles" gifting="Pastors">
+		Katonda afaanana okuba ng'awa abantu abalala ebigambo bye baagala okuwulira bwemba nga njogera.
+	</question>
+
+
+
+
+
+
+
+	<!-- ========================== -->
+	<!-- Displaying God's Authority -->
+
+
+ 	<!-- Distinguishing_of_Spirits -->
+	<question num="1" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
+		Sitera kufuna buzibu mu kulaba omuntu agezaako okweyimirizaawo ng'awangula okubeera ekyo ky'atali.
+	</question>
+	<question num="2" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
+		Nfuba nnyo okumanya ebigendererwa ebiri emabega w'ebigambo by'omuntu omulala.
+	</question>
+	<question num="3" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
+		Nategeerako omuntu omulala eyayagala  okukozesebwa omwoyo omubi.
+	</question>
+	<question num="4" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
+		Nsobola okulamula wakati w'amazima n'ensobi eziri mu sitatimenti yonna eyogera ku Katonda.
+	</question>
+	<question num="5" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
+		Katonda ampadde amagezi ag'okumanya emyoyo egikolera mu bantu abalala.
+	</question>
+
+	<!-- Healings -->
+	<question num="1" category="Displaying_Gods_authority" gifting="Healings">
+		Nfuna essanyu lingi nnyo mu kusabira abalwadde mu bubiri, mu birowoozo oba mu mwoyo.
+	</question>
+	<question num="2" category="Displaying_Gods_authority" gifting="Healings">
+		Ndabye Katonda ng'ayanukula okusaba kwange okuyita mu kuwonya omuntu gwe. nsabidde.
+	</question>
+	<question num="3" category="Displaying_Gods_authority" gifting="Healings">
+		Ndabyeko okuwonyezebwa nga kubaawo emirundi egisoba mu gumu nga nze n'abalala tusaba.
+	</question>
+	<question num="4" category="Displaying_Gods_authority" gifting="Healings">
+		Nzikiriza nti Katonda ayamba abantu era ndi mumativu nti okusaba kuleetawo enjawulo.
+	</question>
+	<question num="5" category="Displaying_Gods_authority" gifting="Healings">
+		Bwe nsabira abalala okuwonyezebwa, ntegeera bulungi amaanyi agasukkiridde ku nze.
+	</question>
+
+	<!-- Interpreting_Tongues -->
+	<question num="1" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
+		Olw'ensonga emu oba endala, mmanyi abalala kye bategeeza bwe mpulira ennimi.
+	</question>
+	<question num="2" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
+		Mpulira ng'okutegeera ennimi endala kinnyamba nze okuyamba abalala.
+	</question>
+	<question num="3" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
+		Nsobola okumalawo okuyoogaana okuyita mu kugabana n'abantu amakulu agali mu lulimi olulala.
+	</question>
+	<question num="4" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
+		Nzijukira omulundi ogwasooka gwe nnalowooza nga ddala ntegedde ebyayogerwa mu nnimi.
+	</question>
+	<question num="5" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
+		Nnavvuunulako omuntu ng'ayogera mu nnimi.
+	</question>
+
+	<!-- Miracles -->
+	<question num="1" category="Displaying_Gods_authority" gifting="Miracles">
+		Ndabye ebyamagero bingi nnyo mu bulamu bwange so siyinza kubibuusabuusa.
+	</question>
+	<question num="2" category="Displaying_Gods_authority" gifting="Miracles">
+		Nsobola okujjukira ekintu ekimu oba ebingi ebyali bibaddewo Katonda n'abyenyigiramu.
+	</question>
+	<question num="3" category="Displaying_Gods_authority" gifting="Miracles">
+		Abalala babadde bagamba nti Katonda yankozesa mu ngeri esukkiridde obutonde okukyusa obulamu bwabwe.
+	</question>
+	<question num="4" category="Displaying_Gods_authority" gifting="Miracles">
+		Ndabye Katonda ng'ayingira mu ntambula y'obulamu bw'abantu okusinziira ku kusaba.
+	</question>
+	<question num="5" category="Displaying_Gods_authority" gifting="Miracles">
+		Gyenkoma okwogera n'ensi ey'omwoyo, Katonda gy'akoma okumpa maanyi. 
+	</question>
+
+	<!-- Tongues -->
+	<question num="1" category="Displaying_Gods_authority" gifting="Tongues">
+		Omwoyo Omutukuvu ayogerera mu nze bwemba nga simanyi kya kwogera.
+	</question>
+	<question num="2" category="Displaying_Gods_authority" gifting="Tongues">
+		Omwoyo Omutukuvu bw'ayogera okuyita mu nze, mpulira okubeerawo kwa Katonda mu nze.
+	</question>
+	<question num="3" category="Displaying_Gods_authority" gifting="Tongues">
+		Okwogera mu nnimi endala/ez'enjawulo tekibangawo nga ssinalokoka.
+	</question>
+	<question num="4" category="Displaying_Gods_authority" gifting="Tongues">
+		Mpulira nga nnina olulimi lw'okusabiramu lwe ssitegeera emirundi egimu.
+	</question>
+	<question num="5" category="Displaying_Gods_authority" gifting="Tongues">
+		Waliwo eddembe lye mpulira bwemba nga njogera mu nnimi lye sitera kuba nalyo.
+	</question>
+
+
+
+</test>

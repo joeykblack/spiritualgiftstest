@@ -1,0 +1,117 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<!-- A4 (210 × 297 mm) -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<style type="text/css">
+		@media all
+		{
+		  .page-break  { display:none; }
+		}
+		@media print
+		{
+		  .page-break  { display:block; page-break-before:always; }
+		}
+	</style>
+	
+	<title>Spiritual Gifts Results</title>
+
+</head>
+
+<body class='pdf'>
+
+		{{langselect|safe}}
+
+{% if not pdf %}
+	<form method='post' action='http://pdfmyurl.com?--filename={{fname}}&-O=Portrait&--page-size=A4&&--print-media-type'>
+		<input type='hidden' name='url' value='{{pdfurl}}&pdf=1&lang={{lang}}' />
+		<input type='submit' value='Download as PDF' />
+	</form>
+{% endif %}
+
+
+
+
+<!-- Page 1 -->
+
+{{banner|safe}}
+<h1 align='center'>
+	Spiritual Gifts
+</h1>
+
+<br />
+<br />
+<br />
+
+<p align='center'>
+{{name}}<br />
+{{date}}
+</p>
+
+<br />
+<br />
+<br />
+
+
+<!-- Page 2 -->
+<div class="page-break"></div>
+
+<h3 align='center'>Spiritual Gifts</h3>
+<p>
+	<img alt="Gifts" src="{{giftsChartUrl}}" />
+</p>
+<br />
+<br />
+<br />
+
+
+<!-- Page 3 -->
+<div class="page-break"></div>
+
+<h3 align='center'>Spiritual Gifts Categories</h3>
+<p>
+	<img alt="Categories" src="{{categoriesChartUrl}}">
+</p>
+
+{% for cat in categories %}
+	<p>
+		{{cat.title}} - {{cat.text}}
+	</p>
+{% endfor %}
+<br />
+<br />
+<br />
+
+
+<!-- Page 4-7 -->
+
+{% for cat in categories %}	
+	<div class="page-break"></div>
+	
+	<h1 align='center'>
+		{{cat.titlepre}} {{cat.title}}
+	</h1>
+	<p>
+		{{cat.text}}
+	</p>
+	
+	{% for gift in cat.gifts %}
+		<p>
+			<b>{{gift.title}}</b> {{gift.definition}}
+			<br />
+			<img alt="Gifting" src="{{gift.url}}">
+		</p>
+	{% endfor %}
+	<br />
+	<br />
+	<br />
+	
+
+{% endfor %}
+
+
+
+</body>

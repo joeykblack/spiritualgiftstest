@@ -1,0 +1,37 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<script type="text/javascript">lang = '{{lang}}'</script>
+	<script type="text/javascript" src="/js/xstl.js"></script>
+	<title>Spiritual Gifts Test</title>
+
+</head>
+
+
+<body class="main" onload="displayResult(lang)">
+	<div class ="main">
+		{{langselect|safe}}
+		<p style='float:right; margin-right:5px; margin-top:0px; clear:both;'>
+			<a href='/help-en' target='_blank'>Help</a>
+		</p>
+		{{banner|safe}}
+		<h1 align="center">Spiritual Gifts Test</h1>
+		
+		<form action="/results" method="post">
+		
+			{{userinfo|safe}}
+			{{langhidden|safe}}
+			<input type='hidden' name='newresults' value='true' />
+			
+			<div id="test" />
+			
+			
+		</form>
+	</div>
+</body>
+
+</html>

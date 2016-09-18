@@ -1,0 +1,57 @@
+<!-- @author Joey Black -->
+<!-- @email joeykblack@gmail.com -->
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
+	<script type="/text/javascript" src="js/xstl.js"></script>
+	<title>Spiritual Gifts Admin</title>
+	<SCRIPT LANGUAGE="Javascript">
+	<!---
+	function decision(message, url){
+	if(confirm(message)) location.href = url;
+	}
+	// --->
+	</SCRIPT>
+
+</head>
+
+<body class='main'>
+<div class='main'>
+{{loginout|safe}}
+
+{{banner|safe}}
+
+<p align="center">
+<a href="/admin">Admin</a> | <a href="/norms">Norms</a>
+</p>
+
+
+<h2 align='center'>Spiritual Gifts Users</h2>
+
+<form action='/admin' method='post'>
+<p>
+	First name: <input type='text' name='firstname' /><br />
+	Last name: <input type='text' name='lastname' /><br />
+	Email: <input type='text' name='email' /><br />
+	<input type='submit' value='Search' />
+</p>
+</form>
+
+{% if giftsusers %}
+<p>
+	<ul>
+		{% for user in giftsusers %}
+			<li>
+				<a href='/userdetails?userkey={{user.key}}'>{{user.firstname}} {{user.lastname}} ({{user.email}})</a> 
+				- <a href="javascript:decision('Are you sure you want to delete this user?','/retake?userkey={{user.key}}')">Delete</a>
+				
+			</li>
+		{% endfor %}
+	</ul>
+</p>
+{% endif %}
+
+</div>
+</body>
