@@ -2,6 +2,9 @@ dirrections_page_title = Directions
 dirrections_title = Your Gifting Index
 
 
+spiritual_gifts = Spiritual Gifts
+
+
 Encouraging_Displaying_Gods_love_Question_1 = I find it gratifying to motivate and support others in their spiritual walk.
 Encouraging_Displaying_Gods_love_Question_2 = I feel many people are not very optimistic as they face life's challenges.
 Encouraging_Displaying_Gods_love_Question_3 = I welcome opportunities to share my experiences and encourage others.

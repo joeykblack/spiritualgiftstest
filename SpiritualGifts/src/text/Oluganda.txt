@@ -1,4 +1,5 @@
 
+spiritual_gifts = OKUVUMBULA EKIRABO KYO
 
 
 Encouraging_Displaying_Gods_love_Question_1 = Kinsanyusa okuzzaamu amaanyi n'okuwanirira abalala mu ntambula yaabwe  ey'omwoyo.

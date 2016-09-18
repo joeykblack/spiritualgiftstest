@@ -1,241 +1,241 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <test>
 
-	<title>Spiritual Gifts</title>
-	
+	<title>$spiritual_gifts</title>
+
 	<!-- ==================== -->
 	<!-- Displaying_Gods_love -->
-	
+
 	<!-- Encouraging -->
-	
+
 	<question num="1" category="Displaying_Gods_love" gifting="Encouraging">
-		I find it gratifying to motivate and support others in their spiritual walk.
+		$Encouraging_Displaying_Gods_love_Question_1
 	</question>
-	
+
 	<question num="2" category="Displaying_Gods_love" gifting="Encouraging">
-		I feel many people are not very optimistic as they face life's challenges.
+		$Encouraging_Displaying_Gods_love_Question_2
 	</question>
-	
+
 	<question num="3" category="Displaying_Gods_love" gifting="Encouraging">
-		I welcome opportunities to share my experiences and encourage others.
+		$Encouraging_Displaying_Gods_love_Question_3
 	</question>
-	
+
 	<question num="4" category="Displaying_Gods_love" gifting="Encouraging">
-		I've discovered I can challenge others without them feeling condemned.
+		$Encouraging_Displaying_Gods_love_Question_4
 	</question>
-	
+
 	<question num="5" category="Displaying_Gods_love" gifting="Encouraging">
-		"I feel better" has often been the response from those I counseled.
+		$Encouraging_Displaying_Gods_love_Question_5
 	</question>
-	
-	
+
+
 	<!-- Giving -->
-	
+
 	<question num="1" category="Displaying_Gods_love" gifting="Giving">
-		I feel that what I earn is a tool to insure other's needs are met.
+		$Giving_Displaying_Gods_love_Question_1
 	</question>
-	
+
 	<question num="2" category="Displaying_Gods_love" gifting="Giving">
-		It is more satisfying to support a ministry need than buying something new.
+		$Giving_Displaying_Gods_love_Question_2
 	</question>
-	
+
 	<question num="3" category="Displaying_Gods_love" gifting="Giving">
-		A modest lifestyle allows me to quietly contribute more to other's needs.
+		$Giving_Displaying_Gods_love_Question_3
 	</question>
-	
+
 	<question num="4" category="Displaying_Gods_love" gifting="Giving">
-		I've honestly felt the emotions behind "it is better to give than receive."
+		$Giving_Displaying_Gods_love_Question_4
 	</question>
-	
+
 	<question num="5" category="Displaying_Gods_love" gifting="Giving">
-		I've been deeply burdened and responded to help others financially.
+		$Giving_Displaying_Gods_love_Question_5
 	</question>
-	
-	
+
+
 	<!-- Hospitality -->
-	
+
 	<question num="1" category="Displaying_Gods_love" gifting="Hospitality">
-		I enjoy having my home as a "gathering place" for others.
+		$Hospitality_Displaying_Gods_love_Question_1
 	</question>
-	
+
 	<question num="2" category="Displaying_Gods_love" gifting="Hospitality">
-		Entertaining others provides a great sense of satisfaction.
+		$Hospitality_Displaying_Gods_love_Question_2
 	</question>
-	
+
 	<question num="3" category="Displaying_Gods_love" gifting="Hospitality">
-		Many who visit my home seem comfortable and often linger a while.
+		$Hospitality_Displaying_Gods_love_Question_3
 	</question>
-	
+
 	<question num="4" category="Displaying_Gods_love" gifting="Hospitality">
-		I rarely feel "put out" by having someone stay in my home.
+		$Hospitality_Displaying_Gods_love_Question_4
 	</question>
-	
+
 	<question num="5" category="Displaying_Gods_love" gifting="Hospitality">
-		Preparing for other's visit to my home is exciting and exhilarating.
+		$Hospitality_Displaying_Gods_love_Question_5
 	</question>
-	
-	
+
+
 	<!-- Serving-Helps -->
-	
+
 	<question num="1" category="Displaying_Gods_love" gifting="Serving-Helps">
 		I find acts of assistance more rewarding than speaking and/or teaching
 	</question>
-	
+
 	<question num="2" category="Displaying_Gods_love" gifting="Serving-Helps">
 		It really does not matter who gets credit as long as other's needs are met.
 	</question>
-	
+
 	<question num="3" category="Displaying_Gods_love" gifting="Serving-Helps">
 		Joy is most often found in completing tasks without attracting attention.
 	</question>
-	
+
 	<question num="4" category="Displaying_Gods_love" gifting="Serving-Helps">
 		A look of gratitude from another far outweighs any other gift.
 	</question>
-	
+
 	<question num="5" category="Displaying_Gods_love" gifting="Serving-Helps">
 		I find great pleasure in simple, practical tasks that lend a helping hand.
 	</question>
-	
-	
+
+
 	<!-- Showing Mercy -->
-	
+
 	<question num="1" category="Displaying_Gods_love" gifting="Showing_Mercy">
-		I have been told that I tend to support the "underdog."
+		$Showing_Mercy_Displaying_Gods_love_Question_1
 	</question>
-	
+
 	<question num="2" category="Displaying_Gods_love" gifting="Showing_Mercy">
-		It is not forgiving others, but remaining objective that is a struggle.
+		$Showing_Mercy_Displaying_Gods_love_Question_2
 	</question>
-	
+
 	<question num="3" category="Displaying_Gods_love" gifting="Showing_Mercy">
-		I have a great deal of compassion for those hurting or in distress.
+		$Showing_Mercy_Displaying_Gods_love_Question_3
 	</question>
-	
+
 	<question num="4" category="Displaying_Gods_love" gifting="Showing_Mercy">
-		I find great joy in being able to comfort those in times of crisis.
+		$Showing_Mercy_Displaying_Gods_love_Question_4
 	</question>
-	
+
 	<question num="5" category="Displaying_Gods_love" gifting="Showing_Mercy">
-		I've found at times I see pain in others even when they don't express it.
+		$Showing_Mercy_Displaying_Gods_love_Question_5
 	</question>
-	
-	
+
+
 	<!-- ======================== -->
 	<!-- Communicating God's mind -->
-	
+
 	<!-- Evangelism -->
-	
+
 	<question num="1" category="Communicating_Gods_mind" gifting="Evangelism">
-		Others have said I present a clear and concise approach to salvation.
+		$Evangelism_Communicating_Gods_mind_Question_1
 	</question>
-	
+
 	<question num="2" category="Communicating_Gods_mind" gifting="Evangelism">
-		I feel very comfortable sharing my faith with unbelievers.
+		$Evangelism_Communicating_Gods_mind_Question_2
 	</question>
-	
+
 	<question num="3" category="Communicating_Gods_mind" gifting="Evangelism">
-		I have a strong burden for those who do not have the peace of salvation.
+		$Evangelism_Communicating_Gods_mind_Question_3
 	</question>
-	
+
 	<question num="4" category="Communicating_Gods_mind" gifting="Evangelism">
-		I have a nagging concern of having someone's blood on my hands if I don't share my faith.
+		$Evangelism_Communicating_Gods_mind_Question_4
 	</question>
-	
+
 	<question num="5" category="Communicating_Gods_mind" gifting="Evangelism">
-		I am exhilarated when sharing the gospel to many people.
+		$Evangelism_Communicating_Gods_mind_Question_5
 	</question>
-	
-	
+
+
 	<!-- Knowledge -->
-	
+
 	<question num="1" category="Communicating_Gods_mind" gifting="Knowledge">
-		God reminds me of scripture or experiences when facing weighty decisions.
+		$Knowledge_Communicating_Gods_mind_Question_1
 	</question>
-	
+
 	<question num="2" category="Communicating_Gods_mind" gifting="Knowledge">
-		I receive great joy, peace and revelation as I study the scriptures.
+		$Knowledge_Communicating_Gods_mind_Question_2
 	</question>
-	
+
 	<question num="3" category="Communicating_Gods_mind" gifting="Knowledge">
-		Digging into scriptural language, historical and social context is fun.
+		$Knowledge_Communicating_Gods_mind_Question_3
 	</question>
-	
+
 	<question num="4" category="Communicating_Gods_mind" gifting="Knowledge">
-		I loved acquiring information and often made good grades.
+		$Knowledge_Communicating_Gods_mind_Question_4
 	</question>
-	
+
 	<question num="5" category="Communicating_Gods_mind" gifting="Knowledge">
-		Challenging scriptures cause me to dig until I find an answer.
+		$Knowledge_Communicating_Gods_mind_Question_5
 	</question>
-	
-	
+
+
 	<!-- Prophecy -->
-	
+
 	<question num="1" category="Communicating_Gods_mind" gifting="Prophecy">
-		When God gives me insight I feel compelled to share it, regardless.
+		$Prophecy_Communicating_Gods_mind_Question_1
 	</question>
-	
+
 	<question num="2" category="Communicating_Gods_mind" gifting="Prophecy">
-		By speaking God's truth I don't shortchange myself or others.
+		$Prophecy_Communicating_Gods_mind_Question_2
 	</question>
-	
+
 	<question num="3" category="Communicating_Gods_mind" gifting="Prophecy">
-		On more than one occasion I had to speak God's truth to others.
+		$Prophecy_Communicating_Gods_mind_Question_3
 	</question>
-	
+
 	<question num="4" category="Communicating_Gods_mind" gifting="Prophecy">
-		I love to proclaim God's truths, past, present and future.
+		$Prophecy_Communicating_Gods_mind_Question_4
 	</question>
-	
+
 	<question num="5" category="Communicating_Gods_mind" gifting="Prophecy">
-		In the past my words have brought conviction of sin to others.
+		$Prophecy_Communicating_Gods_mind_Question_5
 	</question>
-	
-	
+
+
 	<!-- Teaching -->
-	
+
 	<question num="1" category="Communicating_Gods_mind" gifting="Teaching">
-		I am compelled to share what I have learned from scripture and studies.
+		$Teaching_Communicating_Gods_mind_Question_1
 	</question>
-	
+
 	<question num="2" category="Communicating_Gods_mind" gifting="Teaching">
-		My instruction has provided Biblical insight and help to others.
+		$Teaching_Communicating_Gods_mind_Question_2
 	</question>
-	
+
 	<question num="3" category="Communicating_Gods_mind" gifting="Teaching">
-		I have been able to identify spiritual patterns and communicate them.
+		$Teaching_Communicating_Gods_mind_Question_3
 	</question>
-	
+
 	<question num="4" category="Communicating_Gods_mind" gifting="Teaching">
-		It is very rewarding for me to help others understand God's truths.
+		$Teaching_Communicating_Gods_mind_Question_4
 	</question>
-	
+
 	<question num="5" category="Communicating_Gods_mind" gifting="Teaching">
-		I am often asked to explain scriptural principles and their application.
+		$Teaching_Communicating_Gods_mind_Question_5
 	</question>
-	
-	
+
+
 	<!-- Wisdom -->
-	
+
 	<question num="1" category="Communicating_Gods_mind" gifting="Wisdom">
-		I am often consulted when others struggle with difficult decisions.
+		$Wisdom_Communicating_Gods_mind_Question_1
 	</question>
-	
+
 	<question num="2" category="Communicating_Gods_mind" gifting="Wisdom">
-		God uses me to provide clarity when there is confusion or indecision.
+		$Wisdom_Communicating_Gods_mind_Question_2
 	</question>
-	
+
 	<question num="3" category="Communicating_Gods_mind" gifting="Wisdom">
-		God's insight has allowed me to help others in their spiritual journey.
+		$Wisdom_Communicating_Gods_mind_Question_3
 	</question>
-	
+
 	<question num="4" category="Communicating_Gods_mind" gifting="Wisdom">
-		God has often given me insight and answers to complicated issues.
+		$Wisdom_Communicating_Gods_mind_Question_4
 	</question>
-	
+
 	<question num="5" category="Communicating_Gods_mind" gifting="Wisdom">
-		Mature believers have asked my opinions on challenging life issues.
+		$Wisdom_Communicating_Gods_mind_Question_5
 	</question>
 
 
@@ -246,53 +246,53 @@
 
 	<!-- Administration -->
 	<question num="1" category="Managing_with_Gods_principles" gifting="Administration">
-		Others often look to me for ministry coordination, planning and direction.
+		$Administration_Managing_with_Gods_principles_Question_1
 	</question>
-	<question num="2" category="Managing_with_Gods_principles" gifting="Administration">	
-		I have an ability to be strategic and help a ministry achieve good results.
+	<question num="2" category="Managing_with_Gods_principles" gifting="Administration">
+		$Administration_Managing_with_Gods_principles_Question_2
 	</question>
-	<question num="3" category="Managing_with_Gods_principles" gifting="Administration">	
-		Organizing and ministry development give a great sense of satisfaction.
+	<question num="3" category="Managing_with_Gods_principles" gifting="Administration">
+		$Administration_Managing_with_Gods_principles_Question_3
 	</question>
-	<question num="4" category="Managing_with_Gods_principles" gifting="Administration">	
-		I have no problem delegating what needs to be done for ministry success.
+	<question num="4" category="Managing_with_Gods_principles" gifting="Administration">
+		$Administration_Managing_with_Gods_principles_Question_4
 	</question>
-	<question num="5" category="Managing_with_Gods_principles" gifting="Administration">	
-		I enjoy making sure tasks and projects are completed in a timely manner.
+	<question num="5" category="Managing_with_Gods_principles" gifting="Administration">
+		$Administration_Managing_with_Gods_principles_Question_5
 	</question>
 
 	<!-- Apostles -->
 	<question num="1" category="Managing_with_Gods_principles" gifting="Apostles">
-		I believe no physical or mental boundaries can hinder my Kingdom position.
+		$Apostles_Managing_with_Gods_principles_Question_1
 	</question>
 	<question num="2" category="Managing_with_Gods_principles" gifting="Apostles">
-		I have been called to minister to multiple communities, countries and cultures.
+		$Apostles_Managing_with_Gods_principles_Question_2
 	</question>
 	<question num="3" category="Managing_with_Gods_principles" gifting="Apostles">
-		I have a strong desire to take the gospel to where it has never been heard.
+		$Apostles_Managing_with_Gods_principles_Question_3
 	</question>
 	<question num="4" category="Managing_with_Gods_principles" gifting="Apostles">
-		God is shaping me to encourage and equip many spiritual leaders.
+		$Apostles_Managing_with_Gods_principles_Question_4
 	</question>
 	<question num="5" category="Managing_with_Gods_principles" gifting="Apostles">
-		Establishing, training and developing spiritual leaders does not intimidate me.
+		$Apostles_Managing_with_Gods_principles_Question_5
 	</question>
 
 	<!-- Faith -->
 	<question num="1" category="Managing_with_Gods_principles" gifting="Faith">
-		I do not question my salvation or God's hold on my life.
+		$Faith_Managing_with_Gods_principles_Question_1
 	</question>
 	<question num="2" category="Managing_with_Gods_principles" gifting="Faith">
-		God has never let me down, which is why I don't question him now.
+		$Faith_Managing_with_Gods_principles_Question_2
 	</question>
 	<question num="3" category="Managing_with_Gods_principles" gifting="Faith">
-		I find it quite easy to believe that what God says is true and reliable.
+		$Faith_Managing_with_Gods_principles_Question_3
 	</question>
 	<question num="4" category="Managing_with_Gods_principles" gifting="Faith">
-		I have found my convictions inspire others and give them hope.
+		$Faith_Managing_with_Gods_principles_Question_4
 	</question>
 	<question num="5" category="Managing_with_Gods_principles" gifting="Faith">
-		Christ alone has the words of eternal life, so there is no other place to go.
+		$Faith_Managing_with_Gods_principles_Question_5
 	</question>
 
 	<!-- Leadership/Oversight -->
@@ -314,19 +314,19 @@
 
 	<!-- Pastors -->
 	<question num="1" category="Managing_with_Gods_principles" gifting="Pastors">
-		I find great joy in ministering to the same group of people for a long time.
+		$Pastors_Managing_with_Gods_principles_Question_1
 	</question>
 	<question num="2" category="Managing_with_Gods_principles" gifting="Pastors">
-		I relish close relationships because of the ability to nurture other's growth.
+		$Pastors_Managing_with_Gods_principles_Question_2
 	</question>
 	<question num="3" category="Managing_with_Gods_principles" gifting="Pastors">
-		I find great satisfaction in helping those who are weak develop strength.
+		$Pastors_Managing_with_Gods_principles_Question_3
 	</question>
 	<question num="4" category="Managing_with_Gods_principles" gifting="Pastors">
-		I feel responsible to help or direct those who are close and need guidance.
+		$Pastors_Managing_with_Gods_principles_Question_4
 	</question>
 	<question num="5" category="Managing_with_Gods_principles" gifting="Pastors">
-		God seems to provide the words others need to hear when I speak.
+		$Pastors_Managing_with_Gods_principles_Question_5
 	</question>
 
 
@@ -341,87 +341,87 @@
 
  	<!-- Distinguishing_of_Spirits -->
 	<question num="1" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
-		I rarely have difficulty seeing through a person who is trying to purport themselves to be something they are not.
+		$Distinguishing_of_Spirits_Displaying_Gods_authority_Question_1
 	</question>
 	<question num="2" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
-		I will push to identify the motives behind another person's words.
+		$Distinguishing_of_Spirits_Displaying_Gods_authority_Question_2
 	</question>
 	<question num="3" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
-		I have sensed another person was motivated to act by an evil spirit.
+		$Distinguishing_of_Spirits_Displaying_Gods_authority_Question_3
 	</question>
 	<question num="4" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
-		I am able to judge truthfulness and error in a theological statement.
+		$Distinguishing_of_Spirits_Displaying_Gods_authority_Question_4
 	</question>
 	<question num="5" category="Displaying_Gods_authority" gifting="Distinguishing_of_Spirits">
-		God has given me an innate sense of seeing spirits at work in others.
+		$Distinguishing_of_Spirits_Displaying_Gods_authority_Question_5
 	</question>
 
 	<!-- Healings -->
 	<question num="1" category="Displaying_Gods_authority" gifting="Healings">
-		I find great joy in praying for the physically, mentally or spiritually ill.
+		$Healings_Displaying_Gods_authority_Question_1
 	</question>
 	<question num="2" category="Displaying_Gods_authority" gifting="Healings">
-		I have seen God answer my prayer by healing the person I prayed for.
+		$Healings_Displaying_Gods_authority_Question_2
 	</question>
 	<question num="3" category="Displaying_Gods_authority" gifting="Healings">
-		I have seen healing occur more than once when I and others prayed.
+		$Healings_Displaying_Gods_authority_Question_3
 	</question>
 	<question num="4" category="Displaying_Gods_authority" gifting="Healings">
-		I believe God heals people and am confident prayer makes a difference.
+		$Healings_Displaying_Gods_authority_Question_4
 	</question>
 	<question num="5" category="Displaying_Gods_authority" gifting="Healings">
-		When I pray for other's healing, I am aware of a power beyond me.
+		$Healings_Displaying_Gods_authority_Question_5
 	</question>
 
 	<!-- Interpreting_Tongues -->
 	<question num="1" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
-		For some reason I know what others mean when hearing tongues.
+		$Interpreting_Tongues_Displaying_Gods_authority_Question_1
 	</question>
 	<question num="2" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
-		I feel being able to understand other tongues/languages helps me help others.
+		$Interpreting_Tongues_Displaying_Gods_authority_Question_2
 	</question>
 	<question num="3" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
-		I am able to eliminate confusion by sharing a tongue/language's meaning.
+		$Interpreting_Tongues_Displaying_Gods_authority_Question_3
 	</question>
 	<question num="4" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
-		I remember the first time I felt I understood what was said in tongues.
+		$Interpreting_Tongues_Displaying_Gods_authority_Question_4
 	</question>
 	<question num="5" category="Displaying_Gods_authority" gifting="Interpreting_Tongues">
-		I have interpreted when someone spoke in tongues.
+		$Interpreting_Tongues_Displaying_Gods_authority_Question_5
 	</question>
 
 	<!-- Miracles -->
 	<question num="1" category="Displaying_Gods_authority" gifting="Miracles">
-		I have seen too many miracles in my life to discount their validity.
+		$Miracles_Displaying_Gods_authority_Question_1
 	</question>
 	<question num="2" category="Displaying_Gods_authority" gifting="Miracles">
-		I can recall one or more incidents when God literally intervened.
+		$Miracles_Displaying_Gods_authority_Question_2
 	</question>
 	<question num="3" category="Displaying_Gods_authority" gifting="Miracles">
-		Others have said God used me to supernaturally change their life.
+		$Miracles_Displaying_Gods_authority_Question_3
 	</question>
 	<question num="4" category="Displaying_Gods_authority" gifting="Miracles">
-		I have seen God interrupt the natural flow of life based on my prayer.
+		$Miracles_Displaying_Gods_authority_Question_4
 	</question>
 	<question num="5" category="Displaying_Gods_authority" gifting="Miracles">
-		The more I address the supernatural, the deeper God empowers me. 
+		$Miracles_Displaying_Gods_authority_Question_5
 	</question>
 
 	<!-- Tongues -->
 	<question num="1" category="Displaying_Gods_authority" gifting="Tongues">
-		The Holy Spirit speaks through me when I do not know what to say.
+		$Tongues_Displaying_Gods_authority_Question_1
 	</question>
 	<question num="2" category="Displaying_Gods_authority" gifting="Tongues">
-		When the Holy Spirit speaks through me I feel God's presence in me.
+		$Tongues_Displaying_Gods_authority_Question_2
 	</question>
 	<question num="3" category="Displaying_Gods_authority" gifting="Tongues">
-		Speaking in different tongues/languages never happened before salvation.
+		$Tongues_Displaying_Gods_authority_Question_3
 	</question>
 	<question num="4" category="Displaying_Gods_authority" gifting="Tongues">
-		I feel I have a prayer language that I do not understand at times.
+		$Tongues_Displaying_Gods_authority_Question_4
 	</question>
 	<question num="5" category="Displaying_Gods_authority" gifting="Tongues">
-		There is a freedom when I speak in languages that I normally do not have.
+		$Tongues_Displaying_Gods_authority_Question_5
 	</question>
 
 
