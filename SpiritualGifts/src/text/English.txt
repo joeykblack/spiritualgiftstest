@@ -1,5 +1,48 @@
-dirrections_page_title = Directions
-dirrections_title = Your Gifting Index
+directions_page_title = Directions
+
+introduction_title = Your Gifting Index
+introduction_paragraph_1a = Every believer is gifted by God to serve others, not just themselves.  A complete listing of all the gifts can be found in the following scriptures:
+Romans_12 = Romans 12:6-8
+1_Corinthians_12 = 1 Corinthians 12:4-10, 28
+Ephesians_4 = Ephesians 4:11-12
+1_Peter_4 = 1 Peter 4:10-11
+introduction_paragraph_1b = You will notice that three of the gifts are mentioned in the four scriptural contexts: Serving, Prophecy and Teaching. When scripture is repetitive, it normally indicates a high degree of importance or value.
+introduction_paragraph_2 = The gifting you display is dependent on how you were designed to serve others “for such a time as this.” Our Father did not design you like anyone else, so it is important that you do not chase or desire a gifting which is not relevant to your calling. Therefore, a specific gift or group of gifts should not to be considered more highly or more important than another, especially if it does not fit into how God wants you to serve.
+introduction_paragraph_3 = This inventory was designed to accommodate the gifts listed in the above mentioned scriptures. The author is aware that there are those who feel some gifts have passed away. However, if the scripture lists them, then chances are that God intended for us to understand and use them IF He so directs. The author has assigned the gifts into four categories which seem to fit together based on how they serve the Body of Christ.
+introduction_paragraph_4 = This information is designed to supplement your understanding of your capacities, behaviors, values and motivations. It should help direct you as you serve our Living God. As with any aspect of your uniqueness - embrace it and be grateful for what HE has designed for you
+introduction_paragraph_5 = Your answers will provide you a ranking in the defined categories and individual gifts. The definitions derived are derived from the original Greek as defined in Strong’s Concordance and represent how they appeared to the observers during Biblical times.
+
+directions_title = Directions for taking the assessment
+directions_paragraph_1 = LifeThrive’s Gifting Index is comprised of 100 questions in which you will be asked to rank your strength or weakness as it pertains to a particular aspect of each gift. Please read each statement completely. Once you understand the statement rank how closely this applies to you, NOT what you desire or hope for. Assign the score according to the following scale:
+directions_option_5 = 5 - I am motivated to act this way regularly.
+directions_option_4 = 4 - I am motivated to act this way from time to time.
+directions_option_3 = 3 - I experience this on occasion.
+directions_option_2 = 2 - This has occurred in my Christian walk, but not normally.
+directions_option_1 = 1 - This is a valuable gifting, but my focus is in other areas.
+
+
+Required_Information = Required Information
+First_Name = First Name
+Last_Name = Last Name
+Email = Email
+Confirm_Email = Confirm Email
+
+Voluntary_Demographic = Voluntary Demographic
+Male = Male
+Female = Female
+Age = Age
+18_29 = 18-29
+30_39 = 30-39
+40_49 = 40-49
+50_plus = 50+
+Interest = Interest
+Personal = Personal
+Professional = Professional
+Faith-based = Faith-based
+State = State
+Country = Country
+Take_Test = Take Test
+
 
 
 spiritual_gifts = Spiritual Gifts

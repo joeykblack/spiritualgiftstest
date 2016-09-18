@@ -1,3 +1,49 @@
+directions_page_title = Directions
+
+introduction_title = ENDAGIRIRO Y’OKUZUULAMU EKIRABO KYO
+introduction_paragraph_1a = Buli mukkiriza Katonda yamuwa ekirabo olw’okuweereza eri abantu abalala, so si ku lwabwe bo. Olukalala olujjuvu olulimu ebirabo byonna lusobola okusangibwa mu byawandiikibwa bino wammanga:
+Romans_12 = Abaruumi 12:6-8
+1_Corinthians_12 = 1 Abakkolinso 12:4-10, 28
+Ephesians_4 = Baefeso 4:11-12
+1_Peter_4 = 1 Peetero 4:10-11
+introduction_paragraph_1b = Ojja kukiraba nti ebisatu ku birabo ebyo binokolwayo mu byawandiikibwa ebyo ebina; mu ebyo mwe muli: Okuweereza, Okulagula(Okubuulira), N’okuyigiriza. Ekyawandiikibwa bwe kiddinganibwa, kitera okulaga omugaso ogw’amaanyi oba omuwendo ogwa waggulu oguli ku kintu ekyo.
+introduction_paragraph_2 = Ekirabo ky’oyolesa kisinziira ku ngeri gye wakolebwamu olw’okuweereza abantu abalala, “Olw’ekiseera nga kino.” Kitaffe teyakukola kukufaananya n’omuntu omulala yenna, n’olw’ekyo kya mugaso ggwe obutagoberera oba okuyaayaanira ekirabo ekiteetaagisa eri okuyitibwa kwo. N’olw’ekyo, ekirabo oba ebirabo byonna tebiteekwa kutwalibwa ng’ebya waggulu ennyo oba eby’omugaso ennyo okukira ebirala; n’okusingira ddala singa kiba nga tekigya mu ngeri Katonda gy’ayagalamu ggwe okumuweereza.
+introduction_paragraph_3 = Enkola eno yateekebwawo okusobola okukozesaamu ebirabo byonna ebinokoddwayo mu lukalala lw’ebyawandiikibwa ebyo waggulu. Omuwandiisi akimanyi nti waliyo abo abawulira nti ebirabo ebimu byayita dda. Wabula, bwe kiba nti ebyawandiikibwa bibyogerako, olwo omukisa guba nti Katonda yayagala tubitegeere era tubikozese SINGA aba atulungamya. Omuwandiisi yateeka ebirabo bino mu biti bina ebifaanana okukwatagana obulungi okusinziira ku ngeri gye biweerezaamu eri omubiri gwa Kristo.
+introduction_paragraph_4 = Obubaka buno bwakolebwa okusobola okwongereza ku ngeri gy’otegeeramu obusobozi bwo, empisa, emigaso n’okwagala kw’olina. Obubaka buno bulina okukuyamba okukulungamya mu kuweereza kwo eri Katonda waffe omulamu. Nga bwe kibeera n’eri enjawulo yo ku bantu abalala mu kintu kyonna, na bwe kityo kikkirize era osanyukire engeri Katonda gye yakukolamu.
+introduction_paragraph_5 = Eby’okuddamu byo bijja kukuwa eddaala kw’oli mu biti ebyo ebyogeddwako ne mu birabo kinnakimu. Okulambulula okukuweereddwa kuvudde mu lulimi Olugereeke olwasookawo nga bwe luvvuunulwa mu Nambululabigambo eya Strong’s Concordance era ng’eraga engeri gye byafaananangamu eri abo abaaliwo mu budde bwa Baibuli.
+
+directions_title = Okulungamizibwa Ku Ngeri Y’okuddamu Ebibuuzo
+directions_paragraph_1 = Endagiriro y’ebirabo ekuweebwa aba Life Thrive’s erimu ebibuuzo 100 mw’ojja okusabibwa okwewa obubonero okusinziira ku maanyi go oba obunafu bwo nga bwe kiri eri buli kirabo. Tukusaba osome bulungi buli sitatimenti. Kasita omala okutegeera obulungi sitatimenti eyo, olwo weewe obubonero okusinziira ku ngeri ekyo gye kikolamu eri ggwe, SO SI kusinziira ku ekyo ky’oyaayaanira oba ky’osuubira. Gaba obubonero okusinziira ku ngereka eno wammanga:
+directions_option_5 = 5 - Nsanyukira okukola bwentyo bulijjo.
+directions_option_4 = 4 - Nsanyukira okukola bwentyo emirundi egisinga.
+directions_option_3 = 3 - Kino nkifuna lumu na lumu.
+directions_option_2 = 2 - Kino kyali kibaddewo mu bulamu bwange obw’ekikristaayo, naye tekibaawo bulijjo.
+directions_option_1 = 1 - Kino kirabo kya muwendo, naye ekiruubirirwa kyange kiri mu birala.
+
+
+Required_Information = Obubaka bwe tukwetaagisa
+First_Name = Erinnya lyo erisoola
+Last_Name = Erinnya lyo ery’okubiri
+Email = E-mail
+Confirm_Email = Ddamu okakase e-mail yo
+
+Voluntary_Demographic = Ebirala ebikukwatako
+Male = Musajja
+Female = Mukazi
+Age = Emyaka
+18_29 = 18-29
+30_39 = 30-39
+40_49 = 40-49
+50_plus = 50+
+Interest = Ky’ofunamu
+Personal = Kikyo nga ggwe
+Professional = Kya mulimo gwo
+Faith-based = Kyesigamye ku nzikiriza
+State = Ekibuga mw’oli
+Country = Eggwanga
+Take_Test = Weebwa ebibuuzo
+
+
 
 spiritual_gifts = OKUVUMBULA EKIRABO KYO
 
