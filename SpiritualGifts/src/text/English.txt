@@ -45,7 +45,7 @@ Take_Test = Take Test
 
 
 
-spiritual_gifts = Spiritual Gifts
+spiritual_gifts_test = Spiritual Gifts Test
 
 
 Encouraging_Displaying_Gods_love_Question_1 = I find it gratifying to motivate and support others in their spiritual walk.
