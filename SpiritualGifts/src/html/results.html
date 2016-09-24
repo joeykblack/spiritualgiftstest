@@ -17,7 +17,7 @@
 		}
 	</style>
 	
-	<title>Spiritual Gifts Results</title>
+	<title>$Spiritual_Gifts_Results</title>
 
 </head>
 
@@ -28,7 +28,7 @@
 {% if not pdf %}
 	<form method='post' action='http://pdfmyurl.com?--filename={{fname}}&-O=Portrait&--page-size=A4&&--print-media-type'>
 		<input type='hidden' name='url' value='{{pdfurl}}&pdf=1&lang={{lang}}' />
-		<input type='submit' value='Download as PDF' />
+		<input type='submit' value='$Download_as_PDF' />
 	</form>
 {% endif %}
 
@@ -39,7 +39,7 @@
 
 {{banner|safe}}
 <h1 align='center'>
-	Spiritual Gifts
+$Spiritual_Gifts_Results
 </h1>
 
 <br />
@@ -58,8 +58,6 @@
 
 <!-- Page 2 -->
 <div class="page-break"></div>
-
-<h3 align='center'>Spiritual Gifts</h3>
 <p>
 	<img alt="Gifts" src="{{giftsChartUrl}}" />
 </p>
@@ -71,7 +69,7 @@
 <!-- Page 3 -->
 <div class="page-break"></div>
 
-<h3 align='center'>Spiritual Gifts Categories</h3>
+<h3 align='center'>$Spiritual_Gifts_Categories</h3>
 <p>
 	<img alt="Categories" src="{{categoriesChartUrl}}">
 </p>

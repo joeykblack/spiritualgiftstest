@@ -143,6 +143,13 @@ Tongues_Displaying_Gods_authority_Question_5 = Waliwo eddembe lye mpulira bwemba
 
 
 
+
+Spiritual_Gifts_Results = Spiritual Gifts Results
+Download_as_PDF = Download as PDF
+Spiritual_Gifts_Categories = Spiritual Gifts Categories
+
+
+
 # Narratives
 Serv_15_25_Show_5_14_Hosp_5_14_Enc_5_14_Giv_5_14 = Olaga okwagala kwa Katonda okuyita mu kuyamba abalala buli lwe baba n'ebyetaago. Ebirabo ebirala ebyeyoleka nabyo bya mugaso gy'oli, naye essanyu lyo ery'amaanyi olifuna okuyita mu kuyamba abalala oba okusisinkana ebyetaago bye baba nabyo.
 Serv_15_25_Show_15_25_Hosp_5_14_Enc_5_14_Giv_5_14 = Obeera n'okuyaayaana okw'amaanyi okulaba nti ebyetaago by'abalala bituukirizibwa kubanga owulira okwagala kwa Katonda n'okusaasira kwe era ng'oyagala okugabana ekyo ky'owulira n'abalala. Oluusi oyinza okwesanga ng'olowooza ku byetaago by'abalala, mu kifo ky'ebyo ebisingiridde mu bulamu bwo olw'essanyu eriva mu kufaayo eri abalala. 

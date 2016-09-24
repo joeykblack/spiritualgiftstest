@@ -143,6 +143,13 @@ Tongues_Displaying_Gods_authority_Question_5 = There is a freedom when I speak i
 
 
 
+
+Spiritual_Gifts_Results = Spiritual Gifts Results
+Download_as_PDF = Download as PDF
+Spiritual_Gifts_Categories = Spiritual Gifts Categories
+
+
+
 # Narratives
 Serv_15_25_Show_5_14_Hosp_5_14_Enc_5_14_Giv_5_14 = You display God's love by helping others wherever they have needs. Other display gifts are important to you, but you find your greatest joy in helping others or meeting specific needs they have at the moment.
 Serv_15_25_Show_15_25_Hosp_5_14_Enc_5_14_Giv_5_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You may often find yourself focused on other's needs, instead of priorities in your life because of the joy from caring.
