@@ -8,17 +8,15 @@ categories = []
 gifting = {}
 
 
-# Init Categories
+# Categories
 categories.append("Displaying_Gods_love")
 categories.append("Communicating_Gods_mind")
 categories.append("Managing_with_Gods_principles")
 categories.append("Displaying_Gods_authority")
 
 
-# Init Giftings
-
-# NOTE: order corresponds to order in narratives.csv
-# not really a good solution
+# Giftings
+# NOTE: order corresponds to order in narratives' text keys
 
 #Serving/Helps, Showing Mercy, Hospitality, Encouraging, Giving 
 gifting[categories[0]] = ["Serving_Helps","Showing_Mercy","Hospitality","Encouraging","Giving"]
@@ -27,8 +25,7 @@ gifting[categories[0]] = ["Serving_Helps","Showing_Mercy","Hospitality","Encoura
 gifting[categories[1]] = ["Wisdom","Knowledge","Prophecy","Teaching","Evangelism"]
 
 #Administration, Leadership, Pastors, Apostles, Faith
-gifting[categories[2]] = ["Administration", "Leadership-Oversight", "Pastors", "Apostles", "Faith"]
-
+gifting[categories[2]] = ["Administration", "Leadership_Oversight", "Pastors", "Apostles", "Faith"]
 
 #Healings, Miracles, Distinguishing of Spirits, Tongues, Interpreting Tongues
 gifting[categories[3]] = ["Healings", "Miracles", "Distinguishing_of_Spirits", "Tongues", "Interpreting_Tongues"]
