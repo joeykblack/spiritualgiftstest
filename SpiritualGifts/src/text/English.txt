@@ -48,122 +48,128 @@ Take_Test = Take Test
 spiritual_gifts_test = Spiritual Gifts Test
 
 
-Encouraging_Displaying_Gods_love_Question_1 = I find it gratifying to motivate and support others in their spiritual walk.
-Encouraging_Displaying_Gods_love_Question_2 = I feel many people are not very optimistic as they face life's challenges.
-Encouraging_Displaying_Gods_love_Question_3 = I welcome opportunities to share my experiences and encourage others.
-Encouraging_Displaying_Gods_love_Question_4 = I've discovered I can challenge others without them feeling condemned.
-Encouraging_Displaying_Gods_love_Question_5 = "I feel better" has often been the response from those I counseled.
+Displaying_Gods_love_Encouraging_Question_1 = I find it gratifying to motivate and support others in their spiritual walk.
+Displaying_Gods_love_Encouraging_Question_2 = I feel many people are not very optimistic as they face life's challenges.
+Displaying_Gods_love_Encouraging_Question_3 = I welcome opportunities to share my experiences and encourage others.
+Displaying_Gods_love_Encouraging_Question_4 = I've discovered I can challenge others without them feeling condemned.
+Displaying_Gods_love_Encouraging_Question_5 = "I feel better" has often been the response from those I counseled.
 
-Giving_Displaying_Gods_love_Question_1 = I feel that what I earn is a tool to insure other's needs are met.
-Giving_Displaying_Gods_love_Question_2 = It is more satisfying to support a ministry need than buying something new.
-Giving_Displaying_Gods_love_Question_3 = A modest lifestyle allows me to quietly contribute more to other's needs.
-Giving_Displaying_Gods_love_Question_4 = I've honestly felt the emotions behind "it is better to give than receive."
-Giving_Displaying_Gods_love_Question_5 = I've been deeply burdened and responded to help others financially.
+Displaying_Gods_love_Giving_Question_1 = I feel that what I earn is a tool to insure other's needs are met.
+Displaying_Gods_love_Giving_Question_2 = It is more satisfying to support a ministry need than buying something new.
+Displaying_Gods_love_Giving_Question_3 = A modest lifestyle allows me to quietly contribute more to other's needs.
+Displaying_Gods_love_Giving_Question_4 = I've honestly felt the emotions behind "it is better to give than receive."
+Displaying_Gods_love_Giving_Question_5 = I've been deeply burdened and responded to help others financially.
 
-Hospitality_Displaying_Gods_love_Question_1 = I enjoy having my home as a "gathering place" for others.
-Hospitality_Displaying_Gods_love_Question_2 = Entertaining others provides a great sense of satisfaction.
-Hospitality_Displaying_Gods_love_Question_3 = Many who visit my home seem comfortable and often linger a while.
-Hospitality_Displaying_Gods_love_Question_4 = I rarely feel "put out" by having someone stay in my home.
-Hospitality_Displaying_Gods_love_Question_5 = Preparing for other's visit to my home is exciting and exhilarating.
+Displaying_Gods_love_Hospitality_Question_1 = I enjoy having my home as a "gathering place" for others.
+Displaying_Gods_love_Hospitality_Question_2 = Entertaining others provides a great sense of satisfaction.
+Displaying_Gods_love_Hospitality_Question_3 = Many who visit my home seem comfortable and often linger a while.
+Displaying_Gods_love_Hospitality_Question_4 = I rarely feel "put out" by having someone stay in my home.
+Displaying_Gods_love_Hospitality_Question_5 = Preparing for other's visit to my home is exciting and exhilarating.
 
-Serving_Helps_Displaying_Gods_love_Question_1 = I find acts of assistance more rewarding than speaking and/or teaching
-Serving_Helps_Displaying_Gods_love_Question_2 = It really does not matter who gets credit as long as other's needs are met.
-Serving_Helps_Displaying_Gods_love_Question_3 = Joy is most often found in completing tasks without attracting attention.
-Serving_Helps_Displaying_Gods_love_Question_4 = A look of gratitude from another far outweighs any other gift.
-Serving_Helps_Displaying_Gods_love_Question_5 = I find great pleasure in simple, practical tasks that lend a helping hand.
+Displaying_Gods_love_Serving_Helps_Question_1 = I find acts of assistance more rewarding than speaking and/or teaching
+Displaying_Gods_love_Serving_Helps_Question_2 = It really does not matter who gets credit as long as other's needs are met.
+Displaying_Gods_love_Serving_Helps_Question_3 = Joy is most often found in completing tasks without attracting attention.
+Displaying_Gods_love_Serving_Helps_Question_4 = A look of gratitude from another far outweighs any other gift.
+Displaying_Gods_love_Serving_Helps_Question_5 = I find great pleasure in simple, practical tasks that lend a helping hand.
 
-Showing_Mercy_Displaying_Gods_love_Question_1 = I have been told that I tend to support the "underdog."
-Showing_Mercy_Displaying_Gods_love_Question_2 = It is not forgiving others, but remaining objective that is a struggle.
-Showing_Mercy_Displaying_Gods_love_Question_3 = I have a great deal of compassion for those hurting or in distress.
-Showing_Mercy_Displaying_Gods_love_Question_4 = I find great joy in being able to comfort those in times of crisis.
-Showing_Mercy_Displaying_Gods_love_Question_5 = I've found at times I see pain in others even when they don't express it.
-
-
-Evangelism_Communicating_Gods_mind_Question_1 = Others have said I present a clear and concise approach to salvation.
-Evangelism_Communicating_Gods_mind_Question_2 = I feel very comfortable sharing my faith with unbelievers.
-Evangelism_Communicating_Gods_mind_Question_3 = I have a strong burden for those who do not have the peace of salvation.
-Evangelism_Communicating_Gods_mind_Question_4 = I have a nagging concern of having someone's blood on my hands if I don't share my faith.
-Evangelism_Communicating_Gods_mind_Question_5 = I am exhilarated when sharing the gospel to many people.
-
-Knowledge_Communicating_Gods_mind_Question_1 = God reminds me of scripture or experiences when facing weighty decisions.
-Knowledge_Communicating_Gods_mind_Question_2 = I receive great joy, peace and revelation as I study the scriptures.
-Knowledge_Communicating_Gods_mind_Question_3 = Digging into scriptural language, historical and social context is fun.
-Knowledge_Communicating_Gods_mind_Question_4 = I loved acquiring information and often made good grades.
-Knowledge_Communicating_Gods_mind_Question_5 = Challenging scriptures cause me to dig until I find an answer.
-
-Prophecy_Communicating_Gods_mind_Question_1 = When God gives me insight I feel compelled to share it, regardless.
-Prophecy_Communicating_Gods_mind_Question_2 = By speaking God's truth I don't shortchange myself or others.
-Prophecy_Communicating_Gods_mind_Question_3 = On more than one occasion I had to speak God's truth to others.
-Prophecy_Communicating_Gods_mind_Question_4 = I love to proclaim God's truths, past, present and future.
-Prophecy_Communicating_Gods_mind_Question_5 = In the past my words have brought conviction of sin to others.
-
-Teaching_Communicating_Gods_mind_Question_1 = I am compelled to share what I have learned from scripture and studies.
-Teaching_Communicating_Gods_mind_Question_2 = My instruction has provided Biblical insight and help to others.
-Teaching_Communicating_Gods_mind_Question_3 = I have been able to identify spiritual patterns and communicate them.
-Teaching_Communicating_Gods_mind_Question_4 = It is very rewarding for me to help others understand God's truths.
-Teaching_Communicating_Gods_mind_Question_5 = I am often asked to explain scriptural principles and their application.
-
-Wisdom_Communicating_Gods_mind_Question_1 = I am often consulted when others struggle with difficult decisions.
-Wisdom_Communicating_Gods_mind_Question_2 = God uses me to provide clarity when there is confusion or indecision.
-Wisdom_Communicating_Gods_mind_Question_3 = God's insight has allowed me to help others in their spiritual journey.
-Wisdom_Communicating_Gods_mind_Question_4 = God has often given me insight and answers to complicated issues.
-Wisdom_Communicating_Gods_mind_Question_5 = Mature believers have asked my opinions on challenging life issues.
+Displaying_Gods_love_Showing_Mercy_Question_1 = I have been told that I tend to support the "underdog."
+Displaying_Gods_love_Showing_Mercy_Question_2 = It is not forgiving others, but remaining objective that is a struggle.
+Displaying_Gods_love_Showing_Mercy_Question_3 = I have a great deal of compassion for those hurting or in distress.
+Displaying_Gods_love_Showing_Mercy_Question_4 = I find great joy in being able to comfort those in times of crisis.
+Displaying_Gods_love_Showing_Mercy_Question_5 = I've found at times I see pain in others even when they don't express it.
 
 
-Administration_Managing_with_Gods_principles_Question_1 = Others often look to me for ministry coordination, planning and direction.
-Administration_Managing_with_Gods_principles_Question_2 = I have an ability to be strategic and help a ministry achieve good results.
-Administration_Managing_with_Gods_principles_Question_3 = Organizing and ministry development give a great sense of satisfaction.
-Administration_Managing_with_Gods_principles_Question_4 = I have no problem delegating what needs to be done for ministry success.
-Administration_Managing_with_Gods_principles_Question_5 = I enjoy making sure tasks and projects are completed in a timely manner.
+Communicating_Gods_mind_Evangelism_Question_1 = Others have said I present a clear and concise approach to salvation.
+Communicating_Gods_mind_Evangelism_Question_2 = I feel very comfortable sharing my faith with unbelievers.
+Communicating_Gods_mind_Evangelism_Question_3 = I have a strong burden for those who do not have the peace of salvation.
+Communicating_Gods_mind_Evangelism_Question_4 = I have a nagging concern of having someone's blood on my hands if I don't share my faith.
+Communicating_Gods_mind_Evangelism_Question_5 = I am exhilarated when sharing the gospel to many people.
 
-Apostles_Managing_with_Gods_principles_Question_1 = I believe no physical or mental boundaries can hinder my Kingdom position.
-Apostles_Managing_with_Gods_principles_Question_2 = I have been called to minister to multiple communities, countries and cultures.
-Apostles_Managing_with_Gods_principles_Question_3 = I have a strong desire to take the gospel to where it has never been heard.
-Apostles_Managing_with_Gods_principles_Question_4 = God is shaping me to encourage and equip many spiritual leaders.
-Apostles_Managing_with_Gods_principles_Question_5 = Establishing, training and developing spiritual leaders does not intimidate me.
+Communicating_Gods_mind_Knowledge_Question_1 = God reminds me of scripture or experiences when facing weighty decisions.
+Communicating_Gods_mind_Knowledge_Question_2 = I receive great joy, peace and revelation as I study the scriptures.
+Communicating_Gods_mind_Knowledge_Question_3 = Digging into scriptural language, historical and social context is fun.
+Communicating_Gods_mind_Knowledge_Question_4 = I loved acquiring information and often made good grades.
+Communicating_Gods_mind_Knowledge_Question_5 = Challenging scriptures cause me to dig until I find an answer.
 
-Faith_Managing_with_Gods_principles_Question_1 = I do not question my salvation or God's hold on my life.
-Faith_Managing_with_Gods_principles_Question_2 = God has never let me down, which is why I don't question him now.
-Faith_Managing_with_Gods_principles_Question_3 = I find it quite easy to believe that what God says is true and reliable.
-Faith_Managing_with_Gods_principles_Question_4 = I have found my convictions inspire others and give them hope.
-Faith_Managing_with_Gods_principles_Question_5 = Christ alone has the words of eternal life, so there is no other place to go.
+Communicating_Gods_mind_Prophecy_Question_1 = When God gives me insight I feel compelled to share it, regardless.
+Communicating_Gods_mind_Prophecy_Question_2 = By speaking God's truth I don't shortchange myself or others.
+Communicating_Gods_mind_Prophecy_Question_3 = On more than one occasion I had to speak God's truth to others.
+Communicating_Gods_mind_Prophecy_Question_4 = I love to proclaim God's truths, past, present and future.
+Communicating_Gods_mind_Prophecy_Question_5 = In the past my words have brought conviction of sin to others.
 
-Pastors_Managing_with_Gods_principles_Question_1 = I find great joy in ministering to the same group of people for a long time.
-Pastors_Managing_with_Gods_principles_Question_2 = I relish close relationships because of the ability to nurture other's growth.
-Pastors_Managing_with_Gods_principles_Question_3 = I find great satisfaction in helping those who are weak develop strength.
-Pastors_Managing_with_Gods_principles_Question_4 = I feel responsible to help or direct those who are close and need guidance.
-Pastors_Managing_with_Gods_principles_Question_5 = God seems to provide the words others need to hear when I speak.
+Communicating_Gods_mind_Teaching_Question_1 = I am compelled to share what I have learned from scripture and studies.
+Communicating_Gods_mind_Teaching_Question_2 = My instruction has provided Biblical insight and help to others.
+Communicating_Gods_mind_Teaching_Question_3 = I have been able to identify spiritual patterns and communicate them.
+Communicating_Gods_mind_Teaching_Question_4 = It is very rewarding for me to help others understand God's truths.
+Communicating_Gods_mind_Teaching_Question_5 = I am often asked to explain scriptural principles and their application.
+
+Communicating_Gods_mind_Wisdom_Question_1 = I am often consulted when others struggle with difficult decisions.
+Communicating_Gods_mind_Wisdom_Question_2 = God uses me to provide clarity when there is confusion or indecision.
+Communicating_Gods_mind_Wisdom_Question_3 = God's insight has allowed me to help others in their spiritual journey.
+Communicating_Gods_mind_Wisdom_Question_4 = God has often given me insight and answers to complicated issues.
+Communicating_Gods_mind_Wisdom_Question_5 = Mature believers have asked my opinions on challenging life issues.
 
 
-Distinguishing_of_Spirits_Displaying_Gods_authority_Question_1 = I rarely have difficulty seeing through a person who is trying to purport themselves to be something they are not.
-Distinguishing_of_Spirits_Displaying_Gods_authority_Question_2 = I will push to identify the motives behind another person's words.
-Distinguishing_of_Spirits_Displaying_Gods_authority_Question_3 = I have sensed another person was motivated to act by an evil spirit.
-Distinguishing_of_Spirits_Displaying_Gods_authority_Question_4 = I am able to judge truthfulness and error in a theological statement.
-Distinguishing_of_Spirits_Displaying_Gods_authority_Question_5 = God has given me an innate sense of seeing spirits at work in others.
+Managing_with_Gods_principles_Administration_Question_1 = Others often look to me for ministry coordination, planning and direction.
+Managing_with_Gods_principles_Administration_Question_2 = I have an ability to be strategic and help a ministry achieve good results.
+Managing_with_Gods_principles_Administration_Question_3 = Organizing and ministry development give a great sense of satisfaction.
+Managing_with_Gods_principles_Administration_Question_4 = I have no problem delegating what needs to be done for ministry success.
+Managing_with_Gods_principles_Administration_Question_5 = I enjoy making sure tasks and projects are completed in a timely manner.
 
-Healings_Displaying_Gods_authority_Question_1 = I find great joy in praying for the physically, mentally or spiritually ill.
-Healings_Displaying_Gods_authority_Question_2 = I have seen God answer my prayer by healing the person I prayed for.
-Healings_Displaying_Gods_authority_Question_3 = I have seen healing occur more than once when I and others prayed.
-Healings_Displaying_Gods_authority_Question_4 = I believe God heals people and am confident prayer makes a difference.
-Healings_Displaying_Gods_authority_Question_5 = When I pray for other's healing, I am aware of a power beyond me.
+Managing_with_Gods_principles_Apostles_Question_1 = I believe no physical or mental boundaries can hinder my Kingdom position.
+Managing_with_Gods_principles_Apostles_Question_2 = I have been called to minister to multiple communities, countries and cultures.
+Managing_with_Gods_principles_Apostles_Question_3 = I have a strong desire to take the gospel to where it has never been heard.
+Managing_with_Gods_principles_Apostles_Question_4 = God is shaping me to encourage and equip many spiritual leaders.
+Managing_with_Gods_principles_Apostles_Question_5 = Establishing, training and developing spiritual leaders does not intimidate me.
 
-Interpreting_Tongues_Displaying_Gods_authority_Question_1 = For some reason I know what others mean when hearing tongues.
-Interpreting_Tongues_Displaying_Gods_authority_Question_2 = I feel being able to understand other tongues/languages helps me help others.
-Interpreting_Tongues_Displaying_Gods_authority_Question_3 = I am able to eliminate confusion by sharing a tongue/language's meaning.
-Interpreting_Tongues_Displaying_Gods_authority_Question_4 = I remember the first time I felt I understood what was said in tongues.
-Interpreting_Tongues_Displaying_Gods_authority_Question_5 = I have interpreted when someone spoke in tongues.
+Managing_with_Gods_principles_Faith_Question_1 = I do not question my salvation or God's hold on my life.
+Managing_with_Gods_principles_Faith_Question_2 = God has never let me down, which is why I don't question him now.
+Managing_with_Gods_principles_Faith_Question_3 = I find it quite easy to believe that what God says is true and reliable.
+Managing_with_Gods_principles_Faith_Question_4 = I have found my convictions inspire others and give them hope.
+Managing_with_Gods_principles_Faith_Question_5 = Christ alone has the words of eternal life, so there is no other place to go.
 
-Miracles_Displaying_Gods_authority_Question_1 = I have seen too many miracles in my life to discount their validity.
-Miracles_Displaying_Gods_authority_Question_2 = I can recall one or more incidents when God literally intervened.
-Miracles_Displaying_Gods_authority_Question_3 = Others have said God used me to supernaturally change their life.
-Miracles_Displaying_Gods_authority_Question_4 = I have seen God interrupt the natural flow of life based on my prayer.
-Miracles_Displaying_Gods_authority_Question_5 = The more I address the supernatural, the deeper God empowers me.
+Managing_with_Gods_principles_Pastors_Question_1 = I find great joy in ministering to the same group of people for a long time.
+Managing_with_Gods_principles_Pastors_Question_2 = I relish close relationships because of the ability to nurture other's growth.
+Managing_with_Gods_principles_Pastors_Question_3 = I find great satisfaction in helping those who are weak develop strength.
+Managing_with_Gods_principles_Pastors_Question_4 = I feel responsible to help or direct those who are close and need guidance.
+Managing_with_Gods_principles_Pastors_Question_5 = God seems to provide the words others need to hear when I speak.
 
-Tongues_Displaying_Gods_authority_Question_1 = The Holy Spirit speaks through me when I do not know what to say.
-Tongues_Displaying_Gods_authority_Question_2 = When the Holy Spirit speaks through me I feel God's presence in me.
-Tongues_Displaying_Gods_authority_Question_3 = Speaking in different tongues/languages never happened before salvation.
-Tongues_Displaying_Gods_authority_Question_4 = I feel I have a prayer language that I do not understand at times.
-Tongues_Displaying_Gods_authority_Question_5 = There is a freedom when I speak in languages that I normally do not have.
+Managing_with_Gods_principles_Leadership_Oversight_Question_1 = I find joy in and feel called to be at the forefront of a ministry.
+Managing_with_Gods_principles_Leadership_Oversight_Question_2 = God has given me favor and drawn others to me for spiritual direction.
+Managing_with_Gods_principles_Leadership_Oversight_Question_3 = I feel blessed with an ability to communicate a vision for others to follow.
+Managing_with_Gods_principles_Leadership_Oversight_Question_4 = I am seen as an authority by others who seek a way to serve God.
+Managing_with_Gods_principles_Leadership_Oversight_Question_5 = I find joy in inspiring, leading and motivating others to God's service.
+
+
+Displaying_Gods_authority_Distinguishing_of_Spirits_Question_1 = I rarely have difficulty seeing through a person who is trying to purport themselves to be something they are not.
+Displaying_Gods_authority_Distinguishing_of_Spirits_Question_2 = I will push to identify the motives behind another person's words.
+Displaying_Gods_authority_Distinguishing_of_Spirits_Question_3 = I have sensed another person was motivated to act by an evil spirit.
+Displaying_Gods_authority_Distinguishing_of_Spirits_Question_4 = I am able to judge truthfulness and error in a theological statement.
+Displaying_Gods_authority_Distinguishing_of_Spirits_Question_5 = God has given me an innate sense of seeing spirits at work in others.
+
+Displaying_Gods_authority_Healings_Question_1 = I find great joy in praying for the physically, mentally or spiritually ill.
+Displaying_Gods_authority_Healings_Question_2 = I have seen God answer my prayer by healing the person I prayed for.
+Displaying_Gods_authority_Healings_Question_3 = I have seen healing occur more than once when I and others prayed.
+Displaying_Gods_authority_Healings_Question_4 = I believe God heals people and am confident prayer makes a difference.
+Displaying_Gods_authority_Healings_Question_5 = When I pray for other's healing, I am aware of a power beyond me.
+
+Displaying_Gods_authority_Interpreting_Tongues_Question_1 = For some reason I know what others mean when hearing tongues.
+Displaying_Gods_authority_Interpreting_Tongues_Question_2 = I feel being able to understand other tongues/languages helps me help others.
+Displaying_Gods_authority_Interpreting_Tongues_Question_3 = I am able to eliminate confusion by sharing a tongue/language's meaning.
+Displaying_Gods_authority_Interpreting_Tongues_Question_4 = I remember the first time I felt I understood what was said in tongues.
+Displaying_Gods_authority_Interpreting_Tongues_Question_5 = I have interpreted when someone spoke in tongues.
+
+Displaying_Gods_authority_Miracles_Question_1 = I have seen too many miracles in my life to discount their validity.
+Displaying_Gods_authority_Miracles_Question_2 = I can recall one or more incidents when God literally intervened.
+Displaying_Gods_authority_Miracles_Question_3 = Others have said God used me to supernaturally change their life.
+Displaying_Gods_authority_Miracles_Question_4 = I have seen God interrupt the natural flow of life based on my prayer.
+Displaying_Gods_authority_Miracles_Question_5 = The more I address the supernatural, the deeper God empowers me.
+
+Displaying_Gods_authority_Tongues_Question_1 = The Holy Spirit speaks through me when I do not know what to say.
+Displaying_Gods_authority_Tongues_Question_2 = When the Holy Spirit speaks through me I feel God's presence in me.
+Displaying_Gods_authority_Tongues_Question_3 = Speaking in different tongues/languages never happened before salvation.
+Displaying_Gods_authority_Tongues_Question_4 = I feel I have a prayer language that I do not understand at times.
+Displaying_Gods_authority_Tongues_Question_5 = There is a freedom when I speak in languages that I normally do not have.
 
 
 
