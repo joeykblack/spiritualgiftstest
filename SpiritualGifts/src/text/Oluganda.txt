@@ -53,86 +53,112 @@ Encouraging_Displaying_Gods_love_Question_2 = Mpulira ng'abantu bangi tebaba na 
 Encouraging_Displaying_Gods_love_Question_3 = Nnyaniriza omukisa gwonna ogw'okugabana n'abalala ebyo bye mpiseemu n'okubazzaamu amaanyi.
 Encouraging_Displaying_Gods_love_Question_4 = Nkizudde nga nsobola okusoomooza abalala awatali kubaleetera kwesalira musango.
 Encouraging_Displaying_Gods_love_Question_5 = "Mpulira bulungi" bye bigambo ebitera okuva bantu bempa amagezi.
+
 Giving_Displaying_Gods_love_Question_1 = Mpulira nga ennyingiza yange kikozesebwa mu kusisinkana ebyetaago by'abantu abalala.
 Giving_Displaying_Gods_love_Question_2 = Kimatiza nnyo okuyimirira n'ekkanisa mu kyetaago ky'obuweereza kyonna mu kifo ky'okugulayo ekintu ekiggya.
 Giving_Displaying_Gods_love_Question_3 = Okweyisa obulungi kinsobozesa okuyambako abalala mu byetaago byabwe mu kyama.
 Giving_Displaying_Gods_love_Question_4 = Mazima mbaddenga mpulira ebirowoozo mu nze ebigamba nti "Kya mukisa okugaba okusinga okuweebwa."
 Giving_Displaying_Gods_love_Question_5 = Mbadde nzitoowererwa nnyo mu nze era ne ndyoka nnyanukula nga nnyamba abalala mu by'ensimbi.
+
 Hospitality_Displaying_Gods_love_Question_1 = Nsanyukira okufuula amaka gange "ekkungaaniro" eri abalala.
 Hospitality_Displaying_Gods_love_Question_2 = Okusanyusa abalala kimpa okumatizibwa munda mu nze.
 Hospitality_Displaying_Gods_love_Question_3 = Bangi abakyalako ewange bawulira okusanyusibwa era batera okulwawo okumalayo akaseera.
 Hospitality_Displaying_Gods_love_Question_4 = Sitera kuwulira "kwagala kwa kwegatta?" bwemba n'omuntu asuze ewange.
 Hospitality_Displaying_Gods_love_Question_5 = Okweteekerateekera okukyala kw'abalala mu maka gange kinsanyusa era kimpa okujaguza mu nze.
+
+Serving_Helps_Displaying_Gods_love_Question_1 = Nze ndaba ng'ebikolwa by'okuyamba bisasula nnyo okusinga okwogera era/oba okuyigiriza.
+Serving_Helps_Displaying_Gods_love_Question_2 = Ani afuna ekitiibwa si y'ensonga kasita kiba nti ebyetaago by'abalala bisisinkaniddwa.
+Serving_Helps_Displaying_Gods_love_Question_3 = Essanyu nsinga kulisanga mu kutuukiriza emirimo awatali kweraga eri abalala.
+Serving_Helps_Displaying_Gods_love_Question_4 = Okusanyusa abalala kisingira ekirabo ekirala kyonna.
+Serving_Helps_Displaying_Gods_love_Question_5 = Nfuna essanyu lingi nnyo mu kukola emirimo emitonotono mu by'emikono egisobola okuyamba abantu.
+
 Showing_Mercy_Displaying_Gods_love_Question_1 = Nagambibwa nti oluusi ntera okuyamba abo "abayiikirizibwa."
 Showing_Mercy_Displaying_Gods_love_Question_2 = Olutalo luli mu kusigala ng'ofugibwa endowooza yo so si kusonyiwa balala.
 Showing_Mercy_Displaying_Gods_love_Question_3 = Nnina ekisa kingi eri abo abanyoleddwa oba abali mu buyinike.
 Showing_Mercy_Displaying_Gods_love_Question_4 = Nfuna essanyu lingi mu kubeera nga nsobola okusanyusa abo abayita mu kiseera ekizibu.
 Showing_Mercy_Displaying_Gods_love_Question_5 = Nneesanze ng'oluusi ndaba obulumi mu bulamu bw'abalala ne bwe baba nga tebabulaze.
+
+
 Evangelism_Communicating_Gods_mind_Question_1 = Abalala bagamba nti ndaga enkola ennungi era esaanye eri obulokozi.
 Evangelism_Communicating_Gods_mind_Question_2 = Mpulira emirembe mu kugabana okukkiriza kwange n'abatakkiriza.
 Evangelism_Communicating_Gods_mind_Question_3 = Nnina omugugu ogw'amaanyi eri abo abatalina mirembe gya bulokozi.
 Evangelism_Communicating_Gods_mind_Question_4 = Nkwatibwako nnyo obutabeerako musaayi gwa muntu yenna singa sigabana kukkiriza kwange n'abalala.
 Evangelism_Communicating_Gods_mind_Question_5 = Nzijula  essanyu bwemba nga ngabana enjiri eri abantu abangi.
+
 Knowledge_Communicating_Gods_mind_Question_1 = Katonda anzijukiza ebyawandiikibwa oba ebyo bye mpiseemu singa nsanga okuzitoowererwa mu kusalazo.
 Knowledge_Communicating_Gods_mind_Question_2 = Nfuna essanyu lingi nnyo, emirembe n'okubikkulirwa nga snoma ebyawandiikibwa.
 Knowledge_Communicating_Gods_mind_Question_3 = Nnyumirwa okugenda ebuziba mu byawandiikibwa, ebyafaayo n'ensonga ez'abantu.
 Knowledge_Communicating_Gods_mind_Question_4 = Nayagalanga nnyo okufuna obubaka era nga ntera okukola obulungi ennyo.
 Knowledge_Communicating_Gods_mind_Question_5 = Okusoomooza ebyawandiikibwa kindeetera okugendako ebuziba okutuusa nga nfunye eky'okuddamu.
+
 Prophecy_Communicating_Gods_mind_Question_1 = Katonda bw'ampa okumanya okw'ebuziba ku kintu mpulira okuwalirizibwa okukugabana n'abalala mu buli ngeri.
 Prophecy_Communicating_Gods_mind_Question_2 = Mu kwogera amazima ga Katonda siriiko kye nkyusa n'akatono ku bulamu bwange oba obw'abalala.
 Prophecy_Communicating_Gods_mind_Question_3 = Emirundi egisoba mu gumu nnalina okwogera amazima ga Katonda.
 Prophecy_Communicating_Gods_mind_Question_4 = Njagala okubuulira amazima ga Katonda agaayita, aga kaakano n'ago agomu biro eby'omu maaso.
 Prophecy_Communicating_Gods_mind_Question_5 = Mu biro ebyayita ebigambo byange byaleetanga okulumirizibwa olw'ekibi eri abalala.
+
 Teaching_Communicating_Gods_mind_Question_1 = Mpalirizibwa okugabana ekyo kye njize mu byawandiikibwa ne mu kusoma.
 Teaching_Communicating_Gods_mind_Question_2 = Okuyigiriza kwange kuwa abantu okumanya okw'ebuziba mu Baibuli n'okuyambibwa.
 Teaching_Communicating_Gods_mind_Question_3 = Nsobodde okumanya eby'okulabirako mu mwoyo n'okubibuulira abalala.
 Teaching_Communicating_Gods_mind_Question_4 = Kimpa nnyo omukisa okuyamba abalala okutegeera amazima ga Katonda.
 Teaching_Communicating_Gods_mind_Question_5 = Ntera okusabibwa okunnyonnyola ennono z'ebyawandiikibwa n'emigaso gyazo.
+
 Wisdom_Communicating_Gods_mind_Question_1 = Ntera okwebuuzibwako abalala nga balwanagana n'okusalawo okuzibu.
 Wisdom_Communicating_Gods_mind_Question_2 = Katonda ankozesa okuleetawo obutebenkenvu awali okuyoogaana oba obutasalawo.
 Wisdom_Communicating_Gods_mind_Question_3 = Amagezi ga Katonda gannyambye okuyamba abalala mu lugendo lwabwe olw'omwoyo.
 Wisdom_Communicating_Gods_mind_Question_4 = Katonda atera okumpa okumanya n'eby'okuddamu eri ensonga enzibu ennyo.
 Wisdom_Communicating_Gods_mind_Question_5 = Abakkiriza abakuze mu mwoyo babadde bansaba ebirowoozo byange ku nsonga z'obulamu ezisoomooza.
+
+
 Administration_Managing_with_Gods_principles_Question_1 = Abantu abalala batera okunnoonya olw'okukwanaganya obuweereza, okukola entegeka n'okulungamya.
 Administration_Managing_with_Gods_principles_Question_2 = Nnina obusobozi bw'okubeera mu kifo ekituufu n'okuyambako obuweereza okufuna ebibala ebirungi.
 Administration_Managing_with_Gods_principles_Question_3 = Okuteekateeka n'okukulaakulana kw'obuweereza bimpa okumatizibwa okw'amaanyi mu nze.
 Administration_Managing_with_Gods_principles_Question_4 = Sirina buzibu mu kukwasa omuntu obuvunaanyizibwa ku ebyo ebyetaaga okukolebwa olw'obuwanguzi bw'obuweereza.
 Administration_Managing_with_Gods_principles_Question_5 = Nsanyukira okukola emirimo egy'amazima era nga gituukirizibwa mu biro ebituufu.
+
 Apostles_Managing_with_Gods_principles_Question_1 = Nzikiriza nga tewali nsalo mu mubiri oba mu birowoozo eziyinza okunziyiza okubeera mu kifo kyange mu bwakabaka.
 Apostles_Managing_with_Gods_principles_Question_2 = Mpitiddwa okuweereza eri ebitundu eby'enjawulo, amawanga n'obuwangwa.
 Apostles_Managing_with_Gods_principles_Question_3 = Nnina okuyaayaana okw'amaanyi okw'okutwala enjiri eri eyo yonna gy'etawulirwangako.
 Apostles_Managing_with_Gods_principles_Question_4 = Katonda antendeka okuzzaamu amaanyi n'okubangula abakulembeze ab'omwoyo abangi.
 Apostles_Managing_with_Gods_principles_Question_5 = Okutandika, okutendeka n'okuyimusa abakulembeze ab'omwoyo tekintiisa.
+
 Faith_Managing_with_Gods_principles_Question_1 = Sseebuuza bulokozi bwange oba omukono gwa Katonda ku bulamu bwange.
 Faith_Managing_with_Gods_principles_Question_2 = Katonda tangiwangako, era eyo y'ensonga lwaki simwebuuza kaakano.
 Faith_Managing_with_Gods_principles_Question_3 = Nyanguyirwa nnyo okukkiriza nti Katonda ky'ayogera kiba nya mazima era kyesigika.
 Faith_Managing_with_Gods_principles_Question_4 = Okulumirizibwa kwange nkulabye nga kulungamya wamu n'okuwa abalala essuubi.
 Faith_Managing_with_Gods_principles_Question_5 = Kristo yekka y'alina ebigambo by'obulamu obutaggwaawo, n'olw'ekyo tewali kifo kirala eky'okuddukiramu.
+
 Pastors_Managing_with_Gods_principles_Question_1 = Nsanga essanyu lingi nnyo mu kuweereza eri abantu be bamu okumala ekiseera ekiwanvu.
 Pastors_Managing_with_Gods_principles_Question_2 = Nfuna nnyo emikwano n'abantu olw'obusobozi bwange mu kulera abalala n'okubakuza.
 Pastors_Managing_with_Gods_principles_Question_3 = Mpulira okumatizibwa okw'amaanyi mu kuyamba abo abanafu okufuna amaanyi.
 Pastors_Managing_with_Gods_principles_Question_4 = Mpulira nga nvunaanyizibwa okuyamba oba okulungamya abo abandi okumpi era nga beetaaga okulungamya.
 Pastors_Managing_with_Gods_principles_Question_5 = Katonda afaanana okuba ng'awa abantu abalala ebigambo bye baagala okuwulira bwemba nga njogera.
+
+
 Distinguishing_of_Spirits_Displaying_Gods_authority_Question_1 = Sitera kufuna buzibu mu kulaba omuntu agezaako okweyimirizaawo ng'awangula okubeera ekyo ky'atali.
 Distinguishing_of_Spirits_Displaying_Gods_authority_Question_2 = Nfuba nnyo okumanya ebigendererwa ebiri emabega w'ebigambo by'omuntu omulala.
 Distinguishing_of_Spirits_Displaying_Gods_authority_Question_3 = Nategeerako omuntu omulala eyayagala  okukozesebwa omwoyo omubi.
 Distinguishing_of_Spirits_Displaying_Gods_authority_Question_4 = Nsobola okulamula wakati w'amazima n'ensobi eziri mu sitatimenti yonna eyogera ku Katonda.
 Distinguishing_of_Spirits_Displaying_Gods_authority_Question_5 = Katonda ampadde amagezi ag'okumanya emyoyo egikolera mu bantu abalala.
+
 Healings_Displaying_Gods_authority_Question_1 = Nfuna essanyu lingi nnyo mu kusabira abalwadde mu bubiri, mu birowoozo oba mu mwoyo.
 Healings_Displaying_Gods_authority_Question_2 = Ndabye Katonda ng'ayanukula okusaba kwange okuyita mu kuwonya omuntu gwe. nsabidde.
 Healings_Displaying_Gods_authority_Question_3 = Ndabyeko okuwonyezebwa nga kubaawo emirundi egisoba mu gumu nga nze n'abalala tusaba.
 Healings_Displaying_Gods_authority_Question_4 = Nzikiriza nti Katonda ayamba abantu era ndi mumativu nti okusaba kuleetawo enjawulo.
 Healings_Displaying_Gods_authority_Question_5 = Bwe nsabira abalala okuwonyezebwa, ntegeera bulungi amaanyi agasukkiridde ku nze.
+
 Interpreting_Tongues_Displaying_Gods_authority_Question_1 = Olw'ensonga emu oba endala, mmanyi abalala kye bategeeza bwe mpulira ennimi.
 Interpreting_Tongues_Displaying_Gods_authority_Question_2 = Mpulira ng'okutegeera ennimi endala kinnyamba nze okuyamba abalala.
 Interpreting_Tongues_Displaying_Gods_authority_Question_3 = Nsobola okumalawo okuyoogaana okuyita mu kugabana n'abantu amakulu agali mu lulimi olulala.
 Interpreting_Tongues_Displaying_Gods_authority_Question_4 = Nzijukira omulundi ogwasooka gwe nnalowooza nga ddala ntegedde ebyayogerwa mu nnimi.
 Interpreting_Tongues_Displaying_Gods_authority_Question_5 = Nnavvuunulako omuntu ng'ayogera mu nnimi.
+
 Miracles_Displaying_Gods_authority_Question_1 = Ndabye ebyamagero bingi nnyo mu bulamu bwange so siyinza kubibuusabuusa.
 Miracles_Displaying_Gods_authority_Question_2 = Nsobola okujjukira ekintu ekimu oba ebingi ebyali bibaddewo Katonda n'abyenyigiramu.
 Miracles_Displaying_Gods_authority_Question_3 = Abalala babadde bagamba nti Katonda yankozesa mu ngeri esukkiridde obutonde okukyusa obulamu bwabwe.
 Miracles_Displaying_Gods_authority_Question_4 = Ndabye Katonda ng'ayingira mu ntambula y'obulamu bw'abantu okusinziira ku kusaba.
 Miracles_Displaying_Gods_authority_Question_5 = Gyenkoma okwogera n'ensi ey'omwoyo, Katonda gy'akoma okumpa maanyi.
+
 Tongues_Displaying_Gods_authority_Question_1 = Omwoyo Omutukuvu ayogerera mu nze bwemba nga simanyi kya kwogera.
 Tongues_Displaying_Gods_authority_Question_2 = Omwoyo Omutukuvu bw'ayogera okuyita mu nze, mpulira okubeerawo kwa Katonda mu nze.
 Tongues_Displaying_Gods_authority_Question_3 = Okwogera mu nnimi endala/ez'enjawulo tekibangawo nga ssinalokoka.
@@ -283,3 +309,61 @@ Heal__5_14_Mir_5_14_Dist_15_25_Tong_5_14_Inter_15_25 = Waweebwa ekirabo olw'okwa
 Heal_5_14_Mir_5_14_Dist_15_25_Tong_15_25_Inter_5_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okwogera ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu bulamu bw'abalala.
 Heal_5_14_Mir_15_25_Dist_5_14_Tong_15_25_Inter_5_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabo mu  bulamu bwabwe. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe. 
 Heal_5_14_Mir_15_25_Dist_5_14_Tong_5_14_Inter_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabomu  bulamu bwabwe. Nate waweebwa ekirabo olw'okuvvuunula ennimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe. 
+
+
+
+
+Displaying_Gods_love_category = Displaying God's love
+Serving_Helps_gifting = Serving/Helps
+Showing_mercy_gifting = Showing mercy
+Hospitality_gifting = Hospitality
+Encouraging_gifting = Encouraging
+Giving_gifting = Giving
+Serving_Helps_definition = (1 Corinthians, Romans, 1 Peter) diakonia - Meeting charitable needs by command or voluntary service.
+Showing_mercy_definition = (Romans) eleeo - Helping those that are afflicted or seeking aid.
+Hospitality_definition = (1 Peter) diakoneo - To provide food, drink and the necessities of life to guests.
+Encouraging_definition = (Romans) parakaleo - To summon, speak to, console and encourage by strengthening the individual
+Giving_definition = (Romans) metadidomi - To freely grant, supply or furnish what is necessary as if it was their due.
+
+Communicating_Gods_mind_category = Communicating God's mind
+Wisdom_gifting = Wisdom
+Knowledge_gifting = Knowledge
+Prophecy_gifting = Prophecy
+Teaching_gifting = Teaching
+Evangelists_gifting = Evangelists
+Wisdom_definition = (1 Corinthians) Sophia - Supreme intelligence acquired by divine insight, experience and application in many diverse matters.
+Knowledge_definition = (1 Corinthians) gnosis - General intelligence, understanding of what is moral and right living.
+Prophecy_definition = (1 Corinthians, Romans, Ephesians) prophetes - Someone moved by the Spirit to proclaim a cause or event relevant to growth, development or salvation. 
+Teaching_definition = (Romans, Ephesians, 1 Peter)  didasko - To instruct, expound, explain and instill doctrine
+Evangelists_definition = (Ephesians) euaggelistes - Someone who brings good tidings (of the gospel), simply and plainly who are not apostles.
+
+Managing_with_Gods_principles_category = Managing with God's principles 
+Administration_gifting = Administration
+Leadership_Oversight_gifting = Leadership/Oversight
+Pastors_gifting = Pastors
+Apostles_gifting = Apostles
+Faith_gifting = Faith
+Administration_definition = (1 Peter) oikonomos - A manager or supervisor trusted with the management of all day to day operations.
+Leadership/Oversight_definition = (Romans) proistemi - A protector, guardian or one given oversight of others.
+Pastors_definition = (Ephesians) poimen -A herdsman who oversees the care and control of others, as an overseer of Christian assemblies.
+Apostles_definition = (Ephesians) apostolos - One sent with divine orders and direction, referring specifically to the 12 or generally to eminent Christian teachers.
+Faith_definition = (1 Corinthians) pistis - Trust and conviction of the truth regarding man's relationship with God and divine things.
+
+Displaying_Gods_authority_category = Displaying God's authority
+Healings_gifting = Healings
+Miraculous_powers_gifting = Miraculous powers
+Distinguishing_between_spirits_gifting = Distinguishing between spirits
+Speaking_in_different_kinds_of_tongues_languages_gifting = Speaking in different kinds of tongues/languages
+Interpretation_of_tongues_languages_gifting = Interpretation of tongues/languages
+Healings_definition = (1 Corinthians) iama - To cure, make physically and/or spiritually whole and remove errors (or sin, bringing about salvation).
+Miraculous_powers_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
+Distinguishing_between_spirits_definition = (1 Corinthians) diakrisis - Be able to judge, separate, discriminate or distinguish differences in spirits.
+Speaking_in_different_kinds_of_tongues_languages_definition = (1 Corinthians) glossa - The dialect that identifies or distinguishes a distinct people.
+Interpretation_of_tongues_languages_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
+
+
+
+greatest_gifting_title = Your greatest gifting is found in
+second_greatest_title = Your second greatest gifting is found in
+third_greatest_title = Your third greatest gifting is found in
+fourth_greatest_title = Your fourth greatest gifting is found in

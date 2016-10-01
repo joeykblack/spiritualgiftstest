@@ -78,23 +78,23 @@
 	<!-- Serving-Helps -->
 
 	<question num="1" category="Displaying_Gods_love" gifting="Serving-Helps">
-		I find acts of assistance more rewarding than speaking and/or teaching
+		$Serving_Helps_Displaying_Gods_love_Question_1
 	</question>
 
 	<question num="2" category="Displaying_Gods_love" gifting="Serving-Helps">
-		It really does not matter who gets credit as long as other's needs are met.
+		$Serving_Helps_Displaying_Gods_love_Question_2
 	</question>
 
 	<question num="3" category="Displaying_Gods_love" gifting="Serving-Helps">
-		Joy is most often found in completing tasks without attracting attention.
+		$Serving_Helps_Displaying_Gods_love_Question_3
 	</question>
 
 	<question num="4" category="Displaying_Gods_love" gifting="Serving-Helps">
-		A look of gratitude from another far outweighs any other gift.
+		$Serving_Helps_Displaying_Gods_love_Question_4
 	</question>
 
 	<question num="5" category="Displaying_Gods_love" gifting="Serving-Helps">
-		I find great pleasure in simple, practical tasks that lend a helping hand.
+		$Serving_Helps_Displaying_Gods_love_Question_5
 	</question>
 
 
