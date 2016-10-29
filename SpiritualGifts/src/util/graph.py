@@ -21,14 +21,14 @@ def graphGiftings(giftingTotals):
     
     for categorie in constants.categories: 
         for gift in constants.gifting[categorie]:
-            sortlabel.append(gift)
+            sortlabel.append('$'+gift+'_gifting')
             sorttotals.append(giftingTotals[categorie][gift])
         
     totals_labels = zip(sorttotals, sortlabel)
     totals_labels.sort(reverse=True)
     
     for total_label in totals_labels:
-            label = '|' + total_label[1].replace('-', '/').replace('_', ' ')+label
+            label = '|' + total_label[1] + label
             totals += str(total_label[0]) + ','
     
     totals = totals[0:-1]
@@ -54,7 +54,7 @@ def graphCategories(categoryTotals):
     #categoryTotals = categoryTotals.reverse()
     for category in constants.categories: 
         totals += str(categoryTotals[category])+","
-        label = "|"+category.replace('-', '/').replace('_', ' ').replace("Gods", "God's")+label
+        label = "|$"+category+"_category"+label
     
     totals = totals[0:-1]
         

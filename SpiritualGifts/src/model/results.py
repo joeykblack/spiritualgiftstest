@@ -7,6 +7,7 @@ Created on Oct 21, 2010
 from google.appengine.ext import db
 from util import constants
 from model.user import GiftsUser
+from util.utils import buildQuestionKey
 
 
 class Resultset(db.Model):
@@ -24,14 +25,14 @@ class Resultset(db.Model):
         for categorie in constants.categories:
             # For each gifting in category
             for gift in constants.gifting[categorie]:
-                key = categorie+"_"+gift+"_"
                 # For each question in category_gifting
                 for index in range(1, 6):
                     # Sum up gifting totals
-                    if (handler.request.get(key+str(index))):
-                        self.results.append( key+str(index) + ',' + handler.request.get(key+str(index)) )
+                    key = buildQuestionKey(categorie, gift, index)
+                    if (handler.request.get(key)):
+                        self.results.append( key + ',' + handler.request.get(key) )
                     else:
-                        self.results.append( key+str(index) + ',' + '0' )
+                        self.results.append( key + ',' + '1' )
     
     def getResultsDict(self):
         re = {}

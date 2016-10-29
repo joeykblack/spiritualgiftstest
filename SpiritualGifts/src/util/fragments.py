@@ -1,16 +1,16 @@
-
+from os import listdir
+from os.path import isfile, join
 
 def langSelector(handler, lang, template_dict={}):
+    languages = [f.replace('.txt', '') for f in listdir('text/') if isfile(join('text/', f))]
     path = handler.request.path
     form = """
             <form action="%s" method="post" style='float:right; margin-right:5px; clear:both;'>
                 <select name='lang' onchange='this.form.submit()'> 
-                    <option %s value="en">English</option>
-                    <option %s value="lg">Oluganda</option>
-                </select>
-            """ % (path,
-                   "selected='selected'" if lang=='en' else '',
-                   "selected='selected'" if lang=='lg' else '') 
+            """ % (path) 
+    for alang in languages:
+        form += "<option %s value=\"%s\">%s</option>" % ("selected='selected'" if lang==alang else '', alang, alang)
+    form += "</select>"
             
     form+="<input type='hidden' name='firstname' value='"+handler.request.get("firstname")+"' />"
     form+="<input type='hidden' name='lastname' value='"+handler.request.get("lastname")+"' />"
@@ -40,3 +40,4 @@ def banner():
             <a href='http://www.lifethrive.com'>www.lifethrive.com</a> - 904-474-3600
         </h5>
         """
+

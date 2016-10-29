@@ -14,12 +14,14 @@ class Test(unittest.TestCase):
 
     def testLanguageSub(self):
         en = loadLanguage("English")
-        print en['dirrections_page_title']
+        print en['directions_page_title']
+        print en['Romans_12']
+        print en['romans_12']
         pass
     
     def testTemplating(self):
         en = loadLanguage("English")
-        s = Template('Title: $dirrections_page_title')
+        s = Template('Title: $directions_page_title')
         print s.substitute(en)
 
 

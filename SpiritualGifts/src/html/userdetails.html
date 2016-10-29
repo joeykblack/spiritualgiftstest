@@ -43,7 +43,7 @@ Test results by date:
 <ul>
 	{% for results in giftsuser.resultsets %}
 		<li>
-			<a href='{{results.url}}'>{{results.date}}</a>
+			<a href='/results?reskey={{results.key}}'>{{results.date}}</a>
 		</li>
 	{% endfor %}
 </ul>

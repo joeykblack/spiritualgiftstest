@@ -11,7 +11,7 @@ class Directions(SGRequestHandler):
         
         
     def post(self):
-        super(Directions, self).render("directions-%s")
+        super(Directions, self).render("directions")
 
     def get(self):
         self.post()

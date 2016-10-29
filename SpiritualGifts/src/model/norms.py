@@ -6,9 +6,7 @@ Created on Nov 2, 2010
 
 from google.appengine.ext import db
 from util import constants, graph
-from model.user import GiftsUser
 import math
-from util.constants import unfix
 
 
 class Norm(db.Model):
@@ -33,7 +31,7 @@ class Norm(db.Model):
         self.settype()
     
     def settype(self):
-        if unfix(self.title) in constants.categories:
+        if self.title in constants.categories:
             self.type='cat'
         else:
             self.type='gift'

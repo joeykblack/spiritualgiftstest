@@ -11,9 +11,8 @@ from model.category import Category
 from model.gift import Gift
 
 from model.results import Resultset
-from util.utils import getUser, getLang
+from util.utils import getUser
 from model.norms import Norm
-from util.constants import fix
 
 from action.SGRequestHandler import SGRequestHandler
 
@@ -45,38 +44,31 @@ class Results(SGRequestHandler):
             resultset.giftsuser=giftsuser
             resultset.saveResults(self)
             resultset.save()
-            resultset.url=self.request.host_url+'/results?reskey='+str(resultset.key())
-            resultset.save()
             
-            #sendResults(resultset)
-        
-            calc.totals(self.request)
-            addnorms() 
+            giftingTotals = calc.totals(self.request)
+            categoryTotals = calc.categoryTotals(giftingTotals)
+            addnorms(categoryTotals, giftingTotals) 
             
-            respond(self, giftsuser, resultset)
+            respond(self, giftsuser, resultset, categoryTotals, giftingTotals)
         elif self.request.get('reskey'):
-            reskey = self.request.get('reskey')
-            resultset=db.get(reskey)
-            giftsuser=resultset.giftsuser
-            
-            respond(self, giftsuser, resultset)
+            self.get()
         else:
-            self.error(404)
+            self.error(403)
         
         
         
-def respond(handler, giftsuser, resultset):
+def respond(handler, giftsuser, resultset, categoryTotals, giftingTotals):
     
     pdf = handler.request.get('pdf')
     
     date = resultset.date.strftime('%B %d, %Y at %I:%M %p')
     
-    pdfurl=resultset.url
+    pdfurl=handler.request.host_url+'/results?reskey='+str(resultset.key())
     
     name = giftsuser.firstname + ' ' + giftsuser.lastname
-    giftsChartUrl = graph.graphGiftings(calc.giftingTotals)
-    categoriesChartUrl = graph.graphCategories(calc.categoryTotals)
-    categories = buildCat(getLang(handler))
+    giftsChartUrl = graph.graphGiftings(giftingTotals)
+    categoriesChartUrl = graph.graphCategories(categoryTotals)
+    categories = buildCat(categoryTotals, giftingTotals)
     fname=giftsuser.firstname + '_' + giftsuser.lastname + '_SpiritualGifts.pdf'
     
     params = {'fname':fname, 'pdf':pdf, 'pdfurl':pdfurl, 'name':name, 
@@ -84,34 +76,33 @@ def respond(handler, giftsuser, resultset):
               'categories':categories, 'reskey':str(resultset.key())} 
     super(Results, handler).render('results', params)
     
+    
         
-def buildCat(lang):
+def buildCat(categoryTotals, giftingTotals):
     catTotals = []
     for cat in constants.categories:
-        catTotals.append(calc.categoryTotals[cat])
+        catTotals.append(categoryTotals[cat])
     catScores = zip(catTotals, constants.categories)
     catScores.sort(reverse=True)
     
-    narratives.loadNarratives(lang)
-    
-    i = 0
+    i = 1
     
     categories = []
     for cats in catScores:
         newcat = None
         newcat = Category()
-        newcat.title = cats[1].replace('-', '/').replace('_', ' ').replace('Gods', "God's")
-        newcat.titlepre = constants.heading[i]
+        newcat.title = '$'+cats[1]+'_category'
+        newcat.titlepre = 'gifting_title_' + str(i)
         i += 1
-        newcat.text = narratives.getNarrative(cats[1], calc.giftingTotals[cats[1]])
+        newcat.text = narratives.getNarrative(cats[1], giftingTotals[cats[1]])
         newcat.gifts = []
         
         for gift in constants.gifting[cats[1]]:
             newgift = None
             newgift = Gift()
-            newgift.title = gift.replace('-', '/').replace('_', ' ').replace('Gods', "God's")
-            newgift.definition = constants.definitions[gift][1]
-            newgift.url = graph.giftGraph(calc.giftingTotals[cats[1]][gift])
+            newgift.title = '$' + gift + '_gifting'
+            newgift.definition = '$' + gift + '_definition'
+            newgift.url = graph.giftGraph(giftingTotals[cats[1]][gift])
             newcat.gifts.append(newgift)
         
         categories.append(newcat)
@@ -120,20 +111,20 @@ def buildCat(lang):
 
 
 
-def addnorms():
+def addnorms(categoryTotals, giftingTotals):
     for cat in constants.categories:
-        norm=db.GqlQuery('SELECT * FROM Norm where  title=:1', fix(cat)).get()
+        norm=db.GqlQuery('SELECT * FROM Norm where  title=:1', cat).get()
         if not norm:
             norm=Norm()
-            norm.init(fix(cat))
-        norm.update(calc.categoryTotals[cat])
+            norm.init(cat)
+        norm.update(categoryTotals[cat])
         norm.save()
         for gift in constants.gifting[cat]:
-            norm=db.GqlQuery('SELECT * FROM Norm where  title=:1', fix(gift)).get()
+            norm=db.GqlQuery('SELECT * FROM Norm where  title=:1', gift).get()
             if not norm:
                 norm=Norm()
-                norm.init(fix(gift))
-            norm.update(calc.giftingTotals[cat][gift])
+                norm.init(gift)
+            norm.update(giftingTotals[cat][gift])
             norm.save()
         
         

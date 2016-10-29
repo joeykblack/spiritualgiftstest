@@ -7,7 +7,6 @@ Created on Nov 2, 2010
 import model
 from model.results import Resultset
 from util import calc, constants
-from util.constants import fix
 from action.SGRequestHandler import SGRequestHandler
 
 class Norms(SGRequestHandler):
@@ -34,19 +33,19 @@ class Norms(SGRequestHandler):
         for resultset in allresultsets:
             re = resultset.getResultsDict()
             # calculate the results
-            calc.totals(re)
+            giftingTotals = calc.totals(re)
             # for each category, append the score for this set
             for cat in constants.categories:
                 scoresets[cat].append(calc.categoryTotals[cat])
                 # for each gifting, append the score for this set
                 for gift in constants.gifting[cat]:
-                    s=calc.giftingTotals[cat][gift]
+                    s=giftingTotals[cat][gift]
                     scoresets[gift].append(s)
 
                 
         # for each category, calculate norm with score set
         for cat in constants.categories:
-            name=fix(cat)
+            name=cat
             norm=model.norms.Norm()
             norm.init(name)
             norm.recalc(scoresets[cat])
@@ -54,7 +53,7 @@ class Norms(SGRequestHandler):
             norms.append(norm)
             # for each gifting, calculate norm with score set
             for gift in constants.gifting[cat]:
-                name=fix(gift)
+                name=gift
                 norm=model.norms.Norm()
                 norm.init(name)
                 norm.recalc(scoresets[gift])

@@ -6,7 +6,6 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/layout.css"/>
 	<script type="text/javascript">lang = '{{lang}}'</script>
-	<script type="text/javascript" src="/js/xstl.js"></script>
 	<title>$spiritual_gifts_test</title>
 
 </head>
@@ -27,7 +26,22 @@
 			{{langhidden|safe}}
 			<input type='hidden' name='newresults' value='true' />
 			
-			<div id="test" />
+			<ol>
+				{% for question in questions %}
+					<li>
+						${{question}}<br />
+						<input type="radio" name="{{question}}" value="1" />1 
+						<input type="radio" name="{{question}}" value="2" />2 
+						<input type="radio" name="{{question}}" value="3" />3 
+						<input type="radio" name="{{question}}" value="4" />4 
+						<input type="radio" name="{{question}}" value="5" />5 
+					</li>
+					<br /><br />
+				{% endfor %}
+			</ol>
+			<p align="center">
+				<input type="submit" value="$see_results" />
+			</p>
 			
 			
 		</form>

@@ -5,7 +5,9 @@ Created on Oct 19, 2010
 '''
 
 from action.SGRequestHandler import SGRequestHandler
-from util.utils import getUserByEmail
+from util.utils import getUserByEmail, buildQuestionKey
+from util import constants
+from random import shuffle
 
 class Test(SGRequestHandler):
         
@@ -24,6 +26,9 @@ class Test(SGRequestHandler):
             userinfo+="<input type='hidden' name='interest' value='"+self.request.get("interest")+"' />"
             userinfo+="<input type='hidden' name='state' value='"+self.request.get("state")+"' />"
             userinfo+="<input type='hidden' name='country' value='"+self.request.get("country")+"' />"
-                
-            super(Test, self).render('test-%s', {'userinfo':userinfo})
+               
+            questions = [buildQuestionKey(category, gift, i) for category in constants.categories for gift in constants.gifting[category] for i in range(1,6)]
+            shuffle(questions)
+               
+            super(Test, self).render('test', {'userinfo':userinfo, 'questions':questions})
         

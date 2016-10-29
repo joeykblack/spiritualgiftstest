@@ -3,11 +3,11 @@ directions_page_title = Directions
 introduction_title = ENDAGIRIRO Y'OKUZUULAMU EKIRABO KYO
 introduction_paragraph_1a = Buli mukkiriza Katonda yamuwa ekirabo olw'okuweereza eri abantu abalala, so si ku lwabwe bo. Olukalala olujjuvu olulimu ebirabo byonna lusobola okusangibwa mu byawandiikibwa bino wammanga:
 Romans_12 = Abaruumi 12:6-8
-1_Corinthians_12 = 1 Abakkolinso 12:4-10, 28
+n1_Corinthians_12 = 1 Abakkolinso 12:4-10, 28
 Ephesians_4 = Baefeso 4:11-12
-1_Peter_4 = 1 Peetero 4:10-11
+n1_Peter_4 = 1 Peetero 4:10-11
 introduction_paragraph_1b = Ojja kukiraba nti ebisatu ku birabo ebyo binokolwayo mu byawandiikibwa ebyo ebina; mu ebyo mwe muli: Okuweereza, Okulagula(Okubuulira), N'okuyigiriza. Ekyawandiikibwa bwe kiddinganibwa, kitera okulaga omugaso ogw'amaanyi oba omuwendo ogwa waggulu oguli ku kintu ekyo.
-introduction_paragraph_2 = Ekirabo ky'oyolesa kisinziira ku ngeri gye wakolebwamu olw'okuweereza abantu abalala, “Olw'ekiseera nga kino.” Kitaffe teyakukola kukufaananya n'omuntu omulala yenna, n'olw'ekyo kya mugaso ggwe obutagoberera oba okuyaayaanira ekirabo ekiteetaagisa eri okuyitibwa kwo. N'olw'ekyo, ekirabo oba ebirabo byonna tebiteekwa kutwalibwa ng'ebya waggulu ennyo oba eby'omugaso ennyo okukira ebirala; n'okusingira ddala singa kiba nga tekigya mu ngeri Katonda gy'ayagalamu ggwe okumuweereza.
+introduction_paragraph_2 = Ekirabo ky'oyolesa kisinziira ku ngeri gye wakolebwamu olw'okuweereza abantu abalala, "Olw'ekiseera nga kino." Kitaffe teyakukola kukufaananya n'omuntu omulala yenna, n'olw'ekyo kya mugaso ggwe obutagoberera oba okuyaayaanira ekirabo ekiteetaagisa eri okuyitibwa kwo. N'olw'ekyo, ekirabo oba ebirabo byonna tebiteekwa kutwalibwa ng'ebya waggulu ennyo oba eby'omugaso ennyo okukira ebirala; n'okusingira ddala singa kiba nga tekigya mu ngeri Katonda gy'ayagalamu ggwe okumuweereza.
 introduction_paragraph_3 = Enkola eno yateekebwawo okusobola okukozesaamu ebirabo byonna ebinokoddwayo mu lukalala lw'ebyawandiikibwa ebyo waggulu. Omuwandiisi akimanyi nti waliyo abo abawulira nti ebirabo ebimu byayita dda. Wabula, bwe kiba nti ebyawandiikibwa bibyogerako, olwo omukisa guba nti Katonda yayagala tubitegeere era tubikozese SINGA aba atulungamya. Omuwandiisi yateeka ebirabo bino mu biti bina ebifaanana okukwatagana obulungi okusinziira ku ngeri gye biweerezaamu eri omubiri gwa Kristo.
 introduction_paragraph_4 = Obubaka buno bwakolebwa okusobola okwongereza ku ngeri gy'otegeeramu obusobozi bwo, empisa, emigaso n'okwagala kw'olina. Obubaka buno bulina okukuyamba okukulungamya mu kuweereza kwo eri Katonda waffe omulamu. Nga bwe kibeera n'eri enjawulo yo ku bantu abalala mu kintu kyonna, na bwe kityo kikkirize era osanyukire engeri Katonda gye yakukolamu.
 introduction_paragraph_5 = Eby'okuddamu byo bijja kukuwa eddaala kw'oli mu biti ebyo ebyogeddwako ne mu birabo kinnakimu. Okulambulula okukuweereddwa kuvudde mu lulimi Olugereeke olwasookawo nga bwe luvvuunulwa mu Nambululabigambo eya Strong's Concordance era ng'eraga engeri gye byafaananangamu eri abo abaaliwo mu budde bwa Baibuli.
@@ -31,10 +31,10 @@ Voluntary_Demographic = Ebirala ebikukwatako
 Male = Musajja
 Female = Mukazi
 Age = Emyaka
-18_29 = 18-29
-30_39 = 30-39
-40_49 = 40-49
-50_plus = 50+
+n18_29 = 18-29
+n30_39 = 30-39
+n40_49 = 40-49
+n50_plus = 50+
 Interest = Ky'ofunamu
 Personal = Kikyo nga ggwe
 Professional = Kya mulimo gwo
@@ -46,130 +46,131 @@ Take_Test = Weebwa ebibuuzo
 
 
 spiritual_gifts_test = OKUVUMBULA EKIRABO KYO
+see_results = See Results
 
 
-Displaying_Gods_love_Encouraging_Question_1 = Kinsanyusa okuzzaamu amaanyi n'okuwanirira abalala mu ntambula yaabwe  ey'omwoyo.
-Displaying_Gods_love_Encouraging_Question_2 = Mpulira ng'abantu bangi tebaba na ssuubi nga basanze okusoomoozebwa mu bulamu.
-Displaying_Gods_love_Encouraging_Question_3 = Nnyaniriza omukisa gwonna ogw'okugabana n'abalala ebyo bye mpiseemu n'okubazzaamu amaanyi.
-Displaying_Gods_love_Encouraging_Question_4 = Nkizudde nga nsobola okusoomooza abalala awatali kubaleetera kwesalira musango.
-Displaying_Gods_love_Encouraging_Question_5 = "Mpulira bulungi" bye bigambo ebitera okuva bantu bempa amagezi.
+Displaying_Gods_love_Encouraging_1 = Kinsanyusa okuzzaamu amaanyi n'okuwanirira abalala mu ntambula yaabwe  ey'omwoyo.
+Displaying_Gods_love_Encouraging_2 = Mpulira ng'abantu bangi tebaba na ssuubi nga basanze okusoomoozebwa mu bulamu.
+Displaying_Gods_love_Encouraging_3 = Nnyaniriza omukisa gwonna ogw'okugabana n'abalala ebyo bye mpiseemu n'okubazzaamu amaanyi.
+Displaying_Gods_love_Encouraging_4 = Nkizudde nga nsobola okusoomooza abalala awatali kubaleetera kwesalira musango.
+Displaying_Gods_love_Encouraging_5 = "Mpulira bulungi" bye bigambo ebitera okuva bantu bempa amagezi.
 
-Displaying_Gods_love_Giving_Question_1 = Mpulira nga ennyingiza yange kikozesebwa mu kusisinkana ebyetaago by'abantu abalala.
-Displaying_Gods_love_Giving_Question_2 = Kimatiza nnyo okuyimirira n'ekkanisa mu kyetaago ky'obuweereza kyonna mu kifo ky'okugulayo ekintu ekiggya.
-Displaying_Gods_love_Giving_Question_3 = Okweyisa obulungi kinsobozesa okuyambako abalala mu byetaago byabwe mu kyama.
-Displaying_Gods_love_Giving_Question_4 = Mazima mbaddenga mpulira ebirowoozo mu nze ebigamba nti "Kya mukisa okugaba okusinga okuweebwa."
-Displaying_Gods_love_Giving_Question_5 = Mbadde nzitoowererwa nnyo mu nze era ne ndyoka nnyanukula nga nnyamba abalala mu by'ensimbi.
+Displaying_Gods_love_Giving_1 = Mpulira nga ennyingiza yange kikozesebwa mu kusisinkana ebyetaago by'abantu abalala.
+Displaying_Gods_love_Giving_2 = Kimatiza nnyo okuyimirira n'ekkanisa mu kyetaago ky'obuweereza kyonna mu kifo ky'okugulayo ekintu ekiggya.
+Displaying_Gods_love_Giving_3 = Okweyisa obulungi kinsobozesa okuyambako abalala mu byetaago byabwe mu kyama.
+Displaying_Gods_love_Giving_4 = Mazima mbaddenga mpulira ebirowoozo mu nze ebigamba nti "Kya mukisa okugaba okusinga okuweebwa."
+Displaying_Gods_love_Giving_5 = Mbadde nzitoowererwa nnyo mu nze era ne ndyoka nnyanukula nga nnyamba abalala mu by'ensimbi.
 
-Displaying_Gods_love_Hospitality_Question_1 = Nsanyukira okufuula amaka gange "ekkungaaniro" eri abalala.
-Displaying_Gods_love_Hospitality_Question_2 = Okusanyusa abalala kimpa okumatizibwa munda mu nze.
-Displaying_Gods_love_Hospitality_Question_3 = Bangi abakyalako ewange bawulira okusanyusibwa era batera okulwawo okumalayo akaseera.
-Displaying_Gods_love_Hospitality_Question_4 = Sitera kuwulira "kwagala kwa kwegatta?" bwemba n'omuntu asuze ewange.
-Displaying_Gods_love_Hospitality_Question_5 = Okweteekerateekera okukyala kw'abalala mu maka gange kinsanyusa era kimpa okujaguza mu nze.
+Displaying_Gods_love_Hospitality_1 = Nsanyukira okufuula amaka gange "ekkungaaniro" eri abalala.
+Displaying_Gods_love_Hospitality_2 = Okusanyusa abalala kimpa okumatizibwa munda mu nze.
+Displaying_Gods_love_Hospitality_3 = Bangi abakyalako ewange bawulira okusanyusibwa era batera okulwawo okumalayo akaseera.
+Displaying_Gods_love_Hospitality_4 = Sitera kuwulira "kwagala kwa kwegatta?" bwemba n'omuntu asuze ewange.
+Displaying_Gods_love_Hospitality_5 = Okweteekerateekera okukyala kw'abalala mu maka gange kinsanyusa era kimpa okujaguza mu nze.
 
-Displaying_Gods_love_Serving_Helps_Question_1 = Nze ndaba ng'ebikolwa by'okuyamba bisasula nnyo okusinga okwogera era/oba okuyigiriza.
-Displaying_Gods_love_Serving_Helps_Question_2 = Ani afuna ekitiibwa si y'ensonga kasita kiba nti ebyetaago by'abalala bisisinkaniddwa.
-Displaying_Gods_love_Serving_Helps_Question_3 = Essanyu nsinga kulisanga mu kutuukiriza emirimo awatali kweraga eri abalala.
-Displaying_Gods_love_Serving_Helps_Question_4 = Okusanyusa abalala kisingira ekirabo ekirala kyonna.
-Displaying_Gods_love_Serving_Helps_Question_5 = Nfuna essanyu lingi nnyo mu kukola emirimo emitonotono mu by'emikono egisobola okuyamba abantu.
+Displaying_Gods_love_Serving_Helps_1 = Nze ndaba ng'ebikolwa by'okuyamba bisasula nnyo okusinga okwogera era/oba okuyigiriza.
+Displaying_Gods_love_Serving_Helps_2 = Ani afuna ekitiibwa si y'ensonga kasita kiba nti ebyetaago by'abalala bisisinkaniddwa.
+Displaying_Gods_love_Serving_Helps_3 = Essanyu nsinga kulisanga mu kutuukiriza emirimo awatali kweraga eri abalala.
+Displaying_Gods_love_Serving_Helps_4 = Okusanyusa abalala kisingira ekirabo ekirala kyonna.
+Displaying_Gods_love_Serving_Helps_5 = Nfuna essanyu lingi nnyo mu kukola emirimo emitonotono mu by'emikono egisobola okuyamba abantu.
 
-Displaying_Gods_love_Showing_Mercy_Question_1 = Nagambibwa nti oluusi ntera okuyamba abo "abayiikirizibwa."
-Displaying_Gods_love_Showing_Mercy_Question_2 = Olutalo luli mu kusigala ng'ofugibwa endowooza yo so si kusonyiwa balala.
-Displaying_Gods_love_Showing_Mercy_Question_3 = Nnina ekisa kingi eri abo abanyoleddwa oba abali mu buyinike.
-Displaying_Gods_love_Showing_Mercy_Question_4 = Nfuna essanyu lingi mu kubeera nga nsobola okusanyusa abo abayita mu kiseera ekizibu.
-Displaying_Gods_love_Showing_Mercy_Question_5 = Nneesanze ng'oluusi ndaba obulumi mu bulamu bw'abalala ne bwe baba nga tebabulaze.
-
-
-Communicating_Gods_mind_Evangelism_Question_1 = Abalala bagamba nti ndaga enkola ennungi era esaanye eri obulokozi.
-Communicating_Gods_mind_Evangelism_Question_2 = Mpulira emirembe mu kugabana okukkiriza kwange n'abatakkiriza.
-Communicating_Gods_mind_Evangelism_Question_3 = Nnina omugugu ogw'amaanyi eri abo abatalina mirembe gya bulokozi.
-Communicating_Gods_mind_Evangelism_Question_4 = Nkwatibwako nnyo obutabeerako musaayi gwa muntu yenna singa sigabana kukkiriza kwange n'abalala.
-Communicating_Gods_mind_Evangelism_Question_5 = Nzijula  essanyu bwemba nga ngabana enjiri eri abantu abangi.
-
-Communicating_Gods_mind_Knowledge_Question_1 = Katonda anzijukiza ebyawandiikibwa oba ebyo bye mpiseemu singa nsanga okuzitoowererwa mu kusalazo.
-Communicating_Gods_mind_Knowledge_Question_2 = Nfuna essanyu lingi nnyo, emirembe n'okubikkulirwa nga snoma ebyawandiikibwa.
-Communicating_Gods_mind_Knowledge_Question_3 = Nnyumirwa okugenda ebuziba mu byawandiikibwa, ebyafaayo n'ensonga ez'abantu.
-Communicating_Gods_mind_Knowledge_Question_4 = Nayagalanga nnyo okufuna obubaka era nga ntera okukola obulungi ennyo.
-Communicating_Gods_mind_Knowledge_Question_5 = Okusoomooza ebyawandiikibwa kindeetera okugendako ebuziba okutuusa nga nfunye eky'okuddamu.
-
-Communicating_Gods_mind_Prophecy_Question_1 = Katonda bw'ampa okumanya okw'ebuziba ku kintu mpulira okuwalirizibwa okukugabana n'abalala mu buli ngeri.
-Communicating_Gods_mind_Prophecy_Question_2 = Mu kwogera amazima ga Katonda siriiko kye nkyusa n'akatono ku bulamu bwange oba obw'abalala.
-Communicating_Gods_mind_Prophecy_Question_3 = Emirundi egisoba mu gumu nnalina okwogera amazima ga Katonda.
-Communicating_Gods_mind_Prophecy_Question_4 = Njagala okubuulira amazima ga Katonda agaayita, aga kaakano n'ago agomu biro eby'omu maaso.
-Communicating_Gods_mind_Prophecy_Question_5 = Mu biro ebyayita ebigambo byange byaleetanga okulumirizibwa olw'ekibi eri abalala.
-
-Communicating_Gods_mind_Teaching_Question_1 = Mpalirizibwa okugabana ekyo kye njize mu byawandiikibwa ne mu kusoma.
-Communicating_Gods_mind_Teaching_Question_2 = Okuyigiriza kwange kuwa abantu okumanya okw'ebuziba mu Baibuli n'okuyambibwa.
-Communicating_Gods_mind_Teaching_Question_3 = Nsobodde okumanya eby'okulabirako mu mwoyo n'okubibuulira abalala.
-Communicating_Gods_mind_Teaching_Question_4 = Kimpa nnyo omukisa okuyamba abalala okutegeera amazima ga Katonda.
-Communicating_Gods_mind_Teaching_Question_5 = Ntera okusabibwa okunnyonnyola ennono z'ebyawandiikibwa n'emigaso gyazo.
-
-Communicating_Gods_mind_Wisdom_Question_1 = Ntera okwebuuzibwako abalala nga balwanagana n'okusalawo okuzibu.
-Communicating_Gods_mind_Wisdom_Question_2 = Katonda ankozesa okuleetawo obutebenkenvu awali okuyoogaana oba obutasalawo.
-Communicating_Gods_mind_Wisdom_Question_3 = Amagezi ga Katonda gannyambye okuyamba abalala mu lugendo lwabwe olw'omwoyo.
-Communicating_Gods_mind_Wisdom_Question_4 = Katonda atera okumpa okumanya n'eby'okuddamu eri ensonga enzibu ennyo.
-Communicating_Gods_mind_Wisdom_Question_5 = Abakkiriza abakuze mu mwoyo babadde bansaba ebirowoozo byange ku nsonga z'obulamu ezisoomooza.
+Displaying_Gods_love_Showing_Mercy_1 = Nagambibwa nti oluusi ntera okuyamba abo "abayiikirizibwa."
+Displaying_Gods_love_Showing_Mercy_2 = Olutalo luli mu kusigala ng'ofugibwa endowooza yo so si kusonyiwa balala.
+Displaying_Gods_love_Showing_Mercy_3 = Nnina ekisa kingi eri abo abanyoleddwa oba abali mu buyinike.
+Displaying_Gods_love_Showing_Mercy_4 = Nfuna essanyu lingi mu kubeera nga nsobola okusanyusa abo abayita mu kiseera ekizibu.
+Displaying_Gods_love_Showing_Mercy_5 = Nneesanze ng'oluusi ndaba obulumi mu bulamu bw'abalala ne bwe baba nga tebabulaze.
 
 
-Managing_with_Gods_principles_Administration_Question_1 = Abantu abalala batera okunnoonya olw'okukwanaganya obuweereza, okukola entegeka n'okulungamya.
-Managing_with_Gods_principles_Administration_Question_2 = Nnina obusobozi bw'okubeera mu kifo ekituufu n'okuyambako obuweereza okufuna ebibala ebirungi.
-Managing_with_Gods_principles_Administration_Question_3 = Okuteekateeka n'okukulaakulana kw'obuweereza bimpa okumatizibwa okw'amaanyi mu nze.
-Managing_with_Gods_principles_Administration_Question_4 = Sirina buzibu mu kukwasa omuntu obuvunaanyizibwa ku ebyo ebyetaaga okukolebwa olw'obuwanguzi bw'obuweereza.
-Managing_with_Gods_principles_Administration_Question_5 = Nsanyukira okukola emirimo egy'amazima era nga gituukirizibwa mu biro ebituufu.
+Communicating_Gods_mind_Evangelism_1 = Abalala bagamba nti ndaga enkola ennungi era esaanye eri obulokozi.
+Communicating_Gods_mind_Evangelism_2 = Mpulira emirembe mu kugabana okukkiriza kwange n'abatakkiriza.
+Communicating_Gods_mind_Evangelism_3 = Nnina omugugu ogw'amaanyi eri abo abatalina mirembe gya bulokozi.
+Communicating_Gods_mind_Evangelism_4 = Nkwatibwako nnyo obutabeerako musaayi gwa muntu yenna singa sigabana kukkiriza kwange n'abalala.
+Communicating_Gods_mind_Evangelism_5 = Nzijula  essanyu bwemba nga ngabana enjiri eri abantu abangi.
 
-Managing_with_Gods_principles_Apostles_Question_1 = Nzikiriza nga tewali nsalo mu mubiri oba mu birowoozo eziyinza okunziyiza okubeera mu kifo kyange mu bwakabaka.
-Managing_with_Gods_principles_Apostles_Question_2 = Mpitiddwa okuweereza eri ebitundu eby'enjawulo, amawanga n'obuwangwa.
-Managing_with_Gods_principles_Apostles_Question_3 = Nnina okuyaayaana okw'amaanyi okw'okutwala enjiri eri eyo yonna gy'etawulirwangako.
-Managing_with_Gods_principles_Apostles_Question_4 = Katonda antendeka okuzzaamu amaanyi n'okubangula abakulembeze ab'omwoyo abangi.
-Managing_with_Gods_principles_Apostles_Question_5 = Okutandika, okutendeka n'okuyimusa abakulembeze ab'omwoyo tekintiisa.
+Communicating_Gods_mind_Knowledge_1 = Katonda anzijukiza ebyawandiikibwa oba ebyo bye mpiseemu singa nsanga okuzitoowererwa mu kusalazo.
+Communicating_Gods_mind_Knowledge_2 = Nfuna essanyu lingi nnyo, emirembe n'okubikkulirwa nga snoma ebyawandiikibwa.
+Communicating_Gods_mind_Knowledge_3 = Nnyumirwa okugenda ebuziba mu byawandiikibwa, ebyafaayo n'ensonga ez'abantu.
+Communicating_Gods_mind_Knowledge_4 = Nayagalanga nnyo okufuna obubaka era nga ntera okukola obulungi ennyo.
+Communicating_Gods_mind_Knowledge_5 = Okusoomooza ebyawandiikibwa kindeetera okugendako ebuziba okutuusa nga nfunye eky'okuddamu.
 
-Managing_with_Gods_principles_Faith_Question_1 = Sseebuuza bulokozi bwange oba omukono gwa Katonda ku bulamu bwange.
-Managing_with_Gods_principles_Faith_Question_2 = Katonda tangiwangako, era eyo y'ensonga lwaki simwebuuza kaakano.
-Managing_with_Gods_principles_Faith_Question_3 = Nyanguyirwa nnyo okukkiriza nti Katonda ky'ayogera kiba nya mazima era kyesigika.
-Managing_with_Gods_principles_Faith_Question_4 = Okulumirizibwa kwange nkulabye nga kulungamya wamu n'okuwa abalala essuubi.
-Managing_with_Gods_principles_Faith_Question_5 = Kristo yekka y'alina ebigambo by'obulamu obutaggwaawo, n'olw'ekyo tewali kifo kirala eky'okuddukiramu.
+Communicating_Gods_mind_Prophecy_1 = Katonda bw'ampa okumanya okw'ebuziba ku kintu mpulira okuwalirizibwa okukugabana n'abalala mu buli ngeri.
+Communicating_Gods_mind_Prophecy_2 = Mu kwogera amazima ga Katonda siriiko kye nkyusa n'akatono ku bulamu bwange oba obw'abalala.
+Communicating_Gods_mind_Prophecy_3 = Emirundi egisoba mu gumu nnalina okwogera amazima ga Katonda.
+Communicating_Gods_mind_Prophecy_4 = Njagala okubuulira amazima ga Katonda agaayita, aga kaakano n'ago agomu biro eby'omu maaso.
+Communicating_Gods_mind_Prophecy_5 = Mu biro ebyayita ebigambo byange byaleetanga okulumirizibwa olw'ekibi eri abalala.
 
-Managing_with_Gods_principles_Pastors_Question_1 = Nsanga essanyu lingi nnyo mu kuweereza eri abantu be bamu okumala ekiseera ekiwanvu.
-Managing_with_Gods_principles_Pastors_Question_2 = Nfuna nnyo emikwano n'abantu olw'obusobozi bwange mu kulera abalala n'okubakuza.
-Managing_with_Gods_principles_Pastors_Question_3 = Mpulira okumatizibwa okw'amaanyi mu kuyamba abo abanafu okufuna amaanyi.
-Managing_with_Gods_principles_Pastors_Question_4 = Mpulira nga nvunaanyizibwa okuyamba oba okulungamya abo abandi okumpi era nga beetaaga okulungamya.
-Managing_with_Gods_principles_Pastors_Question_5 = Katonda afaanana okuba ng'awa abantu abalala ebigambo bye baagala okuwulira bwemba nga njogera.
+Communicating_Gods_mind_Teaching_1 = Mpalirizibwa okugabana ekyo kye njize mu byawandiikibwa ne mu kusoma.
+Communicating_Gods_mind_Teaching_2 = Okuyigiriza kwange kuwa abantu okumanya okw'ebuziba mu Baibuli n'okuyambibwa.
+Communicating_Gods_mind_Teaching_3 = Nsobodde okumanya eby'okulabirako mu mwoyo n'okubibuulira abalala.
+Communicating_Gods_mind_Teaching_4 = Kimpa nnyo omukisa okuyamba abalala okutegeera amazima ga Katonda.
+Communicating_Gods_mind_Teaching_5 = Ntera okusabibwa okunnyonnyola ennono z'ebyawandiikibwa n'emigaso gyazo.
 
-Managing_with_Gods_principles_Leadership_Oversight_Question_1 = Nsanga essanyu lingi mu buweereza era mpulira nga mpitiddwa okubeera ku mwanjo mu buweereza.
-Managing_with_Gods_principles_Leadership_Oversight_Question_2 = Katonda ampadde okuganja era awalulidde bangi gyendi olw'okubawa okulungamizibwa mu mwoyo.
-Managing_with_Gods_principles_Leadership_Oversight_Question_3 = Mpulira okuweebwa omukisa wamu n'obusobozi bw'okumanyisa abalala okwolesebwa nabo balyoke bagoberere.
-Managing_with_Gods_principles_Leadership_Oversight_Question_4 = Ntunuulirwa ng'omuntu ow'obuyinza eri abalala abanoonya engeri y'okuweerezaamu Katonda.
-Managing_with_Gods_principles_Leadership_Oversight_Question_5 = Nfuna essanyu mu kulungamya, okukulembera n'okuzzaamu abalala amaanyi olw'okuweereza Katonda.
+Communicating_Gods_mind_Wisdom_1 = Ntera okwebuuzibwako abalala nga balwanagana n'okusalawo okuzibu.
+Communicating_Gods_mind_Wisdom_2 = Katonda ankozesa okuleetawo obutebenkenvu awali okuyoogaana oba obutasalawo.
+Communicating_Gods_mind_Wisdom_3 = Amagezi ga Katonda gannyambye okuyamba abalala mu lugendo lwabwe olw'omwoyo.
+Communicating_Gods_mind_Wisdom_4 = Katonda atera okumpa okumanya n'eby'okuddamu eri ensonga enzibu ennyo.
+Communicating_Gods_mind_Wisdom_5 = Abakkiriza abakuze mu mwoyo babadde bansaba ebirowoozo byange ku nsonga z'obulamu ezisoomooza.
 
 
-Displaying_Gods_authority_Distinguishing_of_Spirits_Question_1 = Sitera kufuna buzibu mu kulaba omuntu agezaako okweyimirizaawo ng'awangula okubeera ekyo ky'atali.
-Displaying_Gods_authority_Distinguishing_of_Spirits_Question_2 = Nfuba nnyo okumanya ebigendererwa ebiri emabega w'ebigambo by'omuntu omulala.
-Displaying_Gods_authority_Distinguishing_of_Spirits_Question_3 = Nategeerako omuntu omulala eyayagala  okukozesebwa omwoyo omubi.
-Displaying_Gods_authority_Distinguishing_of_Spirits_Question_4 = Nsobola okulamula wakati w'amazima n'ensobi eziri mu sitatimenti yonna eyogera ku Katonda.
-Displaying_Gods_authority_Distinguishing_of_Spirits_Question_5 = Katonda ampadde amagezi ag'okumanya emyoyo egikolera mu bantu abalala.
+Managing_with_Gods_principles_Administration_1 = Abantu abalala batera okunnoonya olw'okukwanaganya obuweereza, okukola entegeka n'okulungamya.
+Managing_with_Gods_principles_Administration_2 = Nnina obusobozi bw'okubeera mu kifo ekituufu n'okuyambako obuweereza okufuna ebibala ebirungi.
+Managing_with_Gods_principles_Administration_3 = Okuteekateeka n'okukulaakulana kw'obuweereza bimpa okumatizibwa okw'amaanyi mu nze.
+Managing_with_Gods_principles_Administration_4 = Sirina buzibu mu kukwasa omuntu obuvunaanyizibwa ku ebyo ebyetaaga okukolebwa olw'obuwanguzi bw'obuweereza.
+Managing_with_Gods_principles_Administration_5 = Nsanyukira okukola emirimo egy'amazima era nga gituukirizibwa mu biro ebituufu.
 
-Displaying_Gods_authority_Healings_Question_1 = Nfuna essanyu lingi nnyo mu kusabira abalwadde mu bubiri, mu birowoozo oba mu mwoyo.
-Displaying_Gods_authority_Healings_Question_2 = Ndabye Katonda ng'ayanukula okusaba kwange okuyita mu kuwonya omuntu gwe. nsabidde.
-Displaying_Gods_authority_Healings_Question_3 = Ndabyeko okuwonyezebwa nga kubaawo emirundi egisoba mu gumu nga nze n'abalala tusaba.
-Displaying_Gods_authority_Healings_Question_4 = Nzikiriza nti Katonda ayamba abantu era ndi mumativu nti okusaba kuleetawo enjawulo.
-Displaying_Gods_authority_Healings_Question_5 = Bwe nsabira abalala okuwonyezebwa, ntegeera bulungi amaanyi agasukkiridde ku nze.
+Managing_with_Gods_principles_Apostles_1 = Nzikiriza nga tewali nsalo mu mubiri oba mu birowoozo eziyinza okunziyiza okubeera mu kifo kyange mu bwakabaka.
+Managing_with_Gods_principles_Apostles_2 = Mpitiddwa okuweereza eri ebitundu eby'enjawulo, amawanga n'obuwangwa.
+Managing_with_Gods_principles_Apostles_3 = Nnina okuyaayaana okw'amaanyi okw'okutwala enjiri eri eyo yonna gy'etawulirwangako.
+Managing_with_Gods_principles_Apostles_4 = Katonda antendeka okuzzaamu amaanyi n'okubangula abakulembeze ab'omwoyo abangi.
+Managing_with_Gods_principles_Apostles_5 = Okutandika, okutendeka n'okuyimusa abakulembeze ab'omwoyo tekintiisa.
 
-Displaying_Gods_authority_Interpreting_Tongues_Question_1 = Olw'ensonga emu oba endala, mmanyi abalala kye bategeeza bwe mpulira ennimi.
-Displaying_Gods_authority_Interpreting_Tongues_Question_2 = Mpulira ng'okutegeera ennimi endala kinnyamba nze okuyamba abalala.
-Displaying_Gods_authority_Interpreting_Tongues_Question_3 = Nsobola okumalawo okuyoogaana okuyita mu kugabana n'abantu amakulu agali mu lulimi olulala.
-Displaying_Gods_authority_Interpreting_Tongues_Question_4 = Nzijukira omulundi ogwasooka gwe nnalowooza nga ddala ntegedde ebyayogerwa mu nnimi.
-Displaying_Gods_authority_Interpreting_Tongues_Question_5 = Nnavvuunulako omuntu ng'ayogera mu nnimi.
+Managing_with_Gods_principles_Faith_1 = Sseebuuza bulokozi bwange oba omukono gwa Katonda ku bulamu bwange.
+Managing_with_Gods_principles_Faith_2 = Katonda tangiwangako, era eyo y'ensonga lwaki simwebuuza kaakano.
+Managing_with_Gods_principles_Faith_3 = Nyanguyirwa nnyo okukkiriza nti Katonda ky'ayogera kiba nya mazima era kyesigika.
+Managing_with_Gods_principles_Faith_4 = Okulumirizibwa kwange nkulabye nga kulungamya wamu n'okuwa abalala essuubi.
+Managing_with_Gods_principles_Faith_5 = Kristo yekka y'alina ebigambo by'obulamu obutaggwaawo, n'olw'ekyo tewali kifo kirala eky'okuddukiramu.
 
-Displaying_Gods_authority_Miracles_Question_1 = Ndabye ebyamagero bingi nnyo mu bulamu bwange so siyinza kubibuusabuusa.
-Displaying_Gods_authority_Miracles_Question_2 = Nsobola okujjukira ekintu ekimu oba ebingi ebyali bibaddewo Katonda n'abyenyigiramu.
-Displaying_Gods_authority_Miracles_Question_3 = Abalala babadde bagamba nti Katonda yankozesa mu ngeri esukkiridde obutonde okukyusa obulamu bwabwe.
-Displaying_Gods_authority_Miracles_Question_4 = Ndabye Katonda ng'ayingira mu ntambula y'obulamu bw'abantu okusinziira ku kusaba.
-Displaying_Gods_authority_Miracles_Question_5 = Gyenkoma okwogera n'ensi ey'omwoyo, Katonda gy'akoma okumpa maanyi.
+Managing_with_Gods_principles_Pastors_1 = Nsanga essanyu lingi nnyo mu kuweereza eri abantu be bamu okumala ekiseera ekiwanvu.
+Managing_with_Gods_principles_Pastors_2 = Nfuna nnyo emikwano n'abantu olw'obusobozi bwange mu kulera abalala n'okubakuza.
+Managing_with_Gods_principles_Pastors_3 = Mpulira okumatizibwa okw'amaanyi mu kuyamba abo abanafu okufuna amaanyi.
+Managing_with_Gods_principles_Pastors_4 = Mpulira nga nvunaanyizibwa okuyamba oba okulungamya abo abandi okumpi era nga beetaaga okulungamya.
+Managing_with_Gods_principles_Pastors_5 = Katonda afaanana okuba ng'awa abantu abalala ebigambo bye baagala okuwulira bwemba nga njogera.
 
-Displaying_Gods_authority_Tongues_Question_1 = Omwoyo Omutukuvu ayogerera mu nze bwemba nga simanyi kya kwogera.
-Displaying_Gods_authority_Tongues_Question_2 = Omwoyo Omutukuvu bw'ayogera okuyita mu nze, mpulira okubeerawo kwa Katonda mu nze.
-Displaying_Gods_authority_Tongues_Question_3 = Okwogera mu nnimi endala/ez'enjawulo tekibangawo nga ssinalokoka.
-Displaying_Gods_authority_Tongues_Question_4 = Mpulira nga nnina olulimi lw'okusabiramu lwe ssitegeera emirundi egimu.
-Displaying_Gods_authority_Tongues_Question_5 = Waliwo eddembe lye mpulira bwemba nga njogera mu nnimi lye sitera kuba nalyo.
+Managing_with_Gods_principles_Leadership_Oversight_1 = Nsanga essanyu lingi mu buweereza era mpulira nga mpitiddwa okubeera ku mwanjo mu buweereza.
+Managing_with_Gods_principles_Leadership_Oversight_2 = Katonda ampadde okuganja era awalulidde bangi gyendi olw'okubawa okulungamizibwa mu mwoyo.
+Managing_with_Gods_principles_Leadership_Oversight_3 = Mpulira okuweebwa omukisa wamu n'obusobozi bw'okumanyisa abalala okwolesebwa nabo balyoke bagoberere.
+Managing_with_Gods_principles_Leadership_Oversight_4 = Ntunuulirwa ng'omuntu ow'obuyinza eri abalala abanoonya engeri y'okuweerezaamu Katonda.
+Managing_with_Gods_principles_Leadership_Oversight_5 = Nfuna essanyu mu kulungamya, okukulembera n'okuzzaamu abalala amaanyi olw'okuweereza Katonda.
+
+
+Displaying_Gods_authority_Distinguishing_of_Spirits_1 = Sitera kufuna buzibu mu kulaba omuntu agezaako okweyimirizaawo ng'awangula okubeera ekyo ky'atali.
+Displaying_Gods_authority_Distinguishing_of_Spirits_2 = Nfuba nnyo okumanya ebigendererwa ebiri emabega w'ebigambo by'omuntu omulala.
+Displaying_Gods_authority_Distinguishing_of_Spirits_3 = Nategeerako omuntu omulala eyayagala  okukozesebwa omwoyo omubi.
+Displaying_Gods_authority_Distinguishing_of_Spirits_4 = Nsobola okulamula wakati w'amazima n'ensobi eziri mu sitatimenti yonna eyogera ku Katonda.
+Displaying_Gods_authority_Distinguishing_of_Spirits_5 = Katonda ampadde amagezi ag'okumanya emyoyo egikolera mu bantu abalala.
+
+Displaying_Gods_authority_Healings_1 = Nfuna essanyu lingi nnyo mu kusabira abalwadde mu bubiri, mu birowoozo oba mu mwoyo.
+Displaying_Gods_authority_Healings_2 = Ndabye Katonda ng'ayanukula okusaba kwange okuyita mu kuwonya omuntu gwe. nsabidde.
+Displaying_Gods_authority_Healings_3 = Ndabyeko okuwonyezebwa nga kubaawo emirundi egisoba mu gumu nga nze n'abalala tusaba.
+Displaying_Gods_authority_Healings_4 = Nzikiriza nti Katonda ayamba abantu era ndi mumativu nti okusaba kuleetawo enjawulo.
+Displaying_Gods_authority_Healings_5 = Bwe nsabira abalala okuwonyezebwa, ntegeera bulungi amaanyi agasukkiridde ku nze.
+
+Displaying_Gods_authority_Interpreting_Tongues_1 = Olw'ensonga emu oba endala, mmanyi abalala kye bategeeza bwe mpulira ennimi.
+Displaying_Gods_authority_Interpreting_Tongues_2 = Mpulira ng'okutegeera ennimi endala kinnyamba nze okuyamba abalala.
+Displaying_Gods_authority_Interpreting_Tongues_3 = Nsobola okumalawo okuyoogaana okuyita mu kugabana n'abantu amakulu agali mu lulimi olulala.
+Displaying_Gods_authority_Interpreting_Tongues_4 = Nzijukira omulundi ogwasooka gwe nnalowooza nga ddala ntegedde ebyayogerwa mu nnimi.
+Displaying_Gods_authority_Interpreting_Tongues_5 = Nnavvuunulako omuntu ng'ayogera mu nnimi.
+
+Displaying_Gods_authority_Miracles_1 = Ndabye ebyamagero bingi nnyo mu bulamu bwange so siyinza kubibuusabuusa.
+Displaying_Gods_authority_Miracles_2 = Nsobola okujjukira ekintu ekimu oba ebingi ebyali bibaddewo Katonda n'abyenyigiramu.
+Displaying_Gods_authority_Miracles_3 = Abalala babadde bagamba nti Katonda yankozesa mu ngeri esukkiridde obutonde okukyusa obulamu bwabwe.
+Displaying_Gods_authority_Miracles_4 = Ndabye Katonda ng'ayingira mu ntambula y'obulamu bw'abantu okusinziira ku kusaba.
+Displaying_Gods_authority_Miracles_5 = Gyenkoma okwogera n'ensi ey'omwoyo, Katonda gy'akoma okumpa maanyi.
+
+Displaying_Gods_authority_Tongues_1 = Omwoyo Omutukuvu ayogerera mu nze bwemba nga simanyi kya kwogera.
+Displaying_Gods_authority_Tongues_2 = Omwoyo Omutukuvu bw'ayogera okuyita mu nze, mpulira okubeerawo kwa Katonda mu nze.
+Displaying_Gods_authority_Tongues_3 = Okwogera mu nnimi endala/ez'enjawulo tekibangawo nga ssinalokoka.
+Displaying_Gods_authority_Tongues_4 = Mpulira nga nnina olulimi lw'okusabiramu lwe ssitegeera emirundi egimu.
+Displaying_Gods_authority_Tongues_5 = Waliwo eddembe lye mpulira bwemba nga njogera mu nnimi lye sitera kuba nalyo.
 
 
 
@@ -190,7 +191,7 @@ Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Givi
 Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = Obeera n'obusobozi obutali bwa bulijjo obw'okulaga okwagala kwa Katonda n'okusaasira kwe era  ng'oyagala okugabana ekyo ky'owulira n'abalala. Okwaniriza abantu mu maka go y'engeri esinga obulungi ey'okukolamu ekyo. Osanyukira okulaga ekisa eky'ebuziba n'okufaayo eri abo abakwetoolodde. Obeera oyagala okuzzaamu abalala amaanyi n'okulaba nti ebyetaago byabwe bisisinkaniddwa ne bwekiba kikutwalira okuwaayo omuwendo.
 Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = Obeera oyagala okubeera n'abantu  awo w'oli ne mu maka go osobole okugabana okwagala kwo n'essanyu lyo wamu nabo. Obeera era oyagala okuwaayo obulamu bwo mu buli ngeri wamu n'okugabana nabo ebintu byo eby'omubiri  n'ensimbi okulaba nti baddamu amaanyi era n'okuwulira nga ba mukisa nga bavudde w'oli.
 Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = Owulira essanyu ery'ekitalo ng'omaze akaseera ne munno, ng'omulaga nti  Katonda amwagala wamu n'omubiri gwa Kristo. Obeera n'okuyaayaana okulaba nti obayamba okusisinkana ebyetaago byabwe okuyita mu kwewaayo kwo wamu n'okuwaayo ebibyo. Kino mwembi kibawa omukisa.
-Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = Okuyaayaana kwo okusinga kwe kusisinkana ebyetaago by'abalala mu kyama. Newankubadde ng'oyinza okunyumirwa okwebazibwa kw'ofuna, ekyo si kye kiba eky'omugaso gy'oli â€“ wabula liba ssanyu ly'okulaba nti oliko ky'owaddeyo eri omuntu okuyita mu Katonda ng'akolera mu ggwe.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = Okuyaayaana kwo okusinga kwe kusisinkana ebyetaago by'abalala mu kyama. Newankubadde ng'oyinza okunyumirwa okwebazibwa kw'ofuna, ekyo si kye kiba eky'omugaso gy'oli Ã¢â‚¬" wabula liba ssanyu ly'okulaba nti oliko ky'owaddeyo eri omuntu okuyita mu Katonda ng'akolera mu ggwe.
 Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = Yadde ng'olina obusobozi bw'okwolesa okwagala kwa Katonda mu ngeri ezimu, amaanyi go agasinga obungi gaba mu biti ebirala ebisinga okuwa eky'okulabirako ky'ekyo Katonda kye yakutondera okubeera wamu n'engeri gye yakutondamu okuweereza omubiri gwa Kristo.
 Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = Obeera osinga kwagala kwolesa ekirabo ky'okusaasira okusinga ebirabo ebirala ebyeyoleka. Embeera z'obulamu bwo ziba zaakukyusa nnyo era ne ziteeka okuyaayaana okw'ekitalo mu mutima gwo eri abo ababonyaabonyezebwa oba abanoonya okuyambibwa. Oluusi oyinza okuwulira mu ggwe nti okimanyi nti tewali muntu mulala ayinza okuyambamu abantu kinnoomu nga ggwe.
 Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = Obeera n'okuyaayaana okw'amaanyi okulaba nti ebyetaago by'abalala bituukirizibwa kubanga owulira okwagala kwa Katonda n'okusaasira kwe era ng'oyagala okugabana ekyo ky'owulira n'abalala. Obeera n'ekifo eky'enjawulo mu mutima gwo olw'okubazzaamu amaanyi okuyita mu mutima ogw'okwagala , ogufaayo ate ogutasala musango. Kuba kuyaayaana kwo okulaba nti bawulira nga ba mugaso kasita babeera awamu naawe.
@@ -213,7 +214,7 @@ Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Givi
 Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_05_14 = Obeera n'okuyaayaana okw'amaanyi okulaba nti ebyetaago by'abalala bituukirizibwa kubanga owulira okwagala kwa Katonda n'okusaasira kwe era ng'oyagala okugabana ekyo ky'owulira n'abalala. Nate ofuna okumatizibwa okw'amaanyi mu kukyala kw'abagenyi n'abo b'olabirira mu maka go olw'okuwummulirako ewuwo. Obeera oyagala nnyo abalala okuwulira obulungi.
 Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_15_25 = Nate ofuna okumatizibwa okw'amaanyi mu kukyala kw'abagenyi n'abo b'olabirira mu maka go olw'okuwummulirako ewuwo wamu n'okusisinkana ebyetaago byabwe eby'omubiri n'ebyensimbi. Obeera muntu wa kisa akyaza abantu era abo akyala mu maka go mu biseera by'obuweereza bavaayo nga bawulira obawadde omukisa.
 Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_05_14 = Nate ofuna okumatizibwa okw'amaanyi mu kukyala kw'abagenyi n'abo b'olabirira mu maka go olw'okuwummulirako ewuwo wamu n'okubazzaamu amaanyi okunyweza okukkiriza. Obeera muntu wa kisa akyaza abantu era abo akyala mu maka go mu biseera by'obuweereza bavaayo nga bawulira essuubi ey'amaanyi.
-Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = Obeera n'okuyaayaana okw'amaanyi okulaba nti osembeza abo abalwana n'embeera eri embeera yo ey'emirembe ng'emu ku ngeri y'okulagamu okukkiriza kwo nti Katonda ajja kubayambanga bulijjo. Bw'oweereza eri abo abeetaaga oba abalwana n'obulamu obeera n'engeri gy'obaleeteramu okuwulira obulungi wamu n'okulaba obusobozi bwa Katonda. Obeera n'engeri y'okuyambamu abalala olw'okwagala kwa Katonda okuli mu mutima gwo.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = Obeera n'okuyaayaana okw'amaanyi okulaba nti osembeza abo abalwana n'embeera eri embeera yo ey'emirembe ng'emu ku ngeri y'okulagamu okukkiriza kwo nti Katonda ajja kubayambanga bulijjo. Bw'oweereza eri abo abeetaaga oba abalwana n'obulamu obeera n'engeri gy'obaleeteramu okuwulira obulungi wamu n'okulaba obusobozi bwa Katonda. Obeera n'engeri y'okuyambamu abalala olw'okwagala kwa Katonda okuli mu mutima gwo.
 Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = Obeera n'okuyaayaana okw'amaanyi okulaba nti osembeza abo abalwana n'embeera eri embeera yo ey'emirembe ng'emu ku ngeri y'okulagamu okukki-riza kwo nti Katonda ajja kubayambanga bulijjo. Obeera n'okuyaayaana okw'amaanyi okw'okuwayo eri abo abalwana n'embeera oba abali mu kunyigiri-zibwa. Okwagala kwo mu kubayamba n'okubasaasira kweyoleka bulungi gye bali n'eri  abo abalaba okwenyigira kwo mu kuyamba abali mu bwetaavu.
 Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Obeera n'okumanya okw'ebuziba okukusobozesa okwanguyirwa wamu n'okumanya ensonga ezo enkulu wamu n'ebyokuddamu ebyetaagibwa abalala okusobola okulongoosa obulamu bwabwe obw'omwoyo oba okutereeza engeri  gye balowoozaamu.
 Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Nate obeera n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu. Okumanya kwo okweyongerayongera kukuwa okulengera ewala okukuyamba okwanguyirwa ensonga enzibuzibu ku  lw'abalala.
@@ -234,19 +235,19 @@ Wisdom_05_14_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Ob
 Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Katonda akuwa amaanyi okutegeera endowooza ye mu biseera ebimu osobole okugabana n'abalala. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana ekyo ky'omanyi  n'abalala okuyita mu kwogera n'okugabana enjiri.  Weeteeka mu mbeera mw'osobolera okuyigiriza oba okubuulira awamu n'entegeka y'obulokozi ennyangu era ennambulukufu.
 Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Nate obeera n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu. Weeteeka mu mbeera mw'osobolera okuyigiriza n'okuzimba omubiri gwa Kristo okuyita mu kubayigiriza engeri y'okukozesaamu ennono z'ebyawandiikibwa oba okubayigiriza mu ngeri ennyangu ey'okubuulira enjiri oba entegeka y'obulokozi.
 Wisdom_15_25_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Nate obeera n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana ekyo ky'omanyi  n'abalala okuyita mu kwogera n'okugabana enjiri.  Weeteeka mu mbeera mw'osobolera okugabana ennono ya Baibuli ennambulukufu  oba entegeka y'obulokozi.
-Wisdom__05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Okuyaayaana kwo okw'ebuziba mu kuyiga n'okweyongera okumanya kukuwa amanyi okutegeera n'okukuuma ennono enkulu ez'endowooza ya Katonda ebiseera ebimu. Okuyiga kwo n'ebyo by'oyiseemu bikuwa okumanya okw'ebuziba okukusobozesa okuyamba abalala. Kino kyongera amaanyi mu kuyaayaana kwo okw'okuyigiriza n'okugabana ekyo Katonda ky'akuyigirizza n'abalala. Abalala bajja kuleetebwa gy'oli osobole okugabana nabo.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Okuyaayaana kwo okw'ebuziba mu kuyiga n'okweyongera okumanya kukuwa amanyi okutegeera n'okukuuma ennono enkulu ez'endowooza ya Katonda ebiseera ebimu. Okuyiga kwo n'ebyo by'oyiseemu bikuwa okumanya okw'ebuziba okukusobozesa okuyamba abalala. Kino kyongera amaanyi mu kuyaayaana kwo okw'okuyigiriza n'okugabana ekyo Katonda ky'akuyigirizza n'abalala. Abalala bajja kuleetebwa gy'oli osobole okugabana nabo.
 Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Nate obeera n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana enjiri,  ennono ya Baibuli ennambulukufu  oba entegeka y'obulokozi.
-Wisdom__15_25_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana ekyo ky'omanyi  n'abalala okuyita mu kwogera n'okugabana enjiri.  Weeteeka mu mbeera mw'osobolera okugabana ennono za Baibuli ezinyweza, ezizimba oba ezisanyusa abalala mu ntambula yaabwe ne Kristo.
+Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana ekyo ky'omanyi  n'abalala okuyita mu kwogera n'okugabana enjiri.  Weeteeka mu mbeera mw'osobolera okugabana ennono za Baibuli ezinyweza, ezizimba oba ezisanyusa abalala mu ntambula yaabwe ne Kristo.
 Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Nate obeera n'okuyaayaana okw'ebuziba okw'okugabana enjiri,  ennono ya Baibuli ennambulukufu  oba entegeka y'obulokozi eri abo abatawuliranga ku njiri.
 Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Okulengera ewala okwo kukuleetera okuyaayaana okw'amaanyi okw'okugabana ekyo ky'omanyi  n'abalala okuyita mu kwogera n'okugabana enjiri.  Weeteeka mu mbeera mw'osobolera okugabana ennono ya Baibuli ennambulukufu  oba entegeka y'obulokozi.
-Wisdom__15_25_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = Obeera n'ekirabo ky'okumanya okw'ebuziba mu mwoyo eri omutima gwa Katonda. Omutima gwo agunywereza ku kugabana ennono ze obulungi eri abalala balyoke bategeere okulungamizibwa kwe era/oba baleetebwe eri enjiri.
+Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = Obeera n'ekirabo ky'okumanya okw'ebuziba mu mwoyo eri omutima gwa Katonda. Omutima gwo agunywereza ku kugabana ennono ze obulungi eri abalala balyoke bategeere okulungamizibwa kwe era/oba baleetebwe eri enjiri.
 Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = Katonda akuwa ekirabo ky'obusobozi bw'okufuna okumanya n'okutegeera ekyo eky'omugaso eri Katonda n'eri abantu be. Owalulwa Omwoyo Omutukuvu okwogera n'okukoma ku nsonga ez'enjawulo eziri mu bulamu bw'abalala. Katonda akuwa obusobozi obwo olyoke okyuse ekifo ky'obulamu bwabwe ng'oyogera ekyo Omwoyo Omutukuvu ky'ayogera naawe.
 Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = Katonda akuwa ekirabo ky'obusobozi bw'okufuna okumanya n'okutegeera ekyo eky'omugaso eri Katonda n'eri abantu be. Owalulwa Omwoyo Omutukuvu okwogera n'okukoma ku nsonga ez'enjawulo eziri mu bulamu bw'abalala. Katonda akuwa obusobozi obwo olyoke okyuse ekifo ky'obulamu bwabwe ng'oyogera ekyo Omwoyo Omutukuvu ky'ayogera naawe. Omutima gwo agunywereza ku kugabana ennono ze obulungi eri abalala balyoke bategeere okulungamizibwa kwe era/oba baleetebwe eri enjiri.
 Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Weeteeka mu mbeera mw'osobolera okugabana ennono za Baibuli ezinyweza, ezizimba oba ezisanyusa abalala mu ntambula yaabwe ne Kristo, okutegeera  okulungamizibwa kwe n'okukozesa okulungamizibwa okwo mu kukula kwabwe mu mwoyo n'okunywezebwa.
 Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = Oyolesa obusobozi bw'okulengeza abalala ebuziba n'amagezi eri ensonga ezo eziyinza okutabula oba okuzibuwalira abalala. Okulengera ewala okwo okw'ebuziba mu mutima gwa Katonda kuvugibwa Omwoyo Omutukuvu era ne kukuleetera okugabana ennono ze obulungi eri abantu kinnoomu mu mbeera yonna. Ojja kubeera mubaka we ku mikolo egy'enjawulo.
-Wisdom__05_14_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = Obeera n'obusobozi obw'amaanyi okwogera eri obulamu bw'abalala, okubamanyisa omutima gwa Katonda era/oba okubalungamya. Okumanya okwo okw'ebuziba mu mwoyo, okuvugibwa Omwoyo kukuleetera okugabana ennono ze mu ngeri ennyangu era ennambulukufu eri abantu kinnoomu mu mbeera ez'enjawulo n'ezo ez'awamu. Ojja kubeera mubaka we emirundi egisoba mu gumu.
+Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = Obeera n'obusobozi obw'amaanyi okwogera eri obulamu bw'abalala, okubamanyisa omutima gwa Katonda era/oba okubalungamya. Okumanya okwo okw'ebuziba mu mwoyo, okuvugibwa Omwoyo kukuleetera okugabana ennono ze mu ngeri ennyangu era ennambulukufu eri abantu kinnoomu mu mbeera ez'enjawulo n'ezo ez'awamu. Ojja kubeera mubaka we emirundi egisoba mu gumu.
 Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = Obeera n'obusobozi obw'amaanyi okwogera eri obulamu bw'abalala, okubamanyisa omutima gwa Katonda era/oba okubalungamya. Okumanya okwo okw'ebuziba mu mwoyo, okuvugibwa Omwoyo kukuleetera okugabana omutima gwa Katonda era/oba okubalungamya. Nate ogabana bulungi ennono z'ebyawandiikibwa mu ngeri abalala gye bategeera era ng'osobola okuzikozesa eri okukula kwabwe mu mwoyo n'okunywezebwa.
-Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Obeera  n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu.  Weeteeka mu mbeera mw'osobolera okuyigiriza abalala ebyo by'oyize.  Obusobozi  bwo mu kufuna okumanya n'okuyigiriza ekigambo kye  ekigambo kye mu ngeri etegeerekeka kujja kuyamba mu kukula kwabwe mu mwoyo n'okunywezebwa. Obeera n'amaanyi okukyusa ekifo ky'obulamu bwabwe.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = Obeera  n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu.  Weeteeka mu mbeera mw'osobolera okuyigiriza abalala ebyo by'oyize.  Obusobozi  bwo mu kufuna okumanya n'okuyigiriza ekigambo kye  ekigambo kye mu ngeri etegeerekeka kujja kuyamba mu kukula kwabwe mu mwoyo n'okunywezebwa. Obeera n'amaanyi okukyusa ekifo ky'obulamu bwabwe.
 Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = Obeera  n'okuyaayaana okw'ebuziba okw'okuyiga n'okweyongera okumanya ebingi nga kiringa nti Katonda akuwadde amaanyi okutegeera endowooza ye mu biseera ebimu. Weeteeka mu mbeera mw'osobolera okubuulira n'entegeka y'obulokozi ennyangu.  Obusobozi  bwo mu kufuna okumanya n'okukweyambisa okubuulira obwangu bw'enjiri kijja kukyusa ekifo ky'obulamu bwabwe.
 Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okuwanika n'okulabirira emitendera egiyamba ekkanisa okukola n'obwangu wamu n'amaanyi. Ojja kusobola okuyamba mu kuteekateeka abalala n'okulaba nti nabo bakozesa ebirabo n'ebitone byabwe mu ngeri ejja okutumbula ekiruubirirwa ky'obuweereza.
 Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okuwanika n'okulabirira emitendera egiyamba ekkanisa okukola n'obwangu wamu n'amaanyi. Nate obeera n'obusobozi bw'okutegeka n'okukulembera, okukuuma, okulwanirira n'okulungamya obuweereza okulaba nti ekibiina kyo kitambula bulungi era nga kya maanyi. Ojja kulungamya abantu bo era ogezeeko okulaba nti bagoberera ekkubo erisinga obulungi eri ekibiina ekyo.
@@ -267,19 +268,19 @@ Administration_05_14_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Fai
 Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_15_25 = Waweebwa ekirabo wamu n'obusobozi bw'okuteekateeka obuweereza obw'enjawulo obulabirira era ne buteekateeka abantu abangi mu biti by'obuweereza eby'enjawulo.  Abalala bajja kujja nga banoonya okulungamizibwa kwo olw'okukkiriza kwo okw'amaanyi era okutali kwa bulijjo era n'obusobozi bw'okutunuulira ebyetaago eby'awamu eby'abantu ssekinnoomu.
 Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_15_25 = Nate waweebwa ekirabo n'obusobozi bw'okukulembera , okukuuma, n'okulwanirira  obuweereza obw'amaanyi obulabirira, okuteekateeka era/oba obukulembera obulala. Abalala bajja kujja  nga banoonya okulungamizibwa kwo olw'okukkiriza kwo okw'amaanyi era okutali kwa bulijjo era n'obusobozi bw'okukulemberamu abalala obulungi.
 Administration_15_25_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_15_25 = Nate waweebwa ekirabo n'obusobozi bw'okukulembera , okukuuma, n'okulwanirira  obuweereza obulabirira, okuteekateeka era/oba obukulembera obulala. Abalala bajja kujja  nga banoonya okulungamizibwa kwo olw'okukkiriza kwo okw'amaanyi era okutali kwa bulijjo era n'obusobozi bw'okufuula okukkiriza okwo okuba okubudaabuda n'okuyambako mu byetaago by'abalala abangi.
-Administration__05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo n'obusobozi bw'okukulembera, okulabirira,  okulwanirira n'okukuuma obuweereza obugazi  obugatta  awamu abantu ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bulina okulabibwa nga ekirabo era ng'obuvunaanyizibwa obwetaagisa okukeberebwa bulijjo eri obwetowaze bwo.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo n'obusobozi bw'okukulembera, okulabirira,  okulwanirira n'okukuuma obuweereza obugazi  obugatta  awamu abantu ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bulina okulabibwa nga ekirabo era ng'obuvunaanyizibwa obwetaagisa okukeberebwa bulijjo eri obwetowaze bwo.
 Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okuteekateeka, okukola entegeka,okukulembera,  okulabirira,  n'okulwanirira  obuweereza olw'okukkiriza kwo okw'amaanyi. Obusobozi bwo mu kutunuulira obuweereza n'olaba ebyetaago, wamu n'okutegeera ekyetaagisa kijja kukusobozesa okumanyisa abantu eky'okukola ate n'okumanya ddi lwe balina okwesigama ku Katonda olw'okulungamizibwa.
-Administration__15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okuteekateeka, okukola entegeka, n'okusisinkana ebyetaago by'ekibiina eky'enjawulo oba ebibiina by'abantu abagoberera engeri z'obuweereza ez'enjawulo.  Okumanya kwo okw'ebuziba kujja kuleetawo okukula n'okunywezebwa eri ekibiina ekinene ekifaayo eri okujjuza ebifo by'obuweereza bwa Katonda.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okuteekateeka, okukola entegeka, n'okusisinkana ebyetaago by'ekibiina eky'enjawulo oba ebibiina by'abantu abagoberera engeri z'obuweereza ez'enjawulo.  Okumanya kwo okw'ebuziba kujja kuleetawo okukula n'okunywezebwa eri ekibiina ekinene ekifaayo eri okujjuza ebifo by'obuweereza bwa Katonda.
 Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza okusinziira ku kukkiriza kwo n'okuyitibwa. Okumanya kwo bulijjo kujja kwetaaganga  abo abalina ekirabo eky'enjawulo okulaba nti basigala nga balowooza ku biruubirirwa ebituufu wamu n'okumanya nga waliwo ekyetaago ky'okusaba n'okusiiba.
 Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza okusinziira ku kukkiriza kwo n'okuyitibwa. Okumanya kwo bulijjo kujja kwetaaganga  abo abali mu buweereza okulaba nti bafaayo nnyo eri ebyetaago ebyetaaga okukolebwa okusobola okugaziya obwakabaka wamu n'okumanya nga waliwo ekyetaago ky'okusaba n'okusiiba.
-Administration__15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza okusinziira ku kukkiriza kwo n'okuyitibwa. Okumanya kwo bulijjo kujja kwetaaganga  abo abaddukanya obuweereza obw'enjawulo  okulaba nti bafaayo nnyo eri ebyetaago ebyetaaga okukolebwa okusobola okugaziya obwakabaka wamu n'okumanya nga waliwo ekyetaago ky'okusaba n'okusiiba
+Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza okusinziira ku kukkiriza kwo n'okuyitibwa. Okumanya kwo bulijjo kujja kwetaaganga  abo abaddukanya obuweereza obw'enjawulo  okulaba nti bafaayo nnyo eri ebyetaago ebyetaaga okukolebwa okusobola okugaziya obwakabaka wamu n'okumanya nga waliwo ekyetaago ky'okusaba n'okusiiba
 Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_05_14 = Waweebwa ekirabo n'obusobozi bw'okukulembera, okulabirira,  okulwanirira n'okukuuma obuweereza obugazi  obugatta  awamu abantu ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bulina okulabibwa nga ekirabo era ng'obuvunaanyizibwa obwetaagisa enkola ennywevu ey'abantu abayinza okukuyamba okuziba emiwaatwa.
 Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo ky'okukkiriza okw'amaanyi, okukuteeka mu kifo ky'okukulembera, okukuuma, n'okulwanirira obuweereza obutwala ekibiina ky'abantu  ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bujja kugezesebwa so nga ate bujja na kubeera ensulo y'amaanyi eri abo abakulaba ng'omukulembeze waabwe era beesigame ku kumanya kwo okubalungamya  mu mutendera gw'obuweereza.
 Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza obw'amaanyi.  Okumanya kwo bulijjo kujja kwetaaganga  abo abali mu buweereza okulaba nti bafaayo nnyo eri ebyetaago ebyetaaga okukolebwa okusobola okugaziya obwakabaka.
 Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okukola entegeka, okuteekateeka, n'okuyamba mu kuddukunya obuweereza okusinziira ku kukkiriza kwo n'okuyitibwa. Okumanya kwo bulijjo kujja kwetaaganga  abo abaddukanya obuweereza obw'enjawulo  okulaba nti bafaayo nnyo eri ebyetaago ebyetaaga okukolebwa okusobola okugaziya amakubo g'obuweereza ag'okufuluma wamu n'enkola zaabwo.
-Administration__05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo, olw'okukkiriza kwo okw'amaanyi, n'okulabirira wamu n'okuddukanga obuweeereza Omwoyo Omutukuvu bwe yagatta awamu ggwe okubuteekamu amaanyi go. Abalala bajja kukunoonya olw'okulungamizibwa mu bulamu bwabwe obw'ebirowoozo, obw'omwoyo n'obw'amaka kubanga ojja kusobolanga bulijjo okutunuuliranga ebintu ng'osinziira ku kukkiriza kwo okubeewuunyisa oba okubasoomooza.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo, olw'okukkiriza kwo okw'amaanyi, n'okulabirira wamu n'okuddukanga obuweeereza Omwoyo Omutukuvu bwe yagatta awamu ggwe okubuteekamu amaanyi go. Abalala bajja kukunoonya olw'okulungamizibwa mu bulamu bwabwe obw'ebirowoozo, obw'omwoyo n'obw'amaka kubanga ojja kusobolanga bulijjo okutunuuliranga ebintu ng'osinziira ku kukkiriza kwo okubeewuunyisa oba okubasoomooza.
 Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okukulembera, okulabirira n'okuddukanya obuweereza obunene Omwoyo bwe yagatta awamu ku lulwo.  Abalala bajja kukunoonya olw'okutumbula obuweereza obwo obutuuka ewala, wamu n'okufuna okulungamizibwa mu kaweefube waabwe gwe bakola mu mwoyo.
-Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_05_14 = Waweebwa ekirabo ky'obusobozi bw'okukulembera, okukuuma, n'okulwanirira obuweereza obutwala ekibiina ky'abantu  ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bulina okulabibwa nga ekirabo era ng'obuvunaanyizibwa obwetaagisa enkola ennywevu ey'abakulembeze abayinza okukuyamba okuziba emiwaatwa gy'ebifo eby'enjawulo ebiri mu buweereza.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_15_25 = Waweebwa ekirabo ky'obusobozi bw'okukulembera, okukuuma, n'okulwanirira obuweereza obutwala ekibiina ky'abantu  ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bulina okulabibwa nga ekirabo era ng'obuvunaanyizibwa obwetaagisa enkola ennywevu ey'abakulembeze abayinza okukuyamba okuziba emiwaatwa gy'ebifo eby'enjawulo ebiri mu buweereza.
 Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_15_25 = Waweebwa ekirabo ky'okukkiriza okw'amaanyi, okukuteeka mu kifo ky'okukulembera, okukuuma, n'okulwanirira obuweereza obutwala ekibiina ky'abantu  ab'enjawulo  abakolera mu buweereza bwe bumu. Obuyinza bwo bujja kugezesebwa naye abalala bajja kulaba mu ggwe ensulo y'amaanyi ng'omukulembeze waabwe era beesigame ku kumanya kwo okubalungamya  mu mutendera gw'obuweereza.
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo. Ebiseera bino biggya era ne bigenda okusinziira ku kyetaago eky'enjawulo eky'Omwoyo  Omutukuvu ky'ayitamu okutuukiriza okubeerawo kwe mu bulamu bwo n'obuweereza.
 Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, oba okuleetawo enjawulo mu bulamu bw'omuntu.  Ebiseera bino biggya era ne bigenda okusinziira ku kyetaago eky'enjawulo eky'Omwoyo  Omutukuvu ky'ayitamu okutuukiriza okubeerawo kwe mu bulamu bwo n'obuweereza.
@@ -300,19 +301,19 @@ Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Inte
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo n'okwawula emyoyo egibeerawo wamu n'okukyusa obulamu bw'abalala. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba n'okuzivvuunula olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba n'okuzivvuunula olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, okuleetawo enjawulo mu bulamu bw'omuntu wamu n'okwawula emyoyo egibeerawo. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
-Healings__05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabo mu  bulamu bwabwe. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabo mu  bulamu bwabwe. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
 Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, okuleetawo enjawulo mu bulamu bw'omuntu.  Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
-Healings__15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, okuleetawo enjawulo mu bulamu bw'omuntu wamu n'okwawula emyoyo egibeerawo. Nate waweebwa ekirabo ky'obusobozi bw'okwogera mu nnimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, okuleetawo enjawulo mu bulamu bw'omuntu wamu n'okwawula emyoyo egibeerawo. Nate waweebwa ekirabo ky'obusobozi bw'okwogera mu nnimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo  wamu n'okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
-Healings__15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo. Nate waweebwa ekirabo ky'obusobozi bw'okwogera n'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo. Nate waweebwa ekirabo ky'obusobozi bw'okwogera n'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu wamu n'okwawula emyoyo egibeerawo. Ebirabo bino bijja kweyambisibwa okugaziya oba okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
 Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu wamu n'okwawula emyoyo egibeerawo. Nate waweebwa ekirabo olw'okuba n'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo.  Nate waweebwa ekirabo ky'okwogera ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okusaba n'okulaba abalala nga bawonyezebwa okuva mu kutulugunyizibwa kw'omubiri, ebirowoozo ne mu mwoyo, wamu n'okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
-Healings__05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okuvvuunula ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo ne mu bulamu bw'abalala.
 Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okwawula emyoyo egibeerawo era egikolera mu bulamu bw'abalala. Nate waweebwa ekirabo ky'obusobozi bw'okwogera ennimi ezitamanyiddwa mu kusaba olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu bulamu bw'abalala.
-Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabo mu  bulamu bwabwe. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabo mu  bulamu bwabwe. Nate waweebwa ekirabo ky'okwogera mu nnimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
 Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = Waweebwa ekirabo olw'okwawulibwa okw'ekisa ku bw'Omwoyo Omutukuvu okuleetawo enjawulo oba eky'amagero mu bulamu bw'omuntu, ekintu ekireetawo enkyukakyuka ey'omuggundo ku bo  n'eri abo abakwatagana nabomu  bulamu bwabwe. Nate waweebwa ekirabo olw'okuvvuunula ennimi ezitamanyiddwa mu kusaba  olw'okwanguyiriza okukola kw'Omwoyo Omutukuvu mu bulamu bwo oba mu buweereza bwe.
 
 
@@ -368,7 +369,7 @@ Interpretation_of_tongues_languages_definition = (1 Corinthians) hermeneia - Ide
 
 
 
-greatest_gifting_title = Your greatest gifting is found in
-second_greatest_title = Your second greatest gifting is found in
-third_greatest_title = Your third greatest gifting is found in
-fourth_greatest_title = Your fourth greatest gifting is found in
+gifting_title_1 = Your greatest gifting is found in
+gifting_title_2 = Your second greatest gifting is found in
+gifting_title_3 = Your third greatest gifting is found in
+gifting_title_4 = Your fourth greatest gifting is found in

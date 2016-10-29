@@ -34,7 +34,7 @@ def getUserByEmail(email):
 def getLang(handler):
     lang = handler.request.get('lang')
     if lang==None or lang=='':
-        lang = 'en'
+        lang = 'English'
     return lang
 
 def getStdDict(handler, template_dict = {}):
@@ -48,8 +48,8 @@ def getStdDict(handler, template_dict = {}):
 
 
 def getPage(handler, page):
-    if '%' in page:
-        page = page % getLang(handler)
     return "html/%s.html" % page
 
 
+def buildQuestionKey(category, gift, index):
+    return category + "_" + gift + "_" + str(index)
