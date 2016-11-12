@@ -17,11 +17,13 @@ class Test(unittest.TestCase):
         print en['directions_page_title']
         print en['Romans_12']
         print en['romans_12']
+        print en['Displaying_Gods_love_Serving_Helps_1']
         pass
     
     def testTemplating(self):
         en = loadLanguage("English")
         s = Template('Title: $directions_page_title')
+        s = Template('Question: $Displaying_Gods_love_Serving_Helps_1')
         print s.substitute(en)
 
 
