@@ -15,7 +15,6 @@ def totals(request):
     # Add up totals
     # For each category
     for categorie in constants.categories:
-        categoryTotals[categorie] = 0
         giftingTotals[categorie] = {}
         
         # For each gifting in category
