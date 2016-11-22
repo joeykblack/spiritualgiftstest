@@ -92,7 +92,7 @@ def buildCat(categoryTotals, giftingTotals):
         newcat = None
         newcat = Category()
         newcat.title = '$'+cats[1]+'_category'
-        newcat.titlepre = 'gifting_title_' + str(i)
+        newcat.titlepre = '$gifting_title_' + str(i)
         i += 1
         newcat.text = narratives.getNarrative(cats[1], giftingTotals[cats[1]])
         newcat.gifts = []

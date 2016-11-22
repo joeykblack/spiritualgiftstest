@@ -336,12 +336,12 @@ Wisdom_gifting = Wisdom
 Knowledge_gifting = Knowledge
 Prophecy_gifting = Prophecy
 Teaching_gifting = Teaching
-Evangelists_gifting = Evangelists
+Evangelism_gifting = Evangelists
 Wisdom_definition = (1 Corinthians) Sophia - Supreme intelligence acquired by divine insight, experience and application in many diverse matters.
 Knowledge_definition = (1 Corinthians) gnosis - General intelligence, understanding of what is moral and right living.
 Prophecy_definition = (1 Corinthians, Romans, Ephesians) prophetes - Someone moved by the Spirit to proclaim a cause or event relevant to growth, development or salvation. 
 Teaching_definition = (Romans, Ephesians, 1 Peter)  didasko - To instruct, expound, explain and instill doctrine
-Evangelists_definition = (Ephesians) euaggelistes - Someone who brings good tidings (of the gospel), simply and plainly who are not apostles.
+Evangelism_definition = (Ephesians) euaggelistes - Someone who brings good tidings (of the gospel), simply and plainly who are not apostles.
 
 Managing_with_Gods_principles_category = Managing with God's principles 
 Administration_gifting = Administration
@@ -357,15 +357,15 @@ Faith_definition = (1 Corinthians) pistis - Trust and conviction of the truth re
 
 Displaying_Gods_authority_category = Displaying God's authority
 Healings_gifting = Healings
-Miraculous_powers_gifting = Miraculous powers
-Distinguishing_between_spirits_gifting = Distinguishing between spirits
-Speaking_in_different_kinds_of_tongues_languages_gifting = Speaking in different kinds of tongues/languages
-Interpretation_of_tongues_languages_gifting = Interpretation of tongues/languages
+Miracles_gifting = Miraculous powers
+Distinguishing_of_spirits_gifting = Distinguishing between spirits
+Tongues_gifting = Speaking in different kinds of tongues/languages
+Interpreting_Tongues_languages_gifting = Interpretation of tongues/languages
 Healings_definition = (1 Corinthians) iama - To cure, make physically and/or spiritually whole and remove errors (or sin, bringing about salvation).
-Miraculous_powers_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
-Distinguishing_between_spirits_definition = (1 Corinthians) diakrisis - Be able to judge, separate, discriminate or distinguish differences in spirits.
-Speaking_in_different_kinds_of_tongues_languages_definition = (1 Corinthians) glossa - The dialect that identifies or distinguishes a distinct people.
-Interpretation_of_tongues_languages_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
+Miracles_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
+Distinguishing_of_spirits_definition = (1 Corinthians) diakrisis - Be able to judge, separate, discriminate or distinguish differences in spirits.
+Tongues_definition = (1 Corinthians) glossa - The dialect that identifies or distinguishes a distinct people.
+Interpreting_Tongues_languages_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
 
 
 

@@ -9,9 +9,9 @@ from util import constants
 # select range with given score (for key)
 def srange(score):
     if score<15:
-        r = "05-14"
+        r = "05_14"
     else:
-        r = "15-25"
+        r = "15_25"
     
     return r
 
