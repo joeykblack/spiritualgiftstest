@@ -28,8 +28,9 @@ class Results(SGRequestHandler):
             self.error(404)
         else:
             giftsuser=resultset.giftsuser
-            calc.totals(resultset.getResultsDict())
-            respond(self, giftsuser, resultset)
+            giftingTotals = calc.totals(resultset.getResultsDict())
+            categoryTotals = calc.categoryTotals(giftingTotals)
+            respond(self, giftsuser, resultset, categoryTotals, giftingTotals)
         
     def post(self):
         

@@ -350,7 +350,7 @@ Pastors_gifting = Pastors
 Apostles_gifting = Apostles
 Faith_gifting = Faith
 Administration_definition = (1 Peter) oikonomos - A manager or supervisor trusted with the management of all day to day operations.
-Leadership/Oversight_definition = (Romans) proistemi - A protector, guardian or one given oversight of others.
+Leadership_Oversight_definition = (Romans) proistemi - A protector, guardian or one given oversight of others.
 Pastors_definition = (Ephesians) poimen -A herdsman who oversees the care and control of others, as an overseer of Christian assemblies.
 Apostles_definition = (Ephesians) apostolos - One sent with divine orders and direction, referring specifically to the 12 or generally to eminent Christian teachers.
 Faith_definition = (1 Corinthians) pistis - Trust and conviction of the truth regarding man's relationship with God and divine things.
@@ -360,12 +360,12 @@ Healings_gifting = Healings
 Miracles_gifting = Miraculous powers
 Distinguishing_of_spirits_gifting = Distinguishing between spirits
 Tongues_gifting = Speaking in different kinds of tongues/languages
-Interpreting_Tongues_languages_gifting = Interpretation of tongues/languages
+Interpreting_Tongues_gifting = Interpretation of tongues/languages
 Healings_definition = (1 Corinthians) iama - To cure, make physically and/or spiritually whole and remove errors (or sin, bringing about salvation).
 Miracles_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
 Distinguishing_of_spirits_definition = (1 Corinthians) diakrisis - Be able to judge, separate, discriminate or distinguish differences in spirits.
 Tongues_definition = (1 Corinthians) glossa - The dialect that identifies or distinguishes a distinct people.
-Interpreting_Tongues_languages_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
+Interpreting_Tongues_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
 
 
 
