@@ -7,6 +7,7 @@ Created on Oct 20, 2010
 from action.SGRequestHandler import SGRequestHandler
 
 from util import constants
+from util.utils import buildQuestionKey
 
 class Restest(SGRequestHandler):
     def get(self):
@@ -17,7 +18,8 @@ class Restest(SGRequestHandler):
         #cat = constants.categories[2]
             for gift in constants.gifting[cat]:
                 for index in range(1,6):
-                    inputs+=cat+"_"+gift+"_"+str(index)+"<input type='text' name='"+cat+"_"+gift+"_"+str(index)+"' value='"+score+"' /><br />"
+                    key = buildQuestionKey(cat, gift, index)
+                    inputs+=key+"<input type='text' name='"+key+"' value='"+score+"' /><br />"
         
         inputs+="<input type='text' name='firstname' value='Auto' /><br />"
         inputs+="<input type='text' name='lastname' value='Test' /><br />"
