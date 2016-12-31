@@ -35,12 +35,12 @@ def graphGiftings(giftingTotals):
     
     data = 'cht=bhs'
     data += '&chs=500x600'
-    data += '&chds=0,20' #25
-    data += '&chxr=0,0,20' #25
+    data += '&chds=0,25' #25
+    data += '&chxr=0,0,25' #25
     data += '&chxt=x,y'
     data += '&chco=0000FF'
     data += '&chg=20,0'
-    data += '&chxl=0:|0|5|10|15|20|1:'+label # |25
+    data += '&chxl=0:|0|5|10|15|20|25|1:'+label # |25
     data += '&chd=t:'+totals
     
     return url(data)
@@ -60,12 +60,12 @@ def graphCategories(categoryTotals):
         
     data = 'cht=bhs'
     data += '&chs=500x200'
-    data += '&chds=0,100'
-    data += '&chxr=0,0,100'
+    data += '&chds=0,125'
+    data += '&chxr=0,0,125'
     data += '&chxt=x,y'
     data += '&chco=0000FF'
     data += '&chg=20,0'
-    data += '&chxl=1:'+label
+    data += '&chxl=0:|0|25|50|75|100|125|1:'+label
     data += '&chd=t:'+totals
 
     return url(data)
@@ -75,14 +75,14 @@ def giftGraph(score):
 
     data = 'cht=bhs&'
     data += 'chs=500x50&'
-    data += 'chds=0,10&'
-    data += 'chxr=0,0,10&'
+    data += 'chds=0,25&'
+    data += 'chxr=0,0,25&'
     data += 'chxt=x&'
     data += 'chco=0000FF&'
     data += 'chg=20,0&'
     data += 'chm=N*f1y*,000000,0,-1,11,,:10:&'
-    data += 'chxl=0:|0|1|2|3|4|5|6|7|8|9|10&'
-    data += 'chd=t:'+str(score/2.0)
+    data += 'chxl=0:|0|5|10|15|20|25&'
+    data += 'chd=t:'+str(score)
     
     return url(data)
 
@@ -97,13 +97,13 @@ def normGraph(norm):
     data += '&chxl=&'
     
     if norm.type=='cat':
-        data += 'chxr=0,0,100&' #125
-        data += 'chds=0,100&' #125
-        data += 'chxl=0:|0|25|50|75|100|1:|%2B1%CF%83|Average|-1%CF%83&' # |125 
+        data += 'chxr=0,0,125&' #125
+        data += 'chds=0,125&' #125
+        data += 'chxl=0:|0|25|50|75|100|125|1:|%2B1%CF%83|Average|-1%CF%83&' # |125 
     else:
-        data += 'chxr=0,0,20&' #25
-        data += 'chds=0,20&' #25
-        data += 'chxl=0:|0|5|10|15|20|1:|%2B1%CF%83|Average|-1%CF%83&' # |25
+        data += 'chxr=0,0,25&' #25
+        data += 'chds=0,25&' #25
+        data += 'chxl=0:|0|5|10|15|20|25|1:|%2B1%CF%83|Average|-1%CF%83&' # |25
     
     data += 'chd=t:'+str(norm.low)+','+str(norm.average)+','+str(norm.high)
     
