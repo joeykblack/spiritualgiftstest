@@ -1,5 +1,1 @@
 cron:
-- description: "migrate old results"
-  url: /modresults
-  schedule: every 24 hours
-  target: 4
