@@ -18,9 +18,12 @@ class ModResults(SGRequestHandler):
         if table=='migrate':
             allresultsets=Resultset().all()
             for resultset in allresultsets:
-                resultset = migrate.addOne(resultset)
-                resultset = migrate.updateKeys(resultset)
-                resultset.save()
+                if resultset.version < 2:
+                    resultset = migrate.addOne(resultset)
+                    resultset = migrate.updateKeys(resultset)
+                    resultset.url = ''
+                    resultset.version = 2
+                    resultset.save()
             self.response.out.write('done')
         else:
             self.response.out.write('not supported')

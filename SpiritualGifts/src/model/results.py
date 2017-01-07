@@ -15,10 +15,12 @@ class Resultset(db.Model):
     giftsuser=db.ReferenceProperty(GiftsUser, collection_name='resultsets')
     url=db.StringProperty()
     results=db.StringListProperty()
+    version=db.IntegerProperty(default=1)
     
     
     def saveResults(self, handler):
         self.results = []
+        self.version = 2
         
         # Add up totals
         # For each category
