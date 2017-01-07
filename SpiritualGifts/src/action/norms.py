@@ -34,9 +34,10 @@ class Norms(SGRequestHandler):
             re = resultset.getResultsDict()
             # calculate the results
             giftingTotals = calc.totals(re)
+            categoryTotals = calc.categoryTotals(giftingTotals)
             # for each category, append the score for this set
             for cat in constants.categories:
-                scoresets[cat].append(calc.categoryTotals[cat])
+                scoresets[cat].append(categoryTotals[cat])
                 # for each gifting, append the score for this set
                 for gift in constants.gifting[cat]:
                     s=giftingTotals[cat][gift]
