@@ -10,21 +10,13 @@ from util import migrate
 
 class ModResults(SGRequestHandler):
     def get(self):
-        super(ModResults, self).render('modresults')
-        
-    def post(self):
-        table=self.request.get('command')
-        
-        if table=='migrate':
-            allresultsets=Resultset().all()
-            for resultset in allresultsets:
-                if resultset.version < 2:
-                    resultset = migrate.addOne(resultset)
-                    resultset = migrate.updateKeys(resultset)
-                    resultset.url = ''
-                    resultset.version = 2
-                    resultset.save()
-            self.response.out.write('done')
-        else:
-            self.response.out.write('not supported')
+        allresultsets=Resultset().all()
+        for resultset in allresultsets:
+            if resultset.version < 2:
+                resultset = migrate.addOne(resultset)
+                resultset = migrate.updateKeys(resultset)
+                resultset.url = ''
+                resultset.version = 2
+                resultset.save()
+        self.response.out.write('done')
 
