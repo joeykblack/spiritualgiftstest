@@ -1,0 +1,375 @@
+directions_page_title = Directions
+
+introduction_title = Su Índice de Entrega y Donación
+introduction_paragraph_1a = Dios le da a todo creyente el regalo y capacidad de servir a otros, y no únicamente a ellos mismos. Una lista completa de todos estos regalos de Dios se puede encontrar en las siguientes sagradas escrituras:
+Romans_12 = Romanos 12:6-8
+n1_Corinthians_12 = 1 Corintios 12:4-10, 28
+Ephesians_4 = Efesios 4:11-12
+n1_Peter_4 = 1 Pedro 4:10-11
+introduction_paragraph_1b = Usted se dará cuenta que tres de los regalos de Dios son mencionados en las cuatro escrituras: Servir, Profecía y Enseñanza. Cuando la escritura es repetitiva significa que tiene un alto grado de importancia o valor.
+introduction_paragraph_2 = La entrega que usted demuestra depende de cómo usted fue diseñado/a servir a otros “en tiempos como este”. Nuestro Padre nos diseñó a cada uno de manera única, entonces es importante que usted no persiga o desee un regalo/deber que no es relevante a su propósito en la tierra. Por lo tanto, uno o varios regalos de Dios no deberían ser considerados unos mejores que otros, especialmente si no concuerda con la tarea que Dios le asigno a usted.
+introduction_paragraph_3 = Este inventario fue diseñado para acomodar los regalos de Dios que se encuentran en las escrituras recién nombradas. El autor entiende que algunos de estos regalos ya no existen y han muerto. Sin embargo, si son mencionados en la escritura, probablemente significa que Dios desea los que entendamos y los utilicemos SI Él lo indica. El autor asigno los regalos de Dios en cuatro categorías que parecen cuadrar juntas en base a como servir al Cuerpo de Cristo.
+introduction_paragraph_4 = Esta información está diseñada para complementar su comprensión de sus capacidades, comportamientos, valores y motivaciones. Debería ayudarlo a guiarlo mientras sirve a nuestro Dios Viviente. Ahora, también adopte su individualidad y sea agradecido por lo que Él ha diseñado para su vida.
+introduction_paragraph_5 = Sus respuestas le proporcionaran una clasificación en las categorías definidas y regalos individuales. Las definiciones inferidas derivan del Griego tal cual son definidas en Nueva Concordancia Exhaustiva de la Biblia ‘Strong’ y representan como surgieron en los tiempos Bíblicos.
+
+directions_title = Indicaciones para realizar esta evaluación
+directions_paragraph_1 = El índice de Entrega y Donación de LifeThrive está compuesto de 100 preguntas en las cuales se le indicara que categorice su fortaleza o debilidad ya que estas forman parte de algún aspecto de cada uno de los regalos de Dios. Por favor lea la frase/declaración completa. Apenas entienda la frase/declaración indique que tanto se relaciona con usted, NO si es lo que desea o espera, sino los hechos. Asigne el puntaje de acuerdo con esta escala:
+directions_option_5 = 5 - Me motiva actuar de esta manera normalmente
+directions_option_4 = 4 - Me motiva actuar de esta manera de vez en cuando
+directions_option_3 = 3 - Experimento esto ocasionalmente
+directions_option_2 = 2 - Esto ha ocurrido en mi comportamiento Cristiano, pero rara vez
+directions_option_1 = 1 - Este es un regalo/don de Dios, pero me interesan otras áreas
+
+
+Required_Information = Información Requerida
+First_Name = Nombre
+Last_Name = Apellido
+Email = Correo electrónico
+Confirm_Email = Confirmar correo electrónico
+
+Voluntary_Demographic = Estadísticas Voluntarias
+Male = Hombre
+Female = Mujer
+Age = Edad
+n18_29 = 18-29
+n30_39 = 30-39
+n40_49 = 40-49
+n50_plus = 50+
+Interest = Interés
+Personal = Personal
+Professional = Profesional
+Faith_based = Basado en su Fe
+State = State
+Country = Country
+Take_Test = Take Test
+
+
+
+spiritual_gifts_test = Evaluación de Dones Espirituales
+see_results = See Results
+
+
+Displaying_Gods_love_Encouraging_1 = I find it gratifying to motivate and support others in their spiritual walk.
+Displaying_Gods_love_Encouraging_2 = I feel many people are not very optimistic as they face life's challenges.
+Displaying_Gods_love_Encouraging_3 = I welcome opportunities to share my experiences and encourage others.
+Displaying_Gods_love_Encouraging_4 = I've discovered I can challenge others without them feeling condemned.
+Displaying_Gods_love_Encouraging_5 = "I feel better" has often been the response from those I counseled.
+
+Displaying_Gods_love_Giving_1 = I feel that what I earn is a tool to insure other's needs are met.
+Displaying_Gods_love_Giving_2 = It is more satisfying to support a ministry need than buying something new.
+Displaying_Gods_love_Giving_3 = A modest lifestyle allows me to quietly contribute more to other's needs.
+Displaying_Gods_love_Giving_4 = I've honestly felt the emotions behind "it is better to give than receive."
+Displaying_Gods_love_Giving_5 = I've been deeply burdened and responded to help others financially.
+
+Displaying_Gods_love_Hospitality_1 = I enjoy having my home as a "gathering place" for others.
+Displaying_Gods_love_Hospitality_2 = Entertaining others provides a great sense of satisfaction.
+Displaying_Gods_love_Hospitality_3 = Many who visit my home seem comfortable and often linger a while.
+Displaying_Gods_love_Hospitality_4 = I rarely feel "put out" by having someone stay in my home.
+Displaying_Gods_love_Hospitality_5 = Preparing for other's visit to my home is exciting and exhilarating.
+
+Displaying_Gods_love_Serving_Helps_1 = I find acts of assistance more rewarding than speaking and/or teaching
+Displaying_Gods_love_Serving_Helps_2 = It really does not matter who gets credit as long as other's needs are met.
+Displaying_Gods_love_Serving_Helps_3 = Joy is most often found in completing tasks without attracting attention.
+Displaying_Gods_love_Serving_Helps_4 = A look of gratitude from another far outweighs any other gift.
+Displaying_Gods_love_Serving_Helps_5 = I find great pleasure in simple, practical tasks that lend a helping hand.
+
+Displaying_Gods_love_Showing_Mercy_1 = I have been told that I tend to support the "underdog."
+Displaying_Gods_love_Showing_Mercy_2 = It is not forgiving others, but remaining objective that is a struggle.
+Displaying_Gods_love_Showing_Mercy_3 = I have a great deal of compassion for those hurting or in distress.
+Displaying_Gods_love_Showing_Mercy_4 = I find great joy in being able to comfort those in times of crisis.
+Displaying_Gods_love_Showing_Mercy_5 = I've found at times I see pain in others even when they don't express it.
+
+
+Communicating_Gods_mind_Evangelism_1 = Others have said I present a clear and concise approach to salvation.
+Communicating_Gods_mind_Evangelism_2 = I feel very comfortable sharing my faith with unbelievers.
+Communicating_Gods_mind_Evangelism_3 = I have a strong burden for those who do not have the peace of salvation.
+Communicating_Gods_mind_Evangelism_4 = I have a nagging concern of having someone's blood on my hands if I don't share my faith.
+Communicating_Gods_mind_Evangelism_5 = I am exhilarated when sharing the gospel to many people.
+
+Communicating_Gods_mind_Knowledge_1 = God reminds me of scripture or experiences when facing weighty decisions.
+Communicating_Gods_mind_Knowledge_2 = I receive great joy, peace and revelation as I study the scriptures.
+Communicating_Gods_mind_Knowledge_3 = Digging into scriptural language, historical and social context is fun.
+Communicating_Gods_mind_Knowledge_4 = I loved acquiring information and often made good grades.
+Communicating_Gods_mind_Knowledge_5 = Challenging scriptures cause me to dig until I find an answer.
+
+Communicating_Gods_mind_Prophecy_1 = When God gives me insight I feel compelled to share it, regardless.
+Communicating_Gods_mind_Prophecy_2 = By speaking God's truth I don't shortchange myself or others.
+Communicating_Gods_mind_Prophecy_3 = On more than one occasion I had to speak God's truth to others.
+Communicating_Gods_mind_Prophecy_4 = I love to proclaim God's truths, past, present and future.
+Communicating_Gods_mind_Prophecy_5 = In the past my words have brought conviction of sin to others.
+
+Communicating_Gods_mind_Teaching_1 = I am compelled to share what I have learned from scripture and studies.
+Communicating_Gods_mind_Teaching_2 = My instruction has provided Biblical insight and help to others.
+Communicating_Gods_mind_Teaching_3 = I have been able to identify spiritual patterns and communicate them.
+Communicating_Gods_mind_Teaching_4 = It is very rewarding for me to help others understand God's truths.
+Communicating_Gods_mind_Teaching_5 = I am often asked to explain scriptural principles and their application.
+
+Communicating_Gods_mind_Wisdom_1 = I am often consulted when others struggle with difficult decisions.
+Communicating_Gods_mind_Wisdom_2 = God uses me to provide clarity when there is confusion or indecision.
+Communicating_Gods_mind_Wisdom_3 = God's insight has allowed me to help others in their spiritual journey.
+Communicating_Gods_mind_Wisdom_4 = God has often given me insight and answers to complicated issues.
+Communicating_Gods_mind_Wisdom_5 = Mature believers have asked my opinions on challenging life issues.
+
+
+Managing_with_Gods_principles_Administration_1 = Others often look to me for ministry coordination, planning and direction.
+Managing_with_Gods_principles_Administration_2 = I have an ability to be strategic and help a ministry achieve good results.
+Managing_with_Gods_principles_Administration_3 = Organizing and ministry development give a great sense of satisfaction.
+Managing_with_Gods_principles_Administration_4 = I have no problem delegating what needs to be done for ministry success.
+Managing_with_Gods_principles_Administration_5 = I enjoy making sure tasks and projects are completed in a timely manner.
+
+Managing_with_Gods_principles_Apostles_1 = I believe no physical or mental boundaries can hinder my Kingdom position.
+Managing_with_Gods_principles_Apostles_2 = I have been called to minister to multiple communities, countries and cultures.
+Managing_with_Gods_principles_Apostles_3 = I have a strong desire to take the gospel to where it has never been heard.
+Managing_with_Gods_principles_Apostles_4 = God is shaping me to encourage and equip many spiritual leaders.
+Managing_with_Gods_principles_Apostles_5 = Establishing, training and developing spiritual leaders does not intimidate me.
+
+Managing_with_Gods_principles_Faith_1 = I do not question my salvation or God's hold on my life.
+Managing_with_Gods_principles_Faith_2 = God has never let me down, which is why I don't question him now.
+Managing_with_Gods_principles_Faith_3 = I find it quite easy to believe that what God says is true and reliable.
+Managing_with_Gods_principles_Faith_4 = I have found my convictions inspire others and give them hope.
+Managing_with_Gods_principles_Faith_5 = Christ alone has the words of eternal life, so there is no other place to go.
+
+Managing_with_Gods_principles_Pastors_1 = I find great joy in ministering to the same group of people for a long time.
+Managing_with_Gods_principles_Pastors_2 = I relish close relationships because of the ability to nurture other's growth.
+Managing_with_Gods_principles_Pastors_3 = I find great satisfaction in helping those who are weak develop strength.
+Managing_with_Gods_principles_Pastors_4 = I feel responsible to help or direct those who are close and need guidance.
+Managing_with_Gods_principles_Pastors_5 = God seems to provide the words others need to hear when I speak.
+
+Managing_with_Gods_principles_Leadership_Oversight_1 = I find joy in and feel called to be at the forefront of a ministry.
+Managing_with_Gods_principles_Leadership_Oversight_2 = God has given me favor and drawn others to me for spiritual direction.
+Managing_with_Gods_principles_Leadership_Oversight_3 = I feel blessed with an ability to communicate a vision for others to follow.
+Managing_with_Gods_principles_Leadership_Oversight_4 = I am seen as an authority by others who seek a way to serve God.
+Managing_with_Gods_principles_Leadership_Oversight_5 = I find joy in inspiring, leading and motivating others to God's service.
+
+
+Displaying_Gods_authority_Distinguishing_of_Spirits_1 = I rarely have difficulty seeing through a person who is trying to purport themselves to be something they are not.
+Displaying_Gods_authority_Distinguishing_of_Spirits_2 = I will push to identify the motives behind another person's words.
+Displaying_Gods_authority_Distinguishing_of_Spirits_3 = I have sensed another person was motivated to act by an evil spirit.
+Displaying_Gods_authority_Distinguishing_of_Spirits_4 = I am able to judge truthfulness and error in a theological statement.
+Displaying_Gods_authority_Distinguishing_of_Spirits_5 = God has given me an innate sense of seeing spirits at work in others.
+
+Displaying_Gods_authority_Healings_1 = I find great joy in praying for the physically, mentally or spiritually ill.
+Displaying_Gods_authority_Healings_2 = I have seen God answer my prayer by healing the person I prayed for.
+Displaying_Gods_authority_Healings_3 = I have seen healing occur more than once when I and others prayed.
+Displaying_Gods_authority_Healings_4 = I believe God heals people and am confident prayer makes a difference.
+Displaying_Gods_authority_Healings_5 = When I pray for other's healing, I am aware of a power beyond me.
+
+Displaying_Gods_authority_Interpreting_Tongues_1 = For some reason I know what others mean when hearing tongues.
+Displaying_Gods_authority_Interpreting_Tongues_2 = I feel being able to understand other tongues/languages helps me help others.
+Displaying_Gods_authority_Interpreting_Tongues_3 = I am able to eliminate confusion by sharing a tongue/language's meaning.
+Displaying_Gods_authority_Interpreting_Tongues_4 = I remember the first time I felt I understood what was said in tongues.
+Displaying_Gods_authority_Interpreting_Tongues_5 = I have interpreted when someone spoke in tongues.
+
+Displaying_Gods_authority_Miracles_1 = I have seen too many miracles in my life to discount their validity.
+Displaying_Gods_authority_Miracles_2 = I can recall one or more incidents when God literally intervened.
+Displaying_Gods_authority_Miracles_3 = Others have said God used me to supernaturally change their life.
+Displaying_Gods_authority_Miracles_4 = I have seen God interrupt the natural flow of life based on my prayer.
+Displaying_Gods_authority_Miracles_5 = The more I address the supernatural, the deeper God empowers me.
+
+Displaying_Gods_authority_Tongues_1 = The Holy Spirit speaks through me when I do not know what to say.
+Displaying_Gods_authority_Tongues_2 = When the Holy Spirit speaks through me I feel God's presence in me.
+Displaying_Gods_authority_Tongues_3 = Speaking in different tongues/languages never happened before salvation.
+Displaying_Gods_authority_Tongues_4 = I feel I have a prayer language that I do not understand at times.
+Displaying_Gods_authority_Tongues_5 = There is a freedom when I speak in languages that I normally do not have.
+
+
+
+
+
+
+Spiritual_Gifts_Results = Spiritual Gifts Results
+Download_as_PDF = Download as PDF
+Spiritual_Gifts_Categories = Spiritual Gifts Categories
+
+
+
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = You display God's love by helping others wherever they have needs. Other display gifts are important to you, but you find your greatest joy in helping others or meeting specific needs they have at the moment.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You may often find yourself focused on other's needs, instead of priorities in your life because of the joy from caring.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_05_14_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that. You enjoy ministering, supporting their needs and helping them feel that the moments they are with you is a gift from God.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that as well as encouraging them with your loving, caring and non-judgmental attitude. Your hospitality will make them feel a strong sense of value as long as you are there with them.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that. People actively seek you out because of your compassion and giving spirit. You have a way of welcoming, encouraging, helping and giving to others that makes that few have, leaving a lasting impression.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = You have an unusual ability to show God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that. You enjoy expressing deep compassion and caring for those around you. You are willing to encourage others and insure their needs are met even if it costs you something.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = You love having people around you and in your home so you can share your love and hospitality with them. You enjoy giving of yourself any way you can as well as sharing your physical and financial assets to insure they feel encouraged and blessed when they leave you.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = You feel great joy when you have spent time with someone, assuring them that they are loved and cared for by God and the Body of Christ. You have a desire to help them meet their needs by giving of yourself and your resources. This blesses you and them both.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = Your greatest desire is to quietly meet other's needs. While you may enjoy the 'thanks' you receive, that is not what is most important to you ' it is the joy of knowing you were able to contribute something to someone by God working in and through you.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = While you have an ability to display God's love on occasions, your greatest strengths lie in other categories that better exemplify what God created you to be and the way He created you to serve the body.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_05_14 = You prefer to display the gift of mercy more often than other display gifting. The circumstances in your life has impacted you profoundly and placed a special desire in your heart for those who are afflicted or are seeking help. You may often feel as if you know others will not respond to certain individuals the way you do.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You have a special place in your heart for encouraging them with your loving, caring and non-judgmental attitude. It is your desire to give them feel a strong sense of value as long as you are there with them.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_15_25_Giving_05_14 = You have an unusual ability to show God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that. You enjoy expressing deep compassion and caring for those around you. You are willing to encourage others and insure they understand that you and your home is open to them because you understand and relate to their position.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. People actively seek you out because of your compassion and giving spirit. You have a way of helping and giving to others that makes a lasting impression on them because of your commitment to them when you needed them.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_05_14 = Your doors always seem to be open for times of ministry or for those traveling in the Lord's work. You enjoy having others share what you have, making their life special and learning how God works in them while they are with you. You have the ability to rejuvenate the saints that spend time with you.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = You feel compelled to encourage others and insure they feel God's love when they are with you. You do your best to avoid subjects that may be interpreted as legalistic or negative so others can feel comfortable around you. You feel as if you place is to hearten, cheer and brighten other's lives, especially those who seem down or distraught.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_15_25 = You have a strong desire to insure other's needs are met. Your servant's heart is something you want to share with others who share the faith. Welcoming others to your home is a great way to do that. People actively seek you out because of your compassion and giving spirit. You have a way of welcoming, encouraging, helping and giving to others building them up and leaving a lasting impression.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. People actively seek you out because of your compassion and giving spirit. You have a way of encouraging, helping and giving to others building them up and leaving a lasting impression.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_05_14_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. Welcoming others to your home is a great way to do that. People actively seek you out because of your compassion and giving spirit. You have a way of welcoming, helping and giving to others which builds them up, leaving a lasting impression.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = You have a heart which is focused on encouraging and helping those who are in difficult circumstances. You have no problem going out of your way for those who are less fortunate or have not been recognized by others. Your life experiences are something that God is using to help you empathize with others and show them how much you care.
+Serving_Helps_15_25_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You have no problem digging down deep to help others when they are in need. You are specially touched by those having a hard time in their life at the moment. You want to make sure they have their needs met properly.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You enjoy opening your heart and home to extend the love of God to others. You enjoy using what you have to lift other's spirit and know that God has seen their need and answered it through those whom He has appointed.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You have no problem helping or giving of what you have to insure others have their physical needs met. You find great joy in being a servant and sharing what you have with those who do not have as much as you do.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and mercy and want to share those feelings with others. You enjoy serving in many areas of the church but opening your home and giving to meet other people's needs are a way you most enjoy expressing the love you found when Christ gave of Himself to you.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = You have a strong desire to insure other's needs are met because you feel God's love and want to share those feelings with others. You enjoy serving in many areas of the church but encouraging and giving to others brings you great joy. You often feel that God has given you the ability to say and do things that others cannot and that provide a great sense of joy during your times of prayer.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_05_14_Giving_05_14 = You have a strong desire to bring those who are struggling into your safe environment as a way of expressing your belief that God will care for them long term. You enjoy serving in many areas of the church but opening your home and heart to those downtrodden brings you great joy. When you meet other people's needs this way you are expressing the love you found when Christ gave of Himself to you.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_15_25_Encouraging_05_14_Giving_15_25 = You have a strong desire to bring those who are struggling into your safe environment as a way of expressing your belief that God will care for them long term. You enjoy caring for their needs by providing what they do not have. Giving others a new look at life and His love by sharing what you have provides great satisfaction to you.
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_05_14_Encouraging_15_25_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and want to share those feelings with others. One of your greatest joys is in serving others and meeting their needs. You enjoy this because often you find an opening to encourage and help others see the joy that the Lord has made full in you. They can have it too!
+Serving_Helps_15_25_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_05_14 = You have a strong desire to insure other's needs are met because you feel God's love and want to share those feelings with others. You also find a great deal of satisfaction in having visitors or those you care about in your home for times of refreshing. You love making others feel better.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_05_14_Giving_15_25 = You also find a great deal of satisfaction in having visitors or those you care about in your home for times of refreshing as well as meeting their needs physically and financially. You are a gracious host and people who visit your home during times of ministry leave, feeling blessed by you.
+Serving_Helps_05_14_Showing_Mercy_05_14_Hospitality_15_25_Encouraging_15_25_Giving_05_14 = You also find a great deal of satisfaction in having visitors or those you care about in your home for times of refreshing and providing them with encouragement to keep the faith. You are a gracious host and people who visit your home during times of ministry leave, feeling optimistic.
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_15_25_Giving_15_25 = You have a heart which is focused on encouraging and helping those who are in difficult circumstances. You have no problem going out of your way for those who are less fortunate or have not been recognized by others. Your life experiences are something that God is using to help you empathize with others and show them how much you care
+Serving_Helps_05_14_Showing_Mercy_15_25_Hospitality_05_14_Encouraging_05_14_Giving_15_25 = You have a strong desire to bring those who are struggling close to you as a way of expressing your belief that God will care for them long term. You have a great desire to give to those who are struggling or are under stress. You willingness to help and show mercy is obvious to them and those who see your involvement with those in need.
+Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You possess insight that allows you to simplify and identify the core issues and answers which are needed by others to improve their spiritual life or correct their way of thinking.
+Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. Your accumulated knowledge provides you with insight that often helps to simplify complex issues for others.
+Wisdom_15_25_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight is what drives you to speak out to others and share what God has given you. You feel compelled to share.
+Wisdom_15_25_Knowledge_15_25_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can teach or preach.
+Wisdom_15_25_Knowledge_15_25_Prophecy_15_25_Teaching_15_25_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can teach or preach with a straight forward simple plan of salvation.
+Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_15_25_Evangelism_15_25 = You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can teach or proclaim the good news to others. You have the ability to share clearly and plainly what others need to hear in a timely manner.
+Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_15_25 = You have been gifted with an ability to proclaim the gospel in clear and understandable terms. You also have a gift for teaching others in a way they can grow and be blessed by what the Spirit places in your mouth. You thrive in an atmosphere where you can teach or proclaim the good news clearly and plainly to meet other's need for the Gospel.
+Wisdom_05_14_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = You have been gifted with an ability to clearly share the gospel with others in a way that is understandable and clear. You have a way of sharing that embraces and backs up spiritual principles others need to hear to encourage them while you are communicating what the Holy Spirit tells you to speak.
+Wisdom_05_14_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = You have been gifted with the ability to communicate the gospel in a format that is easy to understand and grasp. Others will be moved by the Holy Spirit as he guides your communication. He will move others to accept the Gospel based on the truths God speaks through you.
+Wisdom_05_14_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = While you have an ability to communicate God's mind on occasions, your greatest strengths lie in other categories that better exemplify what God created you to be and the way He created you to serve the body.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_05_14 = God has gifted you with a strong ability to gather and retain knowledge that is beneficial to His Kingdom. You have an ability to take that knowledge and share it with others to build up the individuals He brings into your path. The Holy Spirit will use your knowledge combined with your life experiences to reach people others cannot reach.
+Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. You thrive in an atmosphere where you can teach or preach with a straight forward simple plan of salvation. Your strong gifting and ability to assimilate information, allow you share God's love as few people can. The Holy Spirit will use these skills for edifying the body and those willing to listen.
+Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = You have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can teach or preach with a straight forward simple plan of salvation. Your ability to acquire knowledge and use it to proclaim and teach His word in both an understandable way as well as addressing specific events in other's lives. You have an impact on their life position.
+Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. You have been gifted with a strong ability convey your knowledge and wisdom to others in a simple and clear way. You are able to make difficult scriptural information understandable to others.
+Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = You have the ability to speak into others lives at times when the Holy Spirit quickens your heat. By listening and communicating what is on your heart and mind God allows you to enrich others with spiritual insight they do not have or would be able to acquire any other way. You have become God's mouthpiece.
+Wisdom_05_14_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = You have the ability to take scriptures, passages and books, whether short or long, and communicate them to others in an understandable and applicable format. Your gifting by the Holy spirit provides you with an ability to teach others and enrich their lives as you provide insight that they would not have had if God had not brought you into their path.
+Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. God has empowered you to see into his mind at times so you will be able to share with others. That insight initiates a strong desire to communicate what you know with others by speaking out and sharing the gospel. You thrive in an atmosphere where you can teach or preach with a straight forward simple plan of salvation.
+Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. You thrive in an atmosphere where you can teach and build up the body of Christ by teaching them application of scriptural principles or by teaching them in a simple presentation of the gospel or plan of salvation.
+Wisdom_15_25_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can share a straight forward Biblical principle or the plan of salvation.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = Your deep desire to study and learn more has empowered you to understand and retain key principles of God's mind at times. Your studies and life experience have given you the kind of insight necessary to help others. This motivates your desire to teach and share what God has taught you with others. Others will be drawn to you so you can share with them.
+Wisdom_15_25_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. That insight initiates a strong desire to share the gospel, a straight forward Biblical principle, or the plan of salvation.
+Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can share Biblical principles that will strengthen, build up or enhance others in their walk with Christ.
+Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You also have a deep desire to share the gospel, a straight forward Biblical principle, or the plan of salvation to those who have not heard the Gospel.
+Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. That insight initiates a strong desire to share what you know with other by speaking out and sharing the gospel. You thrive in an atmosphere where you can share the simple and straight forward plan of salvation.
+Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = You have been gifted with deep spiritual insight into the heart of God. He has focused your heart on sharing His principles clearly to others so they can understand His direction and/or be drawn to the gospel.
+Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = God has gifted you with an ability to acquire knowledge and understand what is important to God and His people. You are urged by the Holy Spirit to speak into and address specific events in other's lives. God has gifted you with this ability so you will have an impact on their life position when you communicate what the Spirit says to you.
+Wisdom_05_14_Knowledge_15_25_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = God has gifted you with an ability to acquire knowledge and understand what is important to God and His people. You are urged by the Holy Spirit to speak into and address specific events in other's lives. God has gifted you with this ability so you will have an impact on their life position when you communicate what the Spirit says to you. He has focused your heart on sharing His principles clearly to others so they can understand His direction and/or be drawn to the gospel.
+Wisdom_15_25_Knowledge_05_14_Prophecy_05_14_Teaching_15_25_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. You thrive in an atmosphere where you can share Biblical principles that will strengthen, build up or enhance others in their walk with Christ, understanding His direction and applying that direction in their spiritual growth and development.
+Wisdom_15_25_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_05_14 = You display an ability to provide insight and wisdom into matters that may puzzle or confuse others. That deep spiritual insight into the heart of God is driven by the Spirit and caused you to share His principles clearly to individuals in very specific circumstances. You will be His messenger on occasions.
+Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_05_14_Evangelism_15_25 = You have a strong ability to speak into other people's lives, communicating God's heart and/or direction to them. That spiritual insight, driven by the Spirit causes you to share His principles simply and clearly to individuals on both specific and general occasions. You will be His messenger more than once.
+Wisdom_05_14_Knowledge_05_14_Prophecy_15_25_Teaching_15_25_Evangelism_05_14 = You have a strong ability to speak into other people's lives, communicating God's heart and/or direction to them. That spiritual insight, driven by the Spirit causes you to communicate God's heart and/or direction to them. You also clearly communicate scriptural principles in a way others understand and can apply them to their growth and development.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_15_25_Evangelism_15_25 = Your deep desire to study and learn more has empowered you to understand and retain key principles of God's mind at times. Your studies and life experience have given you the kind of insight necessary to help others. This motivates your desire to teach and share what God has taught you with others. Others will be drawn to you so you can share with them a straight forward Biblical principle or the plan of salvation.
+Wisdom_05_14_Knowledge_15_25_Prophecy_05_14_Teaching_05_14_Evangelism_15_25 = You have a deep desire to study and learn more as it seems as if God has empowered you to see into his mind at times. You thrive in an atmosphere where you can preach with a straight forward simple plan of salvation. Your ability to acquire knowledge and use it to proclaim the simplicity of the Gospel will have an impact on their life position.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_05_14 = You have been gifted with the ability to manage and oversee processes that keep the church working with efficiency and effectiveness. You will be able to help organize others and apply their gifting and talents in a way that will enhance the ministry'sfocus.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_05_14 = You have been gifted with the ability to manage and oversee processes that keep the church working with efficiency and effectiveness. You also have the ability to organize and lead, guard, protect, and guide a ministry to insure the group runs well and is efficient. You will direct your members and try to make sure they are following the course best for the group.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_05_14 = You have been gifted with the ability to organize, manage and oversee processes that keep the church working with efficiency and effectiveness. You also have the ability to organize and lead, guard, protect, and guide a ministry to insure the group runs well and is efficient. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_15_25_Apostles_15_25_Faith_05_14 = You have been gifted with the ability to organize, manage, care for, protect and oversee processes that keep a high profile organization, managing multiple ministries, working efficiently and effectively. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service, causing many to look to you for guidance.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_15_25_Apostles_15_25_Faith_15_25 = You have been gifted because of your unusually strong faith with the ability to organize, protect and care for a high profile organization overseeing, and managing multiple ministries working efficiently and effectively. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service, causing many to look to you for guidance.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_15_25_Faith_15_25 = You have been gifted because of your unusually strong faith with the ability to organize, protect and care for a high profile ministry overseeing, and managing multiple ministries working efficiently and effectively. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service, causing many to look to you for guidance.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_15_25 = You have been gifted because of your unusually strong faith with the ability to organize, a high profile organization overseeing, and managing multiple ministries working efficiently and effectively. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service, causing many to look to you for guidance.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_15_25 = You have been gifted because of your unusually strong faith with the ability to oversee a high profile organization that manages multiple ministries needing to work together efficiently and effectively. You have been provided with the insight and ability to insure the ministry and its members are cared for and directed in individual service, causing many to look to you for guidance.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_15_25 = Your faith stands out as something unusual and attractive to other believers. When challenged many will seek your guidance as to how they are to focus their beliefs and keep their eyes on what is important during tough times.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_05_14 = While you have an ability to manage your life with God's principles your greatest strengths lie in other categories that better exemplify what God created you to be and the way He created you to serve the body.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_05_14 = You also have the ability to organize and lead, guard, protect, and guide a ministry to insure the group runs well and is efficient. You will direct your members and try to make sure they are following the course best for the group. Your calling should be directed to a place of service that utilizes the natural behavioral skills given by God.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_05_14 = You have been gifted to oversee, lead, guard, protect, guide and speak as an authority for a specific ministry or group that is spread out or diverse in membership/culture. Your oversight of this group will be demanding, but met with Spiritual insight.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_15_25_Faith_05_14 = You have been gifted to oversee, lead, guard, protect, guide and speak as an authority for a specific ministry or group spread out or diverse in membership/culture. Your oversight of this group will be demanding, but met with spiritual insight.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_15_25 = You have been gifted to oversee, lead, guard and protect a specific ministry or group because of your great faith. That faith will be the deciding factor in many of your decisions and will be foundational for those you lead through challenging times.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_05_14 = You have been gifted with the oversight and control of a ministry that the Spirit brought together for you to invest in. Others will look to you for guidance and direction in their mental, spiritual and family lives.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_05_14 = You have been gifted, called and appointed to a high level of prominence because God feels you can serve a diverse group of individuals with a similar focus. This gifting will have you under constant scrutiny, evaluation and attack.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_15_25 = You have been gifted with abilities to manage a high profile ministry that oversees, and manages many individuals in multiple ministries. Others seek your guidance because of your unusually strong faith and ability to focus on the organizational needs of many people.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_15_25 = You have been gifted with abilities to lead, protect and guard a high profile ministry that oversees, manages and/or leads multiple ministries. Others will seek your guidance because of your unusually strong faith and ability to lead others properly.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_15_25 = You have been gifted to lead, protect and guard a ministry that oversees, manages and/or leads many people. Others will seek your guidance because of your unusually strong faith and an ability to translate that faith into caring for and managing the needs of many others.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_05_14 = You have been gifted with an ability to lead, protect and guard a large high profile ministry that incorporates a diverse group of people with a similar approach to ministry. Your authority should be seen as a gift and responsibility requiring constant checks on your humility.
+Administration_15_25_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_15_25 = You have been gifted with an ability to organize, plan, lead, protect and guard a ministry because of your profound faith. Your ability to look at a ministry and see the needs, as well as understand what is required will allow you to communicate when the membership must be objective and when they need to focus on God for direction.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_05_14 = You have been gifted with an ability to organize, plan and meet the needs of a specific group or groups of people who are focused on multiple areas of ministry. Your insight will allow growth and stability to a large organization that is focused on meeting niches of God's ministry.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_05_14_Faith_15_25 = You have been gifted with the ability to plan, organize and assist in the administration of a ministry based on your faith and calling. Your insight will be in constant need of those with special gifting to keep them focused on the objective aspects as well as when there is a need for prayer and fasting.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_15_25 = You have been gifted with the ability to plan, organize and assist in the oversight and administration of a ministry based on your faith and calling. Your insight will be in constant need of those within the ministry to keep them focused on what needs to be done to increase the kingdom as well as when prayer and fasting are important.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_15_25 = You have been gifted with the ability to plan, organize and assist in the oversight and administration of a high profile ministry based on your faith and calling. Your insight will be in constant need of those who manage the individual ministries to keep them focused on what needs to be done to increase the kingdom through faith, prayer and fasting.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_05_14 = You have been gifted with an ability to lead, protect and guard a ministry overseeing a group of people with a similar approach to ministry. Your authority should be seen as a gift and responsibility requiring a strong support system of members who can help you fill in the gaps.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_15_25_Apostles_05_14_Faith_15_25 = You have been gifted with strong faith, positioning you to lead, protect and guard a ministry overseeing a group of people with a similar approach to ministry. Your authority will be tested and yet also be a source of strength to those who see you as their leader and depend on your insight to guide them in the ministry process.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_05_14_Apostles_15_25_Faith_05_14 = You have been gifted with the ability to plan, organize and assist in the oversight and administration of a high profile ministry. Your insight will be in constant need of those who manage the individual ministries to keep them focused on what needs to be done to increase the kingdom.
+Administration_15_25_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_05_14 = You have been gifted with the ability to plan, organize and assist in the oversight and administration of a ministry based on your calling. Your insight will be in constant need of those within the ministry to keep them focused on what needs to be done to increase the reach and dynamics of the ministry.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_05_14_Faith_15_25 = You have been gifted, because of your strong faith, with the oversight and control of a ministry that the Spirit brought together for you to invest in. Others will look to you for guidance and direction in their mental, spiritual and family lives because you will often be able to see things based on your faith which will be worrisome or challenging to them.
+Administration_05_14_Leadership_Oversight_05_14_Pastors_15_25_Apostles_15_25_Faith_05_14 = You have been gifted with the ability to lead, oversee and control of a high profile ministry that the Spirit brought together for you. Others will look to you to set the tone of this far reaching ministry, as well as guidance and direction in their spiritual efforts.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_15_25_Faith_15_25 = You have been gifted with an ability to lead, protect and guard a high profile ministry overseeing a diverse group of people with a similar approach to ministry. Your authority should be seen as a gift because of your unusually strong faith and an ability to translate that faith into caring for and managing the needs of many others. Your responsibilities require a strong support system of leaders who can help you fill in the gaps in the various places of ministry.
+Administration_05_14_Leadership_Oversight_15_25_Pastors_05_14_Apostles_05_14_Faith_15_25 = You have been gifted with strong faith, positioning you to lead, protect and guard people with a similar approach to ministry. Your authority may be tested but others will see in you a source of strength as their leader and depend on your insight to guide them in the ministry process.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray and have others receive healing from physical, mental or spiritual oppression. These times come and go based on the specific need of the Holy Spirit to validate His presence in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression or bring about a significant event in a person's life. These times come and go based on the specific need of the Holy Spirit to validate His presence in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life as well as distinguish between spirits present. These times come and go based on the specific need of the Holy Spirit to validate His presence in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life as well as distinguish between spirits present. You have also been gifted by speaking in an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life as well as distinguish between spirits present. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life as well as distinguish between spirits present. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to distinguish between spirits present and impacting individuals. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted to speak and interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives. This allows you to minister in special ways which are not normally evident to outsiders or some in the Body of Christ.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives. This allows you to minister in special ways which are not normally evident to outsiders or some in the Body of Christ.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = While you have an ability to display God's authority on occasion, your greatest strengths lie in other categories that better exemplify what God created you to be and the way He created you to serve the body.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life. These times come and go based on the specific need of the Holy Spirit to validate His presence in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, and bring about a significant or miraculous event in a person's life. You have also been gifted by speaking in an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life as well as distinguish between spirits present. You have also been gifted by speaking in an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life. You have also been gifted by interpreting unknown prayer languages to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to distinguish between spirits present and impacting people's lives. This gifting will enable you to help others focus on specific needs brought about by spirits that others cannot understand and do not know how to cope with.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted with a special ability to speak in unknown prayer languages which facilitate the Holy Spirit's work in yours and other's lives. This allows you to minister in special ways which are not normally evident to outsiders or some in the Body of Christ.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression and distinguish between spirits which are present and impacting people's lives. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, and bring about a significant or miraculous event in a person's life. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life as well as distinguish between spirits present. You have also been gifted with an ability to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life which will have a profound impact on them and those involved in their lives. You have also been gifted by speaking in an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_15_25_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression and bring about a significant event in a person's life. You have also been gifted with an ability to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression, bring about a significant event in a person's life as well as distinguish between spirits present. You have also been gifted with an ability to speak in an unknown prayer language to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression. You have also been gifted with an ability to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression as well as distinguish between spirits present which are impacting others. You have also been gifted with an ability to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression. You have also been gifted by speaking and interpreting unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life as well as distinguish between spirits present. These gifts will be used to expand or facilitate the Holy Spirit's work in your life or His ministry.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life as well as distinguish between spirits present. You have also been gifted by having the ability to interpret an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression. You have also been gifted by speaking in unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_15_25_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to pray, have others receive healing from physical, mental or spiritual oppression as well as distinguish between spirits present which are impacting others. These abilities have been given to you to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to distinguish between spirits present which are impacting others. You have also been gifted with an ability to interpret unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_05_14_Distinguishing_of_Spirits_15_25_Tongues_15_25_Interpreting_Tongues_05_14 = You have been gifted for special dispensations of grace by the Holy Spirit to distinguish between spirits present which are impacting others. You have also been gifted with an ability to speak in unknown prayer languages to facilitate the Holy Spirit's work in yours and other's lives.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_15_25_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life which will have a profound impact on them and those involved in their lives. You have also been gifted by speaking and interpreting unknown tongues or prayer languages to facilitate the Holy Spirit's work in your life or His ministry.
+Healings_05_14_Miracles_15_25_Distinguishing_of_Spirits_05_14_Tongues_05_14_Interpreting_Tongues_15_25 = You have been gifted for special dispensations of grace by the Holy Spirit to bring about a significant or miraculous event in a person's life which will have a profound impact on them and those involved in their lives. You have also been gifted by interpreting an unknown prayer language to facilitate the Holy Spirit's work in your life or His ministry.
+
+
+
+
+Displaying_Gods_love_category = Displaying God's love
+Serving_Helps_gifting = Serving/Helps
+Showing_mercy_gifting = Showing mercy
+Hospitality_gifting = Hospitality
+Encouraging_gifting = Encouraging
+Giving_gifting = Giving
+Serving_Helps_definition = (1 Corinthians, Romans, 1 Peter) diakonia - Meeting charitable needs by command or voluntary service.
+Showing_mercy_definition = (Romans) eleeo - Helping those that are afflicted or seeking aid.
+Hospitality_definition = (1 Peter) diakoneo - To provide food, drink and the necessities of life to guests.
+Encouraging_definition = (Romans) parakaleo - To summon, speak to, console and encourage by strengthening the individual
+Giving_definition = (Romans) metadidomi - To freely grant, supply or furnish what is necessary as if it was their due.
+
+Communicating_Gods_mind_category = Communicating God's mind
+Wisdom_gifting = Wisdom
+Knowledge_gifting = Knowledge
+Prophecy_gifting = Prophecy
+Teaching_gifting = Teaching
+Evangelism_gifting = Evangelists
+Wisdom_definition = (1 Corinthians) Sophia - Supreme intelligence acquired by divine insight, experience and application in many diverse matters.
+Knowledge_definition = (1 Corinthians) gnosis - General intelligence, understanding of what is moral and right living.
+Prophecy_definition = (1 Corinthians, Romans, Ephesians) prophetes - Someone moved by the Spirit to proclaim a cause or event relevant to growth, development or salvation. 
+Teaching_definition = (Romans, Ephesians, 1 Peter)  didasko - To instruct, expound, explain and instill doctrine
+Evangelism_definition = (Ephesians) euaggelistes - Someone who brings good tidings (of the gospel), simply and plainly who are not apostles.
+
+Managing_with_Gods_principles_category = Managing with God's principles 
+Administration_gifting = Administration
+Leadership_Oversight_gifting = Leadership/Oversight
+Pastors_gifting = Pastors
+Apostles_gifting = Apostles
+Faith_gifting = Faith
+Administration_definition = (1 Peter) oikonomos - A manager or supervisor trusted with the management of all day to day operations.
+Leadership_Oversight_definition = (Romans) proistemi - A protector, guardian or one given oversight of others.
+Pastors_definition = (Ephesians) poimen -A herdsman who oversees the care and control of others, as an overseer of Christian assemblies.
+Apostles_definition = (Ephesians) apostolos - One sent with divine orders and direction, referring specifically to the 12 or generally to eminent Christian teachers.
+Faith_definition = (1 Corinthians) pistis - Trust and conviction of the truth regarding man's relationship with God and divine things.
+
+Displaying_Gods_authority_category = Displaying God's authority
+Healings_gifting = Healings
+Miracles_gifting = Miraculous powers
+Distinguishing_of_spirits_gifting = Distinguishing between spirits
+Tongues_gifting = Speaking in different kinds of tongues/languages
+Interpreting_Tongues_gifting = Interpretation of tongues/languages
+Healings_definition = (1 Corinthians) iama - To cure, make physically and/or spiritually whole and remove errors (or sin, bringing about salvation).
+Miracles_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
+Distinguishing_of_spirits_definition = (1 Corinthians) diakrisis - Be able to judge, separate, discriminate or distinguish differences in spirits.
+Tongues_definition = (1 Corinthians) glossa - The dialect that identifies or distinguishes a distinct people.
+Interpreting_Tongues_definition = (1 Corinthians) hermeneia - Identifying, explaining or expounding communication that is obscure to others.
+
+
+
+gifting_title_1 = Your greatest gifting is found in
+gifting_title_2 = Your second greatest gifting is found in
+gifting_title_3 = Your third greatest gifting is found in
+gifting_title_4 = Your fourth greatest gifting is found in
