@@ -7,6 +7,7 @@ Created on Oct 19, 2010
 
 from google.appengine.ext import webapp
 from action.directions import Directions
+from action.help import Help
 from action.test import Test
 from action.results import Results
 from action.restest import Restest
@@ -29,7 +30,8 @@ app = webapp.WSGIApplication(
                                       ('/retake', Retake),
                                       ('/norms', Norms),
                                       ('/export', Export),
-                                      ('/modresults', ModResults)
+                                      ('/modresults', ModResults),
+                                      ('/help', Help)
                                      ],
                                      debug=True)
 

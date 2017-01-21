@@ -21,13 +21,7 @@ handlers:
 - url: /favicon.ico
   static_files: img/favicon.ico
   upload: img/favicon.ico
-  
-- url: /help-en
-  static_files: html/help-en.html
-  upload: html/help-en.html
-- url: /help-lg
-  static_files: html/help-lg.html
-  upload: html/help-lg.html 
+
   
 - url: /admin
   script: Main.app
