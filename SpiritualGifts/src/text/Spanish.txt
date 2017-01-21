@@ -49,128 +49,128 @@ spiritual_gifts_test = Evaluación de Dones Espirituales
 see_results = See Results
 
 
-Displaying_Gods_love_Encouraging_1 = I find it gratifying to motivate and support others in their spiritual walk.
-Displaying_Gods_love_Encouraging_2 = I feel many people are not very optimistic as they face life's challenges.
-Displaying_Gods_love_Encouraging_3 = I welcome opportunities to share my experiences and encourage others.
-Displaying_Gods_love_Encouraging_4 = I've discovered I can challenge others without them feeling condemned.
-Displaying_Gods_love_Encouraging_5 = "I feel better" has often been the response from those I counseled.
+Displaying_Gods_love_Encouraging_1 = Me resulta gratificante motivar y apoyar a otros en su camino/vida espiritual.
+Displaying_Gods_love_Encouraging_2 = Siento que muchas personas no son muy optimistas a medida que se enfrentan a las dificultades de la vida.
+Displaying_Gods_love_Encouraging_3 = Acojo con gusto la oportunidad de compartir mis experiencias y animar a otros.
+Displaying_Gods_love_Encouraging_4 = He descubierto que puedo desafiar a otros sin que se sientan condenados
+Displaying_Gods_love_Encouraging_5 = Las personas que aconsejo usualmente me terminan diciendo que se sienten mejor
 
-Displaying_Gods_love_Giving_1 = I feel that what I earn is a tool to insure other's needs are met.
-Displaying_Gods_love_Giving_2 = It is more satisfying to support a ministry need than buying something new.
-Displaying_Gods_love_Giving_3 = A modest lifestyle allows me to quietly contribute more to other's needs.
-Displaying_Gods_love_Giving_4 = I've honestly felt the emotions behind "it is better to give than receive."
-Displaying_Gods_love_Giving_5 = I've been deeply burdened and responded to help others financially.
+Displaying_Gods_love_Giving_1 = Siento que lo que gano es una herramienta para asegurar que se cumplan las necesidades de otros.
+Displaying_Gods_love_Giving_2 = Encuentro mas satisfacción aportando dinero hacia una causa del ministerio que en comprarme algo nuevo.
+Displaying_Gods_love_Giving_3 = Un estilo de vida modesto me permite contribuir sutilmente a las necesidades de otros.
+Displaying_Gods_love_Giving_4 = De verdad siento que es mejor dar que recibir
+Displaying_Gods_love_Giving_5 = He estado profundamente agobiado/a y he decidido ayudar a los demás financieramente.
 
-Displaying_Gods_love_Hospitality_1 = I enjoy having my home as a "gathering place" for others.
-Displaying_Gods_love_Hospitality_2 = Entertaining others provides a great sense of satisfaction.
-Displaying_Gods_love_Hospitality_3 = Many who visit my home seem comfortable and often linger a while.
-Displaying_Gods_love_Hospitality_4 = I rarely feel "put out" by having someone stay in my home.
-Displaying_Gods_love_Hospitality_5 = Preparing for other's visit to my home is exciting and exhilarating.
+Displaying_Gods_love_Hospitality_1 = Disfruto ofrecer mi hogar como “lugar de reuniones” para los demás.
+Displaying_Gods_love_Hospitality_2 = Me brinda satisfacción entretener a otros.
+Displaying_Gods_love_Hospitality_3 = Muchas personas que visitan mi casa se sienten cómodos y, a menudo se quedan un buen rato.
+Displaying_Gods_love_Hospitality_4 = Rara vez me siento incomodo/a si otros se quedan en mi hogar
+Displaying_Gods_love_Hospitality_5 = Me emociona poder preparar mi hogar para la visita
 
-Displaying_Gods_love_Serving_Helps_1 = I find acts of assistance more rewarding than speaking and/or teaching
-Displaying_Gods_love_Serving_Helps_2 = It really does not matter who gets credit as long as other's needs are met.
-Displaying_Gods_love_Serving_Helps_3 = Joy is most often found in completing tasks without attracting attention.
-Displaying_Gods_love_Serving_Helps_4 = A look of gratitude from another far outweighs any other gift.
-Displaying_Gods_love_Serving_Helps_5 = I find great pleasure in simple, practical tasks that lend a helping hand.
+Displaying_Gods_love_Serving_Helps_1 = Me da mas satisfacción ayudar y asistir a los demás que hablar y/o ensenar.
+Displaying_Gods_love_Serving_Helps_2 = No me parece importante quien se gana el crédito con tal de lograr ayudar a otros.
+Displaying_Gods_love_Serving_Helps_3 = La alegría se encuentra más en la realización de tareas sin tener que llamar la atención.
+Displaying_Gods_love_Serving_Helps_4 = Una mirada de agradecimiento de otro es mucho mayor que cualquier otro regalo.
+Displaying_Gods_love_Serving_Helps_5 = Disfruto contribuir en tareas simples y practicas para ayudar a los demás
 
-Displaying_Gods_love_Showing_Mercy_1 = I have been told that I tend to support the "underdog."
-Displaying_Gods_love_Showing_Mercy_2 = It is not forgiving others, but remaining objective that is a struggle.
-Displaying_Gods_love_Showing_Mercy_3 = I have a great deal of compassion for those hurting or in distress.
-Displaying_Gods_love_Showing_Mercy_4 = I find great joy in being able to comfort those in times of crisis.
-Displaying_Gods_love_Showing_Mercy_5 = I've found at times I see pain in others even when they don't express it.
-
-
-Communicating_Gods_mind_Evangelism_1 = Others have said I present a clear and concise approach to salvation.
-Communicating_Gods_mind_Evangelism_2 = I feel very comfortable sharing my faith with unbelievers.
-Communicating_Gods_mind_Evangelism_3 = I have a strong burden for those who do not have the peace of salvation.
-Communicating_Gods_mind_Evangelism_4 = I have a nagging concern of having someone's blood on my hands if I don't share my faith.
-Communicating_Gods_mind_Evangelism_5 = I am exhilarated when sharing the gospel to many people.
-
-Communicating_Gods_mind_Knowledge_1 = God reminds me of scripture or experiences when facing weighty decisions.
-Communicating_Gods_mind_Knowledge_2 = I receive great joy, peace and revelation as I study the scriptures.
-Communicating_Gods_mind_Knowledge_3 = Digging into scriptural language, historical and social context is fun.
-Communicating_Gods_mind_Knowledge_4 = I loved acquiring information and often made good grades.
-Communicating_Gods_mind_Knowledge_5 = Challenging scriptures cause me to dig until I find an answer.
-
-Communicating_Gods_mind_Prophecy_1 = When God gives me insight I feel compelled to share it, regardless.
-Communicating_Gods_mind_Prophecy_2 = By speaking God's truth I don't shortchange myself or others.
-Communicating_Gods_mind_Prophecy_3 = On more than one occasion I had to speak God's truth to others.
-Communicating_Gods_mind_Prophecy_4 = I love to proclaim God's truths, past, present and future.
-Communicating_Gods_mind_Prophecy_5 = In the past my words have brought conviction of sin to others.
-
-Communicating_Gods_mind_Teaching_1 = I am compelled to share what I have learned from scripture and studies.
-Communicating_Gods_mind_Teaching_2 = My instruction has provided Biblical insight and help to others.
-Communicating_Gods_mind_Teaching_3 = I have been able to identify spiritual patterns and communicate them.
-Communicating_Gods_mind_Teaching_4 = It is very rewarding for me to help others understand God's truths.
-Communicating_Gods_mind_Teaching_5 = I am often asked to explain scriptural principles and their application.
-
-Communicating_Gods_mind_Wisdom_1 = I am often consulted when others struggle with difficult decisions.
-Communicating_Gods_mind_Wisdom_2 = God uses me to provide clarity when there is confusion or indecision.
-Communicating_Gods_mind_Wisdom_3 = God's insight has allowed me to help others in their spiritual journey.
-Communicating_Gods_mind_Wisdom_4 = God has often given me insight and answers to complicated issues.
-Communicating_Gods_mind_Wisdom_5 = Mature believers have asked my opinions on challenging life issues.
+Displaying_Gods_love_Showing_Mercy_1 = Me han dicho que normalmente apoyo al “más débil” del equipo.
+Displaying_Gods_love_Showing_Mercy_2 = No se trata de perdonar, sino de mantener el objetivismo y entender que existen dificultades.
+Displaying_Gods_love_Showing_Mercy_3 = Tengo una gran cantidad de compasión por aquellos que sufren o que están en peligro.
+Displaying_Gods_love_Showing_Mercy_4 = Me siento muy feliz de poder ayudar a otros que están en situaciones de crisis
+Displaying_Gods_love_Showing_Mercy_5 = Siento que a veces veo el dolor de los demás, incluso cuando no lo expresan.
 
 
-Managing_with_Gods_principles_Administration_1 = Others often look to me for ministry coordination, planning and direction.
-Managing_with_Gods_principles_Administration_2 = I have an ability to be strategic and help a ministry achieve good results.
-Managing_with_Gods_principles_Administration_3 = Organizing and ministry development give a great sense of satisfaction.
-Managing_with_Gods_principles_Administration_4 = I have no problem delegating what needs to be done for ministry success.
+Communicating_Gods_mind_Evangelism_1 = Otros han dicho que yo presento un enfoque claro y conciso hacia la salvación.
+Communicating_Gods_mind_Evangelism_2 = Me siento cómodo/a compartiendo mi fe con personas ateas.
+Communicating_Gods_mind_Evangelism_3 = Me agobia mucho ver la situación de aquellos que no tienen la paz de la salvación.
+Communicating_Gods_mind_Evangelism_4 = Tengo una preocupación persistente de tener la sangre de alguien en mis manos si no comparto mi fe con ellos
+Communicating_Gods_mind_Evangelism_5 = Siento euforia al poder compartir el Evangelio con muchas personas.
+
+Communicating_Gods_mind_Knowledge_1 = Dios me recuerda de la escritura o experiencias cuando me enfrento a decisiones importantes.
+Communicating_Gods_mind_Knowledge_2 = Siento mucha felicidad, paz y revelación al estudiar las sagradas escrituras.
+Communicating_Gods_mind_Knowledge_3 = Profundizar en el lenguaje de las escrituras, y el contexto social e histórico es divertido.
+Communicating_Gods_mind_Knowledge_4 = Yo ame obtener información y normalmente lograba muy buenas notas/calificaciones
+Communicating_Gods_mind_Knowledge_5 = Cuando desafían las escrituras de Dios me siento obligado/a a investigar hasta encontrar una respuesta
+
+Communicating_Gods_mind_Prophecy_1 = Cuando Dios me da ideas/enseñanzas me siento obligado/a compartirlas, pase lo que pase.
+Communicating_Gods_mind_Prophecy_2 = Al comunicar el mensaje verdadero de Dios no siento que me engaño a mi mismo/a o a otras personas.
+Communicating_Gods_mind_Prophecy_3 = En mas de una ocasión me ha tocado comunicarle la verdad de Dios a los demás.
+Communicating_Gods_mind_Prophecy_4 = Me encanta proclamar las verdades de Dios, del pasado, presente y futuro.
+Communicating_Gods_mind_Prophecy_5 = En el pasado mis palabras han traído convicción de pecado a los demás.
+
+Communicating_Gods_mind_Teaching_1 = Me siento responsable de compartir con otros lo que he aprendido sobre las sagradas escrituras y mis propios estudios.
+Communicating_Gods_mind_Teaching_2 = Mi deber es proveer mi sabiduría sobre las escrituras de la Biblia para ayudar a los demás.
+Communicating_Gods_mind_Teaching_3 = He podido identificar y comunicar patrones espirituales.
+Communicating_Gods_mind_Teaching_4 = Es muy gratificante para mí ayudar a otros a entender los mensajes (verdades) de Dios.
+Communicating_Gods_mind_Teaching_5 = A menudo me piden explicar los principios bíblicos y su aplicación.
+
+Communicating_Gods_mind_Wisdom_1 = Normalmente las personas tienden a consultarme sus problemas o decisiones difíciles.
+Communicating_Gods_mind_Wisdom_2 = Dios me utiliza como medio para proveer claridad cuando hay confusión o indecisión.
+Communicating_Gods_mind_Wisdom_3 = La visión de Dios me ha permitido ayudar a otros en su camino espiritual.
+Communicating_Gods_mind_Wisdom_4 = Dios me ha dado una visión y respuestas a cuestiones complicadas.
+Communicating_Gods_mind_Wisdom_5 = Personas que han sido creyentes por un largo tiempo han pedido mi opinión sobre temas desafiantes de la vida.
+
+
+Managing_with_Gods_principles_Administration_1 = Normalmente las personas me buscan para coordinación del ministerio, la planificación y dirección.
+Managing_with_Gods_principles_Administration_2 = Tengo la habilidad de ser estratégico/a y ayudar al ministerio a obtener buenos resultados.
+Managing_with_Gods_principles_Administration_3 = La organización y el desarrollo del ministerio me dan una gran sensación de satisfacción.
+Managing_with_Gods_principles_Administration_4 = No tengo ningún problema delegando lo que hay que hacer para tener un ministerio exitoso.
 Managing_with_Gods_principles_Administration_5 = I enjoy making sure tasks and projects are completed in a timely manner.
 
-Managing_with_Gods_principles_Apostles_1 = I believe no physical or mental boundaries can hinder my Kingdom position.
-Managing_with_Gods_principles_Apostles_2 = I have been called to minister to multiple communities, countries and cultures.
-Managing_with_Gods_principles_Apostles_3 = I have a strong desire to take the gospel to where it has never been heard.
-Managing_with_Gods_principles_Apostles_4 = God is shaping me to encourage and equip many spiritual leaders.
-Managing_with_Gods_principles_Apostles_5 = Establishing, training and developing spiritual leaders does not intimidate me.
+Managing_with_Gods_principles_Apostles_1 = Yo creo que no existen límites físicos o mentales que puedan obstaculizar mi posición en el Reino de Dios.
+Managing_with_Gods_principles_Apostles_2 = He sido llamado/a para servir en varias comunidades, países y culturas.
+Managing_with_Gods_principles_Apostles_3 = Tengo un fuerte deseo de llevar el mensaje del Evangelio a lugares donde nunca se ha oído.
+Managing_with_Gods_principles_Apostles_4 = Dios me está dando formando para apoyar y equipar a muchos líderes espirituales.
+Managing_with_Gods_principles_Apostles_5 = No me intimida establecer, entrenar, y desarrollar lideres espirituales.
 
-Managing_with_Gods_principles_Faith_1 = I do not question my salvation or God's hold on my life.
-Managing_with_Gods_principles_Faith_2 = God has never let me down, which is why I don't question him now.
-Managing_with_Gods_principles_Faith_3 = I find it quite easy to believe that what God says is true and reliable.
-Managing_with_Gods_principles_Faith_4 = I have found my convictions inspire others and give them hope.
-Managing_with_Gods_principles_Faith_5 = Christ alone has the words of eternal life, so there is no other place to go.
+Managing_with_Gods_principles_Faith_1 = No cuestiono mi salvación o el plan de vida que Dios tiene para mí.
+Managing_with_Gods_principles_Faith_2 = Dios nunca me ha defraudado y por esa razón no lo cuestiono hoy en día.
+Managing_with_Gods_principles_Faith_3 = Me parece muy fácil creer que lo que Dios dice es cierto y fiable.
+Managing_with_Gods_principles_Faith_4 = Mis convicciones inspiran y le dan esperanza a otros
+Managing_with_Gods_principles_Faith_5 = Únicamente Cristo tiene las palabras de la vida eternal, no existe otro lugar
 
-Managing_with_Gods_principles_Pastors_1 = I find great joy in ministering to the same group of people for a long time.
-Managing_with_Gods_principles_Pastors_2 = I relish close relationships because of the ability to nurture other's growth.
-Managing_with_Gods_principles_Pastors_3 = I find great satisfaction in helping those who are weak develop strength.
-Managing_with_Gods_principles_Pastors_4 = I feel responsible to help or direct those who are close and need guidance.
-Managing_with_Gods_principles_Pastors_5 = God seems to provide the words others need to hear when I speak.
+Managing_with_Gods_principles_Pastors_1 = Me hace muy feliz poder atender al mismo grupo de gente durante un largo periodo de tiempo.
+Managing_with_Gods_principles_Pastors_2 = Aprecio las relaciones o amistades cercanas porque tengo la posibilidad de ayudar a otros en su crecimiento como personas
+Managing_with_Gods_principles_Pastors_3 = Me brinda una gran satisfacción ayudar a aquellos que son débiles a desarrollar la fuerza.
+Managing_with_Gods_principles_Pastors_4 = Me siento responsable de ayudar o dirigir los que están cerca y necesitan orientación.
+Managing_with_Gods_principles_Pastors_5 = Cuando hablo parece que Dios me brinda las palabras que otros necesitan escuchar.
 
-Managing_with_Gods_principles_Leadership_Oversight_1 = I find joy in and feel called to be at the forefront of a ministry.
-Managing_with_Gods_principles_Leadership_Oversight_2 = God has given me favor and drawn others to me for spiritual direction.
-Managing_with_Gods_principles_Leadership_Oversight_3 = I feel blessed with an ability to communicate a vision for others to follow.
-Managing_with_Gods_principles_Leadership_Oversight_4 = I am seen as an authority by others who seek a way to serve God.
-Managing_with_Gods_principles_Leadership_Oversight_5 = I find joy in inspiring, leading and motivating others to God's service.
+Managing_with_Gods_principles_Leadership_Oversight_1 = Encuentro felicidad y me siento llamado/a a estar en el primer plano de un ministerio.
+Managing_with_Gods_principles_Leadership_Oversight_2 = Dios me ha dado un don y ha guiado otras personas hacia mi para guía spiritual.
+Managing_with_Gods_principles_Leadership_Oversight_3 = Me siento bendecido con una capacidad de comunicar una visión a seguir por otros.
+Managing_with_Gods_principles_Leadership_Oversight_4 = Soy visto/a como una figura autoritaria por las personas que buscan la manera de server a Dios
+Managing_with_Gods_principles_Leadership_Oversight_5 = Me brinda alegría inspirar, dirigir, y motivar a otros para que sirvan a Dios.
 
 
-Displaying_Gods_authority_Distinguishing_of_Spirits_1 = I rarely have difficulty seeing through a person who is trying to purport themselves to be something they are not.
-Displaying_Gods_authority_Distinguishing_of_Spirits_2 = I will push to identify the motives behind another person's words.
-Displaying_Gods_authority_Distinguishing_of_Spirits_3 = I have sensed another person was motivated to act by an evil spirit.
-Displaying_Gods_authority_Distinguishing_of_Spirits_4 = I am able to judge truthfulness and error in a theological statement.
-Displaying_Gods_authority_Distinguishing_of_Spirits_5 = God has given me an innate sense of seeing spirits at work in others.
+Displaying_Gods_authority_Distinguishing_of_Spirits_1 = Rara vez tengo dificultad en ver a través de alguien que está tratando de pretender ser alguien que no son.
+Displaying_Gods_authority_Distinguishing_of_Spirits_2 = Me esforzare para identificar los motivos detrás de las palabras de otra persona.
+Displaying_Gods_authority_Distinguishing_of_Spirits_3 = En alguna ocasión he sentido que otra persona fue motivado/a para actuar por un espíritu maligno.
+Displaying_Gods_authority_Distinguishing_of_Spirits_4 = Soy capaz de juzgar la veracidad y error en una declaración teológica.
+Displaying_Gods_authority_Distinguishing_of_Spirits_5 = Dios me ha dado don de ver espíritus actuar a través de otras personas
 
-Displaying_Gods_authority_Healings_1 = I find great joy in praying for the physically, mentally or spiritually ill.
-Displaying_Gods_authority_Healings_2 = I have seen God answer my prayer by healing the person I prayed for.
-Displaying_Gods_authority_Healings_3 = I have seen healing occur more than once when I and others prayed.
-Displaying_Gods_authority_Healings_4 = I believe God heals people and am confident prayer makes a difference.
-Displaying_Gods_authority_Healings_5 = When I pray for other's healing, I am aware of a power beyond me.
+Displaying_Gods_authority_Healings_1 = Me hace muy feliz rezar por las personas que están enfermas físicamente, mentalmente o espiritualmente.
+Displaying_Gods_authority_Healings_2 = He visto a Dios responder mis oraciones al curar a una persona por la que ore.
+Displaying_Gods_authority_Healings_3 = He visto mas de una curación cuando he orado junto con otras personas
+Displaying_Gods_authority_Healings_4 = Creo que Dios sana a la gente y estoy seguro de la oración hace la diferencia.
+Displaying_Gods_authority_Healings_5 = Se que existe un poder mas allá de mi cuando rezo por la sanación de alguien
 
-Displaying_Gods_authority_Interpreting_Tongues_1 = For some reason I know what others mean when hearing tongues.
-Displaying_Gods_authority_Interpreting_Tongues_2 = I feel being able to understand other tongues/languages helps me help others.
-Displaying_Gods_authority_Interpreting_Tongues_3 = I am able to eliminate confusion by sharing a tongue/language's meaning.
-Displaying_Gods_authority_Interpreting_Tongues_4 = I remember the first time I felt I understood what was said in tongues.
-Displaying_Gods_authority_Interpreting_Tongues_5 = I have interpreted when someone spoke in tongues.
+Displaying_Gods_authority_Interpreting_Tongues_1 = Por alguna razón se a lo que se refieren otros cuando escuchan Glosolalia (escuchan voces y mensajes de Dios).
+Displaying_Gods_authority_Interpreting_Tongues_2 = Siento que al tener el don de entender los mensajes de Dios y otras lenguas me deja  ayudar a los demás
+Displaying_Gods_authority_Interpreting_Tongues_3 = Soy capaz de eliminar la confusión al compartir un significado del mensaje de Dios.
+Displaying_Gods_authority_Interpreting_Tongues_4 = Me acuerdo de la primera vez que sentí que entendía lo que decían las lenguas (mensajes de Dios).
+Displaying_Gods_authority_Interpreting_Tongues_5 = He interpretado las palabras (mensajes de Dios) cuando alguien los ha hablado
 
-Displaying_Gods_authority_Miracles_1 = I have seen too many miracles in my life to discount their validity.
-Displaying_Gods_authority_Miracles_2 = I can recall one or more incidents when God literally intervened.
-Displaying_Gods_authority_Miracles_3 = Others have said God used me to supernaturally change their life.
-Displaying_Gods_authority_Miracles_4 = I have seen God interrupt the natural flow of life based on my prayer.
-Displaying_Gods_authority_Miracles_5 = The more I address the supernatural, the deeper God empowers me.
+Displaying_Gods_authority_Miracles_1 = He visto tantos milagros en mi vida que no les quito credibilidad.
+Displaying_Gods_authority_Miracles_2 = Puedo recordar uno o más incidentes cuando Dios intervino literalmente.
+Displaying_Gods_authority_Miracles_3 = Otros han dicho que Dios me usa para cambiar sus vidas sobrenaturalmente.
+Displaying_Gods_authority_Miracles_4 = He visto a Dios interrumpir el flujo natural de mi vida a causa de mis oraciones.
+Displaying_Gods_authority_Miracles_5 = Entre mas me oriento hacia las cosas sobrenaturales, Dios me da mas poder
 
-Displaying_Gods_authority_Tongues_1 = The Holy Spirit speaks through me when I do not know what to say.
-Displaying_Gods_authority_Tongues_2 = When the Holy Spirit speaks through me I feel God's presence in me.
-Displaying_Gods_authority_Tongues_3 = Speaking in different tongues/languages never happened before salvation.
-Displaying_Gods_authority_Tongues_4 = I feel I have a prayer language that I do not understand at times.
-Displaying_Gods_authority_Tongues_5 = There is a freedom when I speak in languages that I normally do not have.
+Displaying_Gods_authority_Tongues_1 = El Espiritu Santo habla por mi cuando yo no tengo idea de que decir.
+Displaying_Gods_authority_Tongues_2 = Cuando el Espíritu Santo habla a través de mí siento la presencia de Dios en mí.
+Displaying_Gods_authority_Tongues_3 = Hablar diferentes lenguas (mensaje de Dios) nunca ocurrió antes de la salvación.
+Displaying_Gods_authority_Tongues_4 = Siento que tengo un lenguaje de oración que yo no entiendo a veces.
+Displaying_Gods_authority_Tongues_5 = Cuando hablo en la lengua sagrada (mensajes de Dios) siento una libertad que normalmente no tengo
 
 
 
