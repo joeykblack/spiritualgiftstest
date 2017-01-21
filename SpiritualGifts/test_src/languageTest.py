@@ -13,7 +13,7 @@ class Test(unittest.TestCase):
 
 
     def testLanguageSub(self):
-        en = loadLanguage("English")
+        en = loadLanguage("Spanish")
         print en['directions_page_title']
         print en['Romans_12']
         print en['romans_12']
@@ -21,10 +21,13 @@ class Test(unittest.TestCase):
         pass
     
     def testTemplating(self):
-        en = loadLanguage("English")
+        en = loadLanguage("Spanish")
+        s = Template('Intro: $introduction_title')
+        print s.safe_substitute(en)
         s = Template('Title: $directions_page_title')
+        print s.safe_substitute(en)
         s = Template('Question: $Displaying_Gods_love_Serving_Helps_1')
-        print s.substitute(en)
+        print s.safe_substitute(en)
 
 
 if __name__ == "__main__":

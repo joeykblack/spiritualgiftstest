@@ -21,8 +21,8 @@ def loadLanguage(language):
         config = ConfigParser()
         # config.optionxform = str # do not convert keys to lower case
         
-        with open("text/%s.txt" % language) as f:
-            config.readfp(io.BytesIO( '[text]\n' + f.read() ))
+        with io.open("text/%s.txt" % language,'r',encoding='utf8') as f:
+            config.readfp(io.BytesIO( '[text]\n' + f.read().encode('ascii', 'xmlcharrefreplace') ))
         
         text = CaseInsensitiveDict()
         
