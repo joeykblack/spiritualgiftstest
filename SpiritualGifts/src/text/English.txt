@@ -1,4 +1,4 @@
-directions_page_title = Directions
+﻿directions_page_title = Directions
 
 introduction_title = Your Gifting Index
 introduction_paragraph_1a = Every believer is gifted by God to serve others, not just themselves.  A complete listing of all the gifts can be found in the following scriptures:
@@ -359,7 +359,7 @@ Displaying_Gods_authority_category = Displaying God's authority
 Healings_gifting = Healings
 Miracles_gifting = Miraculous powers
 Distinguishing_of_spirits_gifting = Distinguishing between spirits
-Tongues_gifting = Speaking in different kinds of tongues/languages
+Tongues_gifting = Speaking in tongues/languages
 Interpreting_Tongues_gifting = Interpretation of tongues/languages
 Healings_definition = (1 Corinthians) iama - To cure, make physically and/or spiritually whole and remove errors (or sin, bringing about salvation).
 Miracles_definition = (1 Corinthians) dynamis - To have the power, resources or ability to do something strong or very significant as a sighn for salvation/increased faith.
