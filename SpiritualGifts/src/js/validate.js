@@ -58,6 +58,28 @@ function validate_form (thisform)
 			email.focus();
 			return false;
 		}
+		else if (validate_required(gender, "Please select a gender.")==false)
+		{
+			return false;
+		}
+		else if (validate_required(age, "Please select an age.")==false)
+		{
+			return false;
+		}
+		else if (validate_required(interest, "Please select an interest.")==false)
+		{
+			return false;
+		}
+		else if (validate_required(state, "Please select a state.")==false)
+		{
+			state.focus();
+			return false;
+		}
+		else if (validate_required(country, "Please select a country.")==false)
+		{
+			country.focus();
+			return false;
+		}
 		return true;
 	}
 }
