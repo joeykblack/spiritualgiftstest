@@ -1,4 +1,4 @@
-﻿directions_page_title = Directions
+directions_page_title = Directions
 
 introduction_title = Your Gifting Index
 introduction_paragraph_1a = Every believer is gifted by God to serve others, not just themselves.  A complete listing of all the gifts can be found in the following scriptures:
