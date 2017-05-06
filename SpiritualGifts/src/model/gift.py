@@ -9,3 +9,4 @@ class Gift():
     title = ''
     definition = ''
     url = ''
+    score = ''

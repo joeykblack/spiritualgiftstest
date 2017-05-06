@@ -11,3 +11,4 @@ class Category():
     titlepre = ''
     text = ''
     gifts = []
+    score = ''

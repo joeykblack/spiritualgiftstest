@@ -99,6 +99,7 @@ def buildCat(categoryTotals, giftingTotals):
         newcat.titlepre = '$gifting_title_' + str(i)
         i += 1
         newcat.text = narratives.getNarrative(cats[1], giftingTotals[cats[1]])
+        newcat.score = str(cats[0])
         newcat.gifts = []
         
         for gift in constants.gifting[cats[1]]:
@@ -107,6 +108,7 @@ def buildCat(categoryTotals, giftingTotals):
             newgift.title = '$' + gift + '_gifting'
             newgift.definition = '$' + gift + '_definition'
             newgift.url = graph.giftGraph(giftingTotals[cats[1]][gift], gift)
+            newgift.score = str(giftingTotals[cats[1]][gift])
             newcat.gifts.append(newgift)
         
         categories.append(newcat)
