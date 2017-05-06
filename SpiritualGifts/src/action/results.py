@@ -106,7 +106,7 @@ def buildCat(categoryTotals, giftingTotals):
             newgift = Gift()
             newgift.title = '$' + gift + '_gifting'
             newgift.definition = '$' + gift + '_definition'
-            newgift.url = graph.giftGraph(giftingTotals[cats[1]][gift])
+            newgift.url = graph.giftGraph(giftingTotals[cats[1]][gift], gift)
             newcat.gifts.append(newgift)
         
         categories.append(newcat)
