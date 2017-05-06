@@ -90,10 +90,10 @@ def giftGraph(score, gift):
     data += 'chxt=x&'
     data += 'chco=0000FF&'
     data += 'chg=20,0&'
-    data += 'chm=N*f1y*,000000,0,-1,11,,:10:&'
     data += 'chxl=0:|0|5|10|15|20|25&'
     data += 'chd=t1:'+str(score) + '|' + str(model.norms.Norm.all().filter('title =', gift).fetch(1)[0].average)
-    data += '&chm=H,FF7700,1,,3.0:22' # Horizontal line, red, second series (t1:1st|2nd), all points (default), 1.0 width:20px height
+    data += '&chm=N*f1y*,000000,0,-1,11,,:10:' # adds number to bar
+    data += '|H,FF7700,1,,3.0:22' # Horizontal line, red, second series (t1:1st|2nd), all points (default), 1.0 width:20px height
     
     return url(data)
 
